@@ -1,0 +1,1037 @@
+Chemical Name	Prediction
+Phenyl mercaptan	not_ligand
+2-Imidazolidinethione	not_ligand
+2(3H)-Benzothiazolethione	not_ligand
+Carbon sulfide ; Carbon disulfide	not_ligand
+Phosphorus pentasulfide	not_ligand
+Cadmium sulfide	not_ligand
+Nickel sulfide roasting (Fume & dust, as Ni)	not_ligand
+2,2′-Dibenzothiazyl disulfide ; 2,2′-Dithiobis(benzothiazole)	not_ligand
+Hydrogen sulfide	not_ligand
+Phenyl phosphine	not_ligand
+White phosphorus	not_ligand
+Phosphine	not_ligand
+Monosodium phosphate	not_ligand
+Lead oxide phosphonate (Pb3O2(HPO3))	not_ligand
+Hydrogen peroxide	not_ligand
+Tetrahydro-1,3,4,6-tetrakis(hydroxymethyl)imidazo[4,5-d]imidazole-2,5(1H,3H)-dione	not_ligand
+Hypochlorous acid	not_ligand
+2-Phenoxyethanol	not_ligand
+POLYETHYLENE GLYCOL	not_ligand
+Diethanolamine	not_ligand
+Ethylene chlorohydrin	not_ligand
+2-phenylethanol	not_ligand
+2-Furanmethanol ; Furfuryl alcohol	not_ligand
+Glycidol,2,3-Epoxy-1-propanol	not_ligand
+Benzyl Alcohol	not_ligand
+2-Propen-1-ol ; Allyl alcohol ; Vinylcarbinol	not_ligand
+Glycerin mist	ligand
+alphachloralose	not_ligand
+Pentaerythritol	not_ligand
+2-Bromo-2-nitro-1,3-propanediol ; Bronopol	not_ligand
+2-Propyn-1-ol ; Propargyl alcohol	not_ligand
+Catechol,Pyrocatechol	ligand
+[1,1'-Biphenyl]-2-ol ; o-Phenylphenol	not_ligand
+Benzyl salicylate	not_ligand
+Phenol ; Hydroxybenzene	not_ligand
+1,3-Benzenediol ; Resorcin ; Resorcinol	not_ligand
+2-Naphthol ; 2-Naphthalenol ; β-Naphthol	not_ligand
+1-pyrenol	ligand
+1,4-Benzenediol ; Hydroquinone	ligand
+Ortho-benzyl-para-chlorophenol; 4-chloro-2-(phenylmethyl) phenol	not_ligand
+9,9-Bis(4-hydroxyphenyl)fluorene	not_ligand
+5-Chloro-2-(2,4-dichlorophenoxy)phenol ; Triclosan	ligand
+5-chloro-2-(4-chlorphenoxy)phenol (DCPP)	ligand
+2,4,6-Trichlorophenol	not_ligand
+Pentachlorophenol(Inhalable fraction and vapor)	not_ligand
+2,4,6-Trinitrophenol ; Picric acid	not_ligand
+Coumatetralyl	not_ligand
+Flocoumafen	not_ligand
+Difenacoum	not_ligand
+Difethialone	not_ligand
+Brodifacoum	not_ligand
+Formic acid	not_ligand
+Sucrose	ligand
+1,3-Dichloro-2-propanol	not_ligand
+Bromadiolone	not_ligand
+2-Thioglycolic acid ; Thioglycolic acid ; Mercaptoacetic acid	not_ligand
+2,4-D (2,4-Dichloro phenoxyacetic acid) (Inhalable fraction)	not_ligand
+2,4,5-T(2,4,5-Trichlorophenoxy acetic acid)	ligand
+Nitrilo-2,2',2''-triacetic acid ; Nitrilotriacetic acid	not_ligand
+Chloroacetic acid	not_ligand
+Citric acid	not_ligand
+Bromoacetic acid	not_ligand
+Salicylicacid 	not_ligand
+Benzoic acid	ligand
+Trimellitic anhydride(Inhalable fraction and vapor)	not_ligand
+2-Propenoic acid ; Acrylic acid	not_ligand
+Oxalic acid	not_ligand
+Dichloro acetic acid	not_ligand
+Trichloroacetic acid	not_ligand
+Boric acid	not_ligand
+Orange lead	not_ligand
+N-Nitrosopyrrolidine	not_ligand
+Glutaraldehyde	not_ligand
+2-Furancarboxyaldehyde ; 2-Furaldehyde	not_ligand
+Coumarin	not_ligand
+Phthalic anhydride	not_ligand
+Maleic anhydride	not_ligand
+1,2-Benzisothiazol-3(2H)-one	not_ligand
+1,3,5-Tris(oxiranylmethyl)-1,3,5-triazine-2,4,6(1H,3H,5H)-trione	not_ligand
+β-Propiolactone	not_ligand
+Caprolactum(Dust)	not_ligand
+Cyclohexanone	not_ligand
+1-Cyclohexyl-1H-pyrrole-2,5-dione	not_ligand
+p-Benzoquinone	not_ligand
+Strychnine	not_ligand
+Carbon dioxide	not_ligand
+2,2‘-Methylenediphenyl diisocyanate	not_ligand
+2,4‘-Methylenediphenyl diisocyanate	not_ligand
+Methylenediphenyl diisocyanate(MDI)	not_ligand
+1,1'-Methylenebis[4-isocyanatocyclohexane]	not_ligand
+Cinnamaldehyde / 3-phenyl-propen-2-al	not_ligand
+Benzoyl peroxide	not_ligand
+Benzyl benzoate	not_ligand
+Diboron trioxide	not_ligand
+Zinc oxide	ligand
+Vanadium pentoxide(Respirable fraction or fume)(Inhalable fraction)	not_ligand
+Titanium Dioxide	not_ligand
+Silicon Dioxide	not_ligand
+1,2-Oxathiolane, 2,2-dioxide ; 1,3-Propanesultone	not_ligand
+Sulfur dioxide	not_ligand
+Lead dioxide	not_ligand
+Lead monoxide	not_ligand
+Diphosphorus pentaoxide	not_ligand
+Triphenyl phosphate	ligand
+Osmium tetroxide, as Os	not_ligand
+Nickel dioxide	not_ligand
+Nickel monoxide	not_ligand
+Magnesium oxide(Inhalable fraction)	not_ligand
+Copper monoxide	not_ligand
+Chromium trioxide	not_ligand
+Cobalt monooxide	not_ligand
+Cobalt carbonyl, as Co	not_ligand
+Cerium Oxide and Cerium Compounds	not_ligand
+Cadimium oxide	not_ligand
+Calcium oxide/lime/burnt lime/quicklime	not_ligand
+Zeolites	not_ligand
+Emery	not_ligand
+Cyhexatin	not_ligand
+Copper hydroxide	not_ligand
+Cadimium hydroxide	not_ligand
+Fuming sulphuric acid	not_ligand
+Sulfuric acid	not_ligand
+Chlorosulfuric acid	not_ligand
+Orthophosphoric acid	not_ligand
+Nitric acid ; Aqua fortis	not_ligand
+Chromic acid (H2CrO4)	not_ligand
+Dichromic acid	not_ligand
+Kaoline(Respirable fraction)	not_ligand
+Disodium tetraborate decahydrate	not_ligand
+Cobalt sulfate	not_ligand
+Nickel dinitrate	not_ligand
+Disodium tetraborate pentahydrate	not_ligand
+Silicic acid, sodium salt; Sodium silicate	not_ligand
+Copper(II) sulfate pentahydrate	not_ligand
+Pentalead tetraoxide sulfate	not_ligand
+Disodium octaborate tetrahydrate	not_ligand
+Ethylenediaminetetraacetate, trisodium; Trisodium EDTA	not_ligand
+Nickel dihydroxide	not_ligand
+Chromyl chloride	not_ligand
+Gypsum	not_ligand
+Iron oxide, as Fe,	not_ligand
+Cetylpyridinium chloride monohydrate	not_ligand
+Plaster of Paris	not_ligand
+Diquat	not_ligand
+Triphenyl phosphite	ligand
+Phenyl ether(Vapor)	not_ligand
+Tributyltin Oxide	ligand
+Diphenoxarsin-10-yl oxide	not_ligand
+Hydroxylamine	not_ligand
+Hydrazine	not_ligand
+Ethanolamine ,2-Aminoethanol	not_ligand
+3,6,9,12-Tetraazatetradecane-1,14-diamine	not_ligand
+Diethylene triamine	not_ligand
+Cyanogen	not_ligand
+m-Xylene-α, α´-diamine	not_ligand
+N-cyclopropyl-1,3,5-triazine-2,4,6-triamine (Cyromazine)	not_ligand
+fipronil	not_ligand
+2-Aminopyridine	not_ligand
+1,2-Benzenediamine ; o-Phenylenediamine	not_ligand
+Aniline	not_ligand
+α-Naphthyl amine	not_ligand
+1,3-Benzenediamine ; m-Phenylenediamine	not_ligand
+β-Naphthylamine	not_ligand
+4,4'-Oxybisbenzenamine	not_ligand
+1,4-Benzenediamine ; p-Phenylenediamine	not_ligand
+4,4'-Methylenedianiline	not_ligand
+3,3'-Dichloro-4,4'-diaminodiphenylmethane	not_ligand
+3,3'-Dihydroxybenzidine	not_ligand
+3,3'-Dichloro-(1,1'-biphenyl)-4,4'-diamine	not_ligand
+4-Aminodiphenyl	not_ligand
+Benzidine	not_ligand
+p-Nitroaniline	not_ligand
+Picloram	not_ligand
+1H-1,2,4-Triazol-3-amine ; 3-Amino-1H-1,2,4-triazole ; Amitrole	not_ligand
+Formamide	not_ligand
+1,1'-Iminodi(octamethylene)diguanidine	not_ligand
+α-Naphthylthiourea(ANTU)	not_ligand
+2-Propenamide ; Acrylamide	not_ligand
+Cyanamide	not_ligand
+Phenothiazine	not_ligand
+Nitric monoxide	not_ligand
+Ammonium Sulfate	not_ligand
+1,2-Diphenylhydrazine	not_ligand
+N-Phenylbenzenamine ; Diphenylamine	not_ligand
+N-Phenyl-1-naphthalenamine	not_ligand
+N-Phenyl-β-naphthyl amine	not_ligand
+Nitrogen	not_ligand
+m-Phthalodinitrile(Inhalable fraction and vapor)	not_ligand
+Ammonia	not_ligand
+Polyvinylpyrrolidone iodine	not_ligand
+Iodine	not_ligand
+Iodoform	not_ligand
+Oxygen difluoride	not_ligand
+Nitrogen trifluoride	not_ligand
+Fluorine	not_ligand
+Norflurane	not_ligand
+diflubenzuron	not_ligand
+Fluquinconazole	not_ligand
+Fludioxonil	not_ligand
+Chlorodifluoromethane	not_ligand
+1-(3,5-dichloro-4-(1,1,2,2-tetrafluoroethoxy)phenyl)-3-(2,6-difluorobenzoyl) urea (Hexaflumuron)	not_ligand
+Carbonyl fluoride	not_ligand
+Hexafluoro-1,3-butadiene	not_ligand
+Tralopyril	not_ligand
+Chloropentafluoro ethane	not_ligand
+Trifluoroacetyl chloride	not_ligand
+Hexafluoroacetone	not_ligand
+Trifluoro bromomethane	not_ligand
+Dichlorodifluoromethane	not_ligand
+Dichlorotetrafluoroethane	not_ligand
+1,1,2-Trichloro-1,2,2-trifluoroethane	not_ligand
+1,1,1,2-Tetrachloro-2,2- difluoroethane	not_ligand
+Difluorodibromomethane	not_ligand
+Trichlorofluoromethane,Fluorotrichloromethane	not_ligand
+1,1,2,2-Tetrachloro-1,2-difluoroethane	not_ligand
+Boron trifluoride	not_ligand
+Tellurium hexafluoride, as Te	not_ligand
+Selenium hexafluoride, as Se	not_ligand
+Sulfur tetrafluoride	not_ligand
+Sulfur hexafluoride	not_ligand
+Sulfur pentafluoride	not_ligand
+sulfuryl fluoride	not_ligand
+Trisodium hexafluoroaluminate	not_ligand
+Metribuzin	not_ligand
+Methanethiol,Methyl mercaptan	not_ligand
+Trimethyl phosphite	not_ligand
+Linuron ; Afalon	not_ligand
+Dimethoxymethane,Methylal	not_ligand
+1,1'-Oxybis(2-methoxyethane) ; Diglyme	not_ligand
+2-(2-methoxyethoxy)ethanol	not_ligand
+Ethylene glycol methyl ether acetate	not_ligand
+Ethylene glycol dimethyl ether	not_ligand
+2-Methoxyethanol ; Methyl Cellosolve	not_ligand
+Chloromethyl methyl ether	ligand
+Propylene glycol monomethyl ether (PGME)	not_ligand
+Creosote, wood 	not_ligand
+o-Anisidine	not_ligand
+4-Methoxyphenol	not_ligand
+Methoxychlor	not_ligand
+Rotenone(Commercial)	not_ligand
+3,3'-Dimethoxy-[1,1'-biphenyl]-4,4'-diamine	not_ligand
+Eugenol, synthetic oil of cloves	ligand
+Methidathion ; Supracide	not_ligand
+Methyl formate	not_ligand
+Dipropylene glycol monomethyl ether (DPGME)	not_ligand
+3-Methoxybutyl chloroformate	not_ligand
+Methyl acetate	not_ligand
+S-Methoprene	not_ligand
+Methyl tert-butyl ether (MTBE)	not_ligand
+1H-Benzimidazol-2-ylcarbamic acid methyl ester	not_ligand
+[1,2-Phenylenebis(iminocarbonothioyl)]biscarbamic acid dimethyl ester	not_ligand
+Indoxacarb (enantiomeric reaction mass S:R 75:25)	not_ligand
+Chloroacetic acid methyl ester ; Methyl α-chloroacetate	not_ligand
+Methyl salicylate	not_ligand
+Dimethylphthalate	not_ligand
+Methyl 4-hydroxybenzoate	not_ligand
+2-Propenoic acid methyl ester ; Methyl acrylate	not_ligand
+margosa extract	not_ligand
+Clove oil; Oils, eugenia caryophyllata	not_ligand
+Methyl methacrylate	not_ligand
+Methyl 2-cyanoacrylate	not_ligand
+Dimethylfumarate(DMF)	not_ligand
+Mevinphos	not_ligand
+Methyl silicate	not_ligand
+Dicyclopentyldimethoxysilane	not_ligand
+Sulfuric acid dimethyl ester ; Dimethyl sulfate	not_ligand
+methyl(Inhalable fraction and vapor)	not_ligand
+Temephos	ligand
+Fenthion	ligand
+Methyl parathion(Inhalable fraction and vapor)	not_ligand
+Ronnel	not_ligand
+Phosphoric acid 2,2-dichloroethenyl dimethyl ester	ligand
+Dimethyl-1,2-dibromo-2, 2-dichloroethy1 phosphate	not_ligand
+Dicrotophos	not_ligand
+Trichlorofon ; Chlorofos	not_ligand
+Methanol ; Methyl alcohol	not_ligand
+Methyl hydrazine	not_ligand
+N-Methylbenzenamine ; Methylaniline	not_ligand
+N-Methyl formamide ; Monomethylformamide	not_ligand
+Poly(2-hydroxy propyl dimethyl ammonium chloride)	not_ligand
+Propoxur	not_ligand
+Bendiocarb	not_ligand
+Carbaryl	not_ligand
+Carbofuran ; Furadan	not_ligand
+Methomyl ; Lannate	not_ligand
+Monocrotophos(Inhalable fraction and vapor)	not_ligand
+Dimethylamine	not_ligand
+5-Chloro-2-methyl-3(2H)-isothiazolone, mixt. with 2-methyl-3(2H)-isothiazolone	not_ligand
+Tetrahydro-3,5-dimethyl-1,3,5-thiadia­zine-2-thione (Dazomet)	not_ligand
+thiamethoxam	not_ligand
+1-Methyl-2-pyrrolidinone ; N-Methylpyrrolidone	not_ligand
+Nicotine	not_ligand
+Methyl isocyanate	not_ligand
+(E)-1-(2-Chloro-1,3-thiazol-5-ylmethyl)-3- methyl-2-nitroguanidine (Clothianidin)	not_ligand
+Dinotefuran	not_ligand
+Crufomate	not_ligand
+Tetryl	not_ligand
+N-Nitrosodimethylamine	not_ligand
+1,1-Dimethylhydrazine	not_ligand
+N,N-Dimethylaniline ; N,N-Dimethylbenzenamine	not_ligand
+Bis[[4-[4-(dimethylamino)benzhydrylidene]cyclohexa-2,5-dien-1-ylidene]dimethylammonium] oxalate, dioxalate	not_ligand
+N,N,4-Trimethylbenzenamine ; Dimethyl-p-toludine	not_ligand
+N,N-Dimethylformamide ; Dimethylformamide	not_ligand
+Dimethyl carbamoylchloride	not_ligand
+N,N-Dimethylacetamide	not_ligand
+Tetramethylthiuram disulfide ; Thiram	not_ligand
+Fenothiocarb	not_ligand
+N'-(3,4-Dichlorophenyl)-N,N-dimethyl urea	not_ligand
+N,N-Dimethylmethanamine ; Trimethylamine	not_ligand
+Dimethylaminosulfonyl chloride	not_ligand
+Dichlofluanid	not_ligand
+Tolylfluanid 	not_ligand
+Hexamethyl phosphoramide	not_ligand
+Methylamine ; Methanamine ; Monomethylamine	not_ligand
+Disulfur dichloride	not_ligand
+Perchloromethyl mercaptan	not_ligand
+Phosphorus trichloride	not_ligand
+1,3,5-Trichloro-1,3,5-triazine-2,4,6(1H,3H,5H)-trione	not_ligand
+Bis(chloromethyl)ether (BCME)	not_ligand
+Chlorine	not_ligand
+Bis(chloroethyl)ether (BCEE)	not_ligand
+Tri(2-chloroethyl)phosphate	not_ligand
+Methylene chloride ; Dichloromethane	not_ligand
+Dichloroacetylene	not_ligand
+1-Chloro-2,3-epoxypropane ; Epichlorohydrin	not_ligand
+(Chloromethyl)benzene ; Benzyl chloride	not_ligand
+2-Chloro-5-(chloromethyl)pyridine	not_ligand
+Toxaphene	not_ligand
+Chloroacetaldehyde	not_ligand
+3-Chloro-1-propene ; Allyl chloride ; Chlorallylene	not_ligand
+1,1,2-Trichloroethane 	not_ligand
+1,2,3-Trichloropropane	not_ligand
+Chloroacetyl chloride	not_ligand
+1,1,1,2-Tetrachloroethane	not_ligand
+1,2-Dibromo-3-chloropropane (DBCP)	not_ligand
+2-Chloroacetophenone	not_ligand
+Bromochloromethane,Chlorobromomethane	not_ligand
+2-Chloropyridine	not_ligand
+1,2-Dichlorobenzene ; o-Dichlorobenzene	not_ligand
+o-Chlorobenzylidene malononitrile	not_ligand
+o-Chlorostyrene	not_ligand
+Monochlorobenzene	not_ligand
+Nitrapyrin	not_ligand
+Chlorodiphenyl(54% Chlorine)	not_ligand
+Thiacloprid	not_ligand
+1,4-Dichlorobenzene ; p-Dichlorobenzene	not_ligand
+1,2,4-Trichlorobenzene	not_ligand
+p,p'-Dichlorodiphenyltrichloroethane (DDT)	not_ligand
+Chlorophacinone	ligand
+Chlorodiphenyl(42% Chlorine)	not_ligand
+Hexachlorodibenzo-p-dioxin (HxCDD), mixture of 1,2,3,6,7,8-HxCDD and 1,2,3,7,8,9-HxCDD	not_ligand
+Chlordane	not_ligand
+Chlorinated diphenyloxide	not_ligand
+Polychlorinated biphenyls (PCBs)	not_ligand
+Heptachlor epoxide	not_ligand
+Heptachlor	not_ligand
+Octachloronaphthalene	not_ligand
+4,5,6,7-Tetrachloro-1,3-isobenzofurandione	not_ligand
+technical Hexachlorocyclohexane (t-HCH)	not_ligand
+2,4,5,6-Tetrachloro-1,3-benzenedicarbonitrile	ligand
+Endosulfan(Inhalable fraction and vapor)	ligand
+Endrin	not_ligand
+Aldrin	not_ligand
+1,2,3,4,5,5-Hexachloro-1,3-cyclopentadiene	not_ligand
+Ethylene trichloride ; Trichloroethylene ; Trichloroethene	not_ligand
+Vinyl chloride	not_ligand
+1,3-Dichloropropene	not_ligand
+1-Chloro-2,3-epoxypropane ; Epichlorohydrin	not_ligand
+1-Chloro-2,3-epoxypropane ; Epichlorohydrin	not_ligand
+1,3-Dichloropropene	not_ligand
+Trichloromethane ; Chloroform	not_ligand
+1,1,2,2-Tetrachloroethane	not_ligand
+Captafol	not_ligand
+Phosgene	not_ligand
+Tetrachloroethene ; Tetrachloroethylene	ligand
+Hexachlorobutadiene	not_ligand
+1,1-Dichloroethene 	not_ligand
+N-(trichloromethylthio)phthalimide (Folpet)	not_ligand
+Captan	not_ligand
+Carbon tetrachloride ; Tetrachloromethane	not_ligand
+(Trichloromethyl)benzene ; α,α,α-Trichlorotoluene	not_ligand
+Hexachloroethane	not_ligand
+Benzyl chloroformate	not_ligand
+Benzoyl chloride	not_ligand
+2-Chloro-1,3-butadiene	not_ligand
+Cyanogen chloride	not_ligand
+Acetylene dichloride	not_ligand
+Tin tetrachloride	not_ligand
+Thionyl chloride	not_ligand
+Phosphoryl trichloride	not_ligand
+Phosphorus pentachloride	not_ligand
+Methyl iodide	not_ligand
+Methyl demeton	not_ligand
+Ethanethiol,Ethyl mercaptan	not_ligand
+Pentaborane	not_ligand
+4-bromo-2-(4-chlorophenyl)-1-ethoxy­ methyl-5-trifluoromethylpyrrole-3-carbonitrile (Chlorfenapyr)	not_ligand
+Ethyleneglycol monoethyl ether acetate	not_ligand
+Ethylene glycol monoethyl ether	not_ligand
+3-Ethoxy-1-propylamine	not_ligand
+Ethyl ether,Diethyl ether	not_ligand
+etofenprox	not_ligand
+Ethyl formate	not_ligand
+Ethyl carbamate	not_ligand
+Acetic acid ethyl ester ; Ethyl acetate	not_ligand
+Fenoxycarb	not_ligand
+Malathion(Inhalable fraction and vapor)	not_ligand
+Ethyl bromoacetate	not_ligand
+Diethyl phthalate	not_ligand
+Ethyl acrylate	not_ligand
+Ethyl silicate	not_ligand
+[3-(2,3-Epoxypropoxy)propyl]diethoxymethylsilane	not_ligand
+Sulfuric acid diethyl ester ; Diethyl sulfate	not_ligand
+Phorate	not_ligand
+Ethion	not_ligand
+Disulfoton(Inhalable fraction and vapor)	not_ligand
+Dioxathion	not_ligand
+O,O-Diethyl-O-(3,5,6-trichloro-2-pyridyl)phosphorothioate	not_ligand
+Fensulfothion(Inhalable fraction and vapor)	not_ligand
+Parathion(Inhalable fraction and vapor)	not_ligand
+Dimpylate	not_ligand
+Sulfotep,TEDP	not_ligand
+EPN(Inhalable fraction)	not_ligand
+Fonofos(Inhalable fraction and vapor)	not_ligand
+Demeton	not_ligand
+bromfenvinfos; 2-bromo-1-(2,4-dichlorophenyl)vinyl diethyl phosphate	not_ligand
+Tetraethyl pyrophosphate (TEPP) (Inhalable fraction and vapor)	not_ligand
+Fenamiphos(Inhalable fraction and vapor)	ligand
+Ethanol	not_ligand
+Diethylamine	not_ligand
+Atrazine	not_ligand
+N-Ethylmorpholine	not_ligand
+N-[2-[(4-Amino-3-methylphenyl)ethylamino]ethyl]methanesulfonamide sulfate (2:3)	not_ligand
+N-Nitrosodiethylamine	not_ligand
+2-Diethylamino ethanol	not_ligand
+N,N-Diethylethanamine	not_ligand
+N,N-Diethylbenzenamine ; N,N-Diethylaniline	not_ligand
+N,N-Diethyl-m-toluidine	ligand
+Bis(diethylthiocarbamoyl) disulfide ; Disulfiram ; Cronetal	not_ligand
+N,N-diethyl-m-toluamide	ligand
+Ethyl amine	not_ligand
+Chloromethane	not_ligand
+Allylpropyl disulfide	not_ligand
+Sulprofos	not_ligand
+n-Propyl acetate	not_ligand
+n-Propyl nitrate	not_ligand
+n-Propyl alcohol	not_ligand
+Paraffin wax fume	not_ligand
+Chloroethane ; Ethyl chloride	not_ligand
+Butanethiol	ligand
+Dibutyl phosphate(Inhalable fraction and vapor)	not_ligand
+2-(2-butoxyethoxy)ethanol	not_ligand
+Ethyleneglycol monobutyl etheracetate	not_ligand
+2-Butoxyethanol	not_ligand
+(Butoxymethyl)oxirane	not_ligand
+1-Butoxy-2-propanol	not_ligand
+n-Butyl acetate	not_ligand
+Furathiocarb	not_ligand
+1,2-Benzenedicarboxylic acid dibutyl ester	not_ligand
+1,2-Benzenedicarboxylic acid butyl phenylmethyl ester	not_ligand
+n-Butyl acrylate	not_ligand
+n-Butyl lactate	not_ligand
+Tributyl phosphatee (Inhalable fraction and vapor)	not_ligand
+n-Butyl alcohol(1-Butanol)	not_ligand
+N-Butyl-1-butanamine ; n-Dibutylamine	not_ligand
+3-Iodo-2-propyl butyl carbamate	not_ligand
+Benomyl	not_ligand
+PHMG phosphate	not_ligand
+2-N-Dibutylaminoethanol	not_ligand
+N-Nitroso-di-n-butylamine	not_ligand
+N,N-Dibutyl-1-butanamine ; Tributylamine	not_ligand
+Ethyl butylacetylaminopropionate; 3-[N-n-Butyl-N-acetyl]aminopropionic acid ethyl ester	not_ligand
+1-Butanamine ; n-Butylamine	not_ligand
+n-Amyl acetate	not_ligand
+Di-n-octyl phthalate	not_ligand
+2-Octyl-3(2H)-isothiazolone	ligand
+4,5-Dichloro-2-octylisothiazol-3(2H)-one (4,5-Dichloro-2-octyl-2H-isothiazol-3-one (DCOIT))	not_ligand
+D-Glucose, decyl octyl ethers, oligomeric	ligand
+2-Methyl-2-propenoic acid dodecyl ester	ligand
+dimethyl(pentadecyl)amine oxide; Amines, C12-18-alkyldimethyl,N-oxides	not_ligand
+Benzyl-dimethyl-tetradecylazanium;1,1-dioxo-1,2-benzothiazol-3-olate	not_ligand
+Isopropyl myristate	not_ligand
+Cis-9-tricosene; Cis-tricos-9-ene	not_ligand
+Amines, C10-16-alkyldimethyl, N-oxides	not_ligand
+Lauric acid; Dodecanoic acid	ligand
+α-(Nonylphenyl)-ω-hydroxypoly(oxy-1,2-ethanediyl)	not_ligand
+Cadmium bis(o-nonylphenolate)	not_ligand
+Decanoic acid	ligand
+Undecan-2-one; Methyl-nonyl-ketone	not_ligand
+4-Octylphenol	not_ligand
+Nonanoic acid; pelargonic acid	ligand
+Nonane	ligand
+Oleic acid	ligand
+Dicapryl/dicaprylyl dimonium chloride	ligand
+Octanoic acid	ligand
+Octaneperoxoic acid	not_ligand
+Octane	ligand
+Castor oil	ligand
+Heptane	ligand
+2-Heptanone	not_ligand
+n-Hexane	ligand
+n-Valeraldehyde	not_ligand
+Dioctyl phthalate,Di(2-ethylhexyl)phthalate	not_ligand
+2-Ethylhexanoic acid zinc salt, basic	not_ligand
+2-Hexanone	not_ligand
+Ethyl butyl ketone,3-Heptanone	not_ligand
+Pentane	not_ligand
+Propiconazole	not_ligand
+Dibutyltin dichloride	not_ligand
+2-ethyl hexanediol	not_ligand
+sec-Amyl acetate	not_ligand
+Glycidyl butyrate ; Butanoic acid, oxiranylmethyl ester	not_ligand
+Glycidyl butyrate ; Butanoic acid, oxiranylmethyl ester	not_ligand
+Dipropyl ketone	not_ligand
+2-Pentanone	not_ligand
+Butane	not_ligand
+1-Bromopropane	not_ligand
+1,2-Epoxybutane (EBU)	not_ligand
+Ethylbenzene	not_ligand
+Spinosad	not_ligand
+2,2'-Methylenebis(4-ethyl-6-tert-butylphenol; 2,2'-Methylenebis[6-(1,1-dimethylethyl)-4-ethylphenol]	not_ligand
+2,4-Diamino-3,5-diethyltoluene	not_ligand
+ar,ar-Diethyl-ar-methylbenzenediamine	not_ligand
+Propionaldehyde	not_ligand
+1-Nitropropane	not_ligand
+Dipropylene glycol 	not_ligand
+Propionic acid	not_ligand
+1-Chloro-1-nitropropane	not_ligand
+2-Benzyl-2-dimethylamino-1-(4-morpholino-phenyl)-1-butanone	not_ligand
+sec-Butyl acetate	not_ligand
+sec-Butyl alcohol(2-Butanol)	not_ligand
+Bromacil	not_ligand
+5-Methyl-3-heptanone,Ethyl amyl ketone	not_ligand
+o-sec-Butylphenol	not_ligand
+2-sec-Butyl-4,6-dinitrophenol	not_ligand
+Methyl ethyl ketone ; MEK, 2-Butanone	not_ligand
+Abamectin	not_ligand
+2-Butanone peroxide	not_ligand
+di-tert-amyl peroxide	not_ligand
+4-(1,1-Dimethylpropyl)phenol ; 4-tert-Amylphenol	not_ligand
+Diethyl ketone	not_ligand
+Ethyl bromide	not_ligand
+1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta[g]-2-benzopyran	not_ligand
+Difenoconazole	not_ligand
+Methyl oxirane ; Propylene oxide	not_ligand
+Propylene imine	not_ligand
+3,3'-Methylenebis(5-methyloxazolidine)	not_ligand
+Triorthocresyl phosphate	not_ligand
+o-Cresol; 2-Methylphenol	not_ligand
+2-Methylbenzenamine ; o-Toluidine ; 2-Aminotoluene	not_ligand
+o-Chlorotoluene	not_ligand
+o-Xylene ; 1,2-Dimethylbenzene	not_ligand
+o-Methylcyclohexanone	not_ligand
+1-Methyl-2-nitrobenzene ; o-Nitrotoluene	not_ligand
+Toluene	not_ligand
+m-Cresol ; 3-Methylphenol	not_ligand
+3-Methyl-1,2-benzenediamine ; Toluene-2,3-diamine	ligand
+Dimethylaminobenzene(mixed isomers, Inhalabable fraction and vapor)	not_ligand
+m-Toluidine	not_ligand
+Vinyl toluene	not_ligand
+2,6-Xylenol ; 2,6-Dimethylphenol	not_ligand
+1,2,3-Trimethylbenzene	not_ligand
+Xylene ; Dimethylbenzene	ligand
+Cresol ; Methylphenol	not_ligand
+2,4-Dimethylphenol ; 2,4-Xylenol	ligand
+4-Methyl-1,3-benzenediamine	not_ligand
+4-Methylbenzenamine ; p-Toluidine ; 4-Aminotoluene	ligand
+Toluene-3,4-diamine	not_ligand
+2,4-Diisocyanatotoluene ; 2,4-Toluene diisocyanate ; 2,4-TDI	not_ligand
+Methyldinitrobenzene ; Dinitrotoluene	not_ligand
+p-tert-Butyltoluene	not_ligand
+1-Methyl-4-nitrobenzene ; p-Nitrotoluene	not_ligand
+p-Xylene ; 1,4-Dimethylbenzene	not_ligand
+2,5-Dimethylphenol ; 2,5-Xylenol	not_ligand
+1,2,4-Trimethylbenzene	not_ligand
+Chlorocresol	not_ligand
+4-chloro-3,5-dimethlyphenol	not_ligand
+4,4'-Thiobis(6-tert-butyl-m-cresol)	not_ligand
+3,3'-Dimethyl-(1,1'-biphenyl)-4,4'-diamine	not_ligand
+Dinitro-o-cresol	not_ligand
+3,5-Xylenol ; 3,5-Dimethylphenol	not_ligand
+1,3,5-Trimethylbenzene	ligand
+2,6-di-tert-butyl-p-cresol	not_ligand
+Chloroxylenol	not_ligand
+2-Methyl-1,3-benzenediamine	not_ligand
+Bifenthrin	not_ligand
+1,3-Diisocyanato-2-methylbenzene	not_ligand
+3,5-Dinitro-o-toluamide	not_ligand
+2,4,6-Trinitrotoluene(TNT)	not_ligand
+Isophorone	not_ligand
+3(or 4)-Methylbenzene-1,2-diamine	ligand
+Clopidol	not_ligand
+Pyrethrins 	not_ligand
+Tetrakis(1,2,2,6,6-pentamethyl-4-piperidyl) 1,2,3,4-butanetetracarboxylate	not_ligand
+Oil of eucalyptus	ligand
+1,3-Dichloro-5, 5-dimethyl hydantoin	not_ligand
+3-Isocyanatomethyl-3,5,5-trimethylcyclohexylisocyanate	not_ligand
+Camphor/1,7,7-Trimethylbicyclo[2.2.1]heptane-2-one	not_ligand
+α-Cyano-3-phenoxybenzyl 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate	not_ligand
+.alpha.-cyano-4-fluoro-3-phenoxybenzyl3-(2,2-dichlorovinyl)-2,2-dimethylcyclo­propanecarboxylate (Cyfluthrin)	ligand
+Transfluthrin; 2,3,5,6-tetrafluorobenzyl trans-2-(2,2-dichlorovinyl) -3,3-dimethylcyclopropanecarboxylate	not_ligand
+3-(2,2-Dichloroethenyl)-2,2-dimethyl-cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester	not_ligand
+[1.alpha.(S*),3.alpha.]-(.alpha.)-cyano-(3-phenoxyphenyl)methyl3-(2,2-dichlor-oethenyl)-2,2-dichlorovinyl)-2,2-dimethyl-cyclopropanecarboxylate (alpha-Cypermethrin)	not_ligand
+Decamethrin	not_ligand
+lambda-cyhalothrin	not_ligand
+Acetaldehyde ; Ethanal	not_ligand
+Metofluthrin	not_ligand
+Empenthrin/1-ethynyl-2-methylpent-2-enyl 2,2-dimethyl-3-(2- methylprop-1- enyl)cyclopropanecarboxylate	not_ligand
+Tetraethyl lead, as Pb	not_ligand
+Nitroethane	not_ligand
+1,1'-Oxydi-2-propanol	not_ligand
+2-Hydroxypropyl acrylate	not_ligand
+Propylene glycol(1,2-Propanediol)	not_ligand
+1,3-Butylene glycol	not_ligand
+2-Methyl-2,4-pentanediol	not_ligand
+Acetic acid	not_ligand
+1,1-Dichloro-1-fluoro ethane	not_ligand
+pyriproxyfen	not_ligand
+Aramite	not_ligand
+Propylene glycoldinitrate	not_ligand
+cis-4-[3-(p-tert-Butylphenyl)-2-methylpropyl]-2,6-dimethylmorpholine	not_ligand
+1,1-Dichloroethane,Ethylidene chloride	not_ligand
+1,2-Dichloropropane	not_ligand
+1,1,1-Trichloroethane	not_ligand
+2,2-Dichloropropionic acid	not_ligand
+1,1-Dichloro-1-nitroethane	not_ligand
+Citronella oil	not_ligand
+Cyproconazole	not_ligand
+Isopropoxyethanol	not_ligand
+Isopropyl glycidyl ether(IGE)	not_ligand
+Isopropyl ether	not_ligand
+Isopropyl acetate	not_ligand
+Propan-2-ol; Isopropyl alcohol	not_ligand
+N-Isopropyl aniline	not_ligand
+N-(1-Methylethyl)-N'-phenyl-1,4-benzenediamine	not_ligand
+Diisopropylamine	not_ligand
+Isopropylamine	not_ligand
+Isobutyl acetate	not_ligand
+1,2-Benzenedicarboxylic acid diisobutyl ester	not_ligand
+2-Methyl-2-propenoic acid 2-methylpropyl ester	not_ligand
+Isobutyl alcohol	not_ligand
+Isoamyl alcohol	not_ligand
+2-Propenoic acid isooctyl ester	not_ligand
+Isooctyl alcohol	not_ligand
+1,2-Benzenedicarboxylic acid di(C=8-10) branched alkyl esters, (C=9)-rich	not_ligand
+1,2-Benzenedicarboxylic acid di(C=9-11) branched alkyl esters, (C=10)-rich	not_ligand
+Branched 4-nonylphenol	not_ligand
+Methyl isoamyl ketone	not_ligand
+sec-Hexyl acetate	not_ligand
+Methyl amylalcohol	not_ligand
+N-(1,3-Dimethylbutyl)-N'-phenyl-1,4-benzenediamine	not_ligand
+Methyl isobutyl ketone (MIBK),Hexone	not_ligand
+Diisobutyl ketone	not_ligand
+Cumene	not_ligand
+4-isopropyl-3-methylphenol; 4-isopropyl-m-cresol	not_ligand
+Thymol	not_ligand
+hinokitiol/2-hydroxy-4-isopropyl-2,4,6-cycloheptatrien-1-one	not_ligand
+Methyl isopropyl ketone	not_ligand
+Butane	not_ligand
+2-Bromopropane	not_ligand
+Acetone	not_ligand
+Linalool	not_ligand
+GERANIOL	not_ligand
+Farnesol	*	not_ligand
+Mesityl oxide	not_ligand
+1R-trans phenothrin	not_ligand
+2-Nitropropane	not_ligand
+4,4'-(1-Methylethylidene)bisphenol polymer with (chloromethyl)oxirane	not_ligand
+4,4'-(1-Methylethylidene)bisphenol; Bisphenol A	not_ligand
+4,4'-(1-Methylethylidene)bis[2,6-dibromophenol]	ligand
+Bisphenol A bis(diphenyl phosphate)	not_ligand
+tert-Butyl alcohol	not_ligand
+2-(1,1,3,3-Tetramethylbutyl)phenol	not_ligand
+4-(1,1,3,3-Tetramethylbutyl)phenol ; p-tert-Octylphenol	not_ligand
+Tebuconazole 	not_ligand
+Pindone(Pival)	not_ligand
+tert-Butyl chromate, as CrO3	not_ligand
+Tetramethyl succinonitrile	not_ligand
+Peracetic acid	not_ligand
+Stoddard solvent	not_ligand
+Acetylsalicylic acid(Aspirin)	not_ligand
+Vinyl acetate	not_ligand
+Acetic anhydride	not_ligand
+tert-Butyl acetate	not_ligand
+Isobornyl acetate	not_ligand
+Warfarin	not_ligand
+Diaceton alcohol,4-Hydroxy-4-methyl-2-pentanone	not_ligand
+α-Methyl styrene	not_ligand
+p-Mentha-1,8-diene ; Dipentene ; Limonene	not_ligand
+Isoprene	not_ligand
+Methacrylic acid	ligand
+2-Methyl-2-propenoic acid 2-propenyl ester	ligand
+[1,1'-Biphenyl]-4-yl 2-methyl-2-propenoate	not_ligand
+Methacrylonitrile	not_ligand
+p-Mentha-1,8-diene ; Dipentene ; Limonene	not_ligand
+Acetonitrile ; Methyl cyanide ; Cyanomethane	not_ligand
+Methyl acetylene propadiene mixture(MAPP)	not_ligand
+Methyl acetylene	not_ligand
+Bromomethane	not_ligand
+(Phenoxymethyl)oxirane ; 2,3-Epoxypropyl phenyl ether	not_ligand
+2,2',2'',2'''-[ethane-1,2-diylidenetetrakis(p-phenyleneoxymethylene)]tetraoxirane	not_ligand
+Phenyloxirane ; Styrene oxide ; (Epoxyethyl)benzene	not_ligand
+Hexamethylenetetramine ; Hexamine	not_ligand
+1,4-Diethylene dioxide ; 1,4-Dioxane	not_ligand
+Morpholine	not_ligand
+Oxirane ; Ethylene oxide	not_ligand
+Tri(aziridin-1-yl)phosphine oxide ; Aphoxide	not_ligand
+Ethyleneimine	not_ligand
+1-Imidazolidneethanol	not_ligand
+N,N′-methylenebismorpholine (MBM)	not_ligand
+Tetrahydrofuran	not_ligand
+Pyridine	not_ligand
+Benzene	not_ligand
+Cyclopentane	not_ligand
+Benzo[b]pyridine ; Quinoline	not_ligand
+Naphthalene	not_ligand
+Chrysen	not_ligand
+Benzo[def]chrysene ; Benzo[a]pyrene	not_ligand
+Cyclohexene	not_ligand
+Triphenylphosphine	ligand
+N-Cyclohexyl-2-benzothiazolesulfenamide	not_ligand
+Dicyclohexylamine ; N-Cyclohexylcyclohexanamine	not_ligand
+Azobenzene	not_ligand
+Triphenyl amine	not_ligand
+1,1'-Biphenyl ; Diphenyl ; Phenylbenzene	not_ligand
+Terphenyls	not_ligand
+Vinyl cyclohexenedioxide	not_ligand
+Hydrogenated terphenyls	ligand
+5H-1,2-Oxathiole, 2,2-dioxide	not_ligand
+Indene	not_ligand
+Dicyclopentadiene	ligand
+Cyclopentadiene	not_ligand
+Diquat	not_ligand
+Pyridine-triphenylborane (1:1)	not_ligand
+Naphthenic acids lead salts	not_ligand
+3-(4-Bromophenyl)-9-phenyl-9H-carbazole	not_ligand
+4?Nitrobiphenyl	not_ligand
+Hexachloronaphthalene	not_ligand
+[3-Chloro-5-(trifluoromethyl)-2-pyridyl]amine ; ACTP	not_ligand
+Pentachloronaphthalene	not_ligand
+Paraffin oils	not_ligand
+Formaldehyde ; Formalin	not_ligand
+N-Vinyl-2-pyrrolidone(NVP)	not_ligand
+Allyl glycidyl ether(AGE)	not_ligand
+Diallyl phthalate	ligand
+Oils. mustard	not_ligand
+Divinyl benzene	not_ligand
+Vinyl benzene	not_ligand
+2-Propenal ; Acrolein	not_ligand
+1,3-Butadiene	not_ligand
+2-Hydroxyethyl acrylate	not_ligand
+4-(2-Oxiranylmethoxy)butyl 2-propenoate	not_ligand
+2-Propenenitrile ; Acrylonitrile ; Cyanoethylene	not_ligand
+Ketene	not_ligand
+Diazomethane	not_ligand
+Ethylidene norbornene	not_ligand
+Crotonaldehyde	not_ligand
+(Z,E)-tetradeca-9,12-dienyl acetate	not_ligand
+Methanesulfonic acid	not_ligand
+Methanesulfonyl chloride	not_ligand
+Tetramethyl lead, as Pb	not_ligand
+Paraquat(Respirable fraction)	not_ligand
+Nitromethane	not_ligand
+L-(+)-lactic acid	not_ligand
+Bis(2,3-epithiopropyl)disulfide	not_ligand
+Diglycidyl ether(DGE)	not_ligand
+2,3-Bis((2-mercaptoethyl)thio)-1-propanethiol	not_ligand
+2,2'-[1,2-Ethanediylbis(oxy)]bisethanamineguanidine monohydrochloride polymer with guanidine monohydrochloride	not_ligand
+Hexamethylene diisocyanate	not_ligand
+Starch	ligand
+Glycine, N-(hydroxymethyl)-, monosodium salt	not_ligand
+Trichloroacetonitrile	not_ligand
+Hydrogen cyanide	not_ligand
+1,2-Dibromoethane	not_ligand
+2-bromo-2-(bromomethyl)pentanedinitrile (DBDCB)	not_ligand
+Bromobenzene	not_ligand
+2-Bromonaphthalene	not_ligand
+1,2,5,6,9,10-Hexabromocyclododecane	not_ligand
+Hexabromocyclododecane	not_ligand
+1,1'-Oxybis[2,3,4,5,6-pentabromobenzene]	not_ligand
+Vinyl bromide	not_ligand
+Acetylene tetrabromide	not_ligand
+Bromoform	not_ligand
+Carbon tetrabromide	not_ligand
+α-Bromocinnamaldehyde	not_ligand
+Boron tribromide	not_ligand
+Diborane	not_ligand
+Zirconium and compounds, as Zr	not_ligand
+Zinc dimethyldithiocarbamate	not_ligand
+Bis(diethylcarbamodithioato-S,S')zinc	not_ligand
+Zinc dibutyldithiocarbamate	not_ligand
+Zinc stearate	not_ligand
+Trizinc bis(orthophosphate	not_ligand
+Zineb	not_ligand
+Boric acid zinc salt	not_ligand
+Zinc sulfate	not_ligand
+Zinc chromates, as Cr	not_ligand
+Zinc pyrithione	not_ligand
+Zinc cyanide	not_ligand
+Yttrium(Metal & compounds, as Y)	not_ligand
+Tungsten(Soluble compounds)	not_ligand
+Ferrovanadium dust	not_ligand
+Uranium(Soluble & insoluble compounds, as U)	not_ligand
+Thallium (Soluble compounds, as Tl)	not_ligand
+Bismuth telluride	not_ligand
+Tellurium & compounds, as Te	not_ligand
+Tantalum	not_ligand
+Strontium chromate	not_ligand
+Tin bis(tetrafluoroborate)	not_ligand
+Tin sulfate	not_ligand
+Tin oxide & Inorganic compounds except SnH4, as Sn	not_ligand
+Silicon tetrahydride	not_ligand
+Silane	not_ligand
+Cadimium selenide	not_ligand
+Hydrogen selenide, as Se	not_ligand
+Antimony triiodide	not_ligand
+Antimony & compounds, as Sb	not_ligand
+Stibine	not_ligand
+Cadmium zinc sulfide ((Cd,Zn)S)	not_ligand
+Rhodium, Metal	not_ligand
+Platinum(Soluble salts, as Pt)	not_ligand
+C.I. pigment yellow 034	not_ligand
+Lead arsenate, as Pb(AsO4)2	not_ligand
+Octadecanoic acid lead(2+) salt ; Lead stearate	not_ligand
+Lead 2-ethylhexanoate ; 2-Ethylhexanoic acid lead(2+) salt	not_ligand
+Leadcarbonate 	not_ligand
+Lead oxide sulfate (Pb4O3(SO4))	not_ligand
+Lead sulfate (PbSO4)	not_ligand
+Lead dinitrate	not_ligand
+Lead chromate (PbCrO4)	not_ligand
+Lead cyanamidate (PbNH2(CN))	not_ligand
+Dibasic lead stearate	not_ligand
+Lead	not_ligand
+Phosphorus	not_ligand
+Dicopper oxide	not_ligand
+Tetramethylammonium hydroxide	not_ligand
+Zinc tetraoxychromate	not_ligand
+Trilead bis(carbonate) dihydroxide	not_ligand
+Nickel hydroxide	not_ligand
+Basic Copper carbonate	not_ligand
+Calcium hydroxide	not_ligand
+Sodium hydroxide	not_ligand
+Calcium magnesium tetrahydroxide	ligand
+Potassium hydroxyoctaoxodizincatedichromate(1-)	not_ligand
+Potassium hydroxide	not_ligand
+Cesium hydroxide	not_ligand
+Mica(Respirable fraction)	not_ligand
+Perlite	not_ligand
+Aluminum oxide,α-Alumina	not_ligand
+Nitrogen dioxide	not_ligand
+Nitroglycol,Ethylene glycol dinitrate	not_ligand
+Nitroglycerin(NG)	not_ligand
+imidacloprid	not_ligand
+Cyclonite	not_ligand
+Dinitrobenzene(all isomers)	not_ligand
+Nitrobenzene	not_ligand
+Glycidyl 3-nitrobenzenesulfonate	not_ligand
+Glycidyl 3-nitrobenzenesulfonate	not_ligand
+p-Nitrochlorobenzene	not_ligand
+Chloropicrin,Trichloronitromethane	not_ligand
+Tetranitromethane	not_ligand
+Potassium permanganate	not_ligand
+C.I. Pigment yellow 36 ; Zinc chromate yellow	not_ligand
+Chlorine dioxide	not_ligand
+Lead oxide (PbO), lead-contg.	not_ligand
+Diantimony trioxide	not_ligand
+Diarsenic trioxide	not_ligand
+Calcium magnesium oxide	not_ligand
+Dipotassium heptadecaoxotetrazincate tetrachromate(2-)	ligand
+Nickel bis(sulfamidate)	not_ligand
+Nickel acetate ; Acetic acid nickel(2+) salt	not_ligand
+Nickel carbonate	not_ligand
+Nickel sulfate	not_ligand
+Trinickel disulfide	not_ligand
+Nickel carbonyl, as Ni	not_ligand
+Nickel(Soluble compounds, as Ni) (Inhalable fraction)	ligand
+Ammonium sulfamate	not_ligand
+Ammonium hydrogen sulphide	not_ligand
+Ammonium nitrite	not_ligand
+Ammonium nitrate	not_ligand
+Ammonium sulphide	not_ligand
+Ammonium dichromate	not_ligand
+Ammonium chromate	not_ligand
+Ammonium chloride fume	not_ligand
+Bis(hydroxylammonium) sulfate	not_ligand
+2-thiazol-4-yl-1H-benzoimidazole (Thiabendazole)	not_ligand
+Sodium hydroxyacetate; Sodium glycolate	not_ligand
+Sodium bicarbonate	not_ligand
+Sodium tetrafluoroborate(1-)	not_ligand
+Sodium dimethyldithiocarbamate	not_ligand
+1,3-Dichloro-1,3,5-triazine-2,4,6(1H,3H,5H)-trione sodium salt 	not_ligand
+Poly(oxy-1,2-ethanediyl), .alpha.-sulfo-.omega.-(dodecyloxy)-, sodium salt	ligand
+Sodium lauryl sulfate	not_ligand
+Dimethylbenzenesulfonic acid sodium salt; Sodium xylenesulfonate	not_ligand
+Acetic acid	not_ligand
+Sodium nitrite	not_ligand
+Sodium hypochlorite	not_ligand
+나트륨 펜타클로로페네이트	not_ligand
+Sodium fluoroacetate	not_ligand
+Sodium monochloroacetate ; Sodium chloroacetate	not_ligand
+Sesone	not_ligand
+Sodium bisulfite	not_ligand
+Sodium nitrate	not_ligand
+Sodium chlorite	not_ligand
+Sodium chlorate	not_ligand
+Ethylenediaminetetraacetate, disodium; Disodium EDTA	not_ligand
+C.I. direct red 028	not_ligand
+C.I. direct black 038	not_ligand
+Color index-Food Red 40; Allura Red AC; Disodium, 6-hydroxy-5-[(2-methoxy-5-methyl-4-sulfophenyl)azo]-2-naphthalene sulfonic acid	not_ligand
+Sodium carbonate	not_ligand
+Sodium metasilicate	not_ligand
+Sodium metabisulfite	not_ligand
+Sodium sulfate	not_ligand
+Sodium dichromate	not_ligand
+Nitrilotriacetic acid trisodium salt ; Trisodium nitrilotriacetate	not_ligand
+Ethylenediaminetetraacetate, tetrasodium; Tetrasodium EDTA	not_ligand
+Tetrasodium pyrophosphate	not_ligand
+Sodium tripolyphosphate	not_ligand
+Sodium azide	not_ligand
+Sodium cyanide	not_ligand
+Sodium bromide	not_ligand
+Sodium	not_ligand
+Molybdenum(Insoluble compounds)(Inhalable fraction)	not_ligand
+2-Methylcyclopentadienyl manganese tricarbonyl, as Mn	not_ligand
+Manganese cyclopentadienyl tricarbonyl, as Mn	not_ligand
+Manganese	not_ligand
+Magnesium silicofluoride ; Magnesium hexafluorosilicate	not_ligand
+Magnesite	not_ligand
+Soapstone	not_ligand
+Magnesium phosphide releasing phosphine	not_ligand
+1,1,1-Trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfon amide lithium salt	not_ligand
+Lithium hydride	not_ligand
+Lithium fluoride (LiF)	not_ligand
+Potassium tetrafluoroborate	not_ligand
+Nonylphenol	not_ligand
+Potassium (E,E)-hexa-2,4-dienoate (Potassium Sorbate)	not_ligand
+Potassium chlorate	not_ligand
+Dipotassium tetraiodomercurate	not_ligand
+Potassium dichromate (K2Cr2O7)	not_ligand
+Potassium chromate	not_ligand
+N,N-Bis(carboxymethyl)glycine, tripotassium salt	not_ligand
+Tetrapotassium pyrophosphate	not_ligand
+Tripotassium tetra(cyano-C)cuprate(3-)	not_ligand
+Potassium cyanide	not_ligand
+Potassium dicyanoaurate	not_ligand
+Potassium dicyanoargentate	not_ligand
+Potassium	ligand
+Indium & compounds, as In	not_ligand
+Tri-n-butyl methyl phosphonium iodide	not_ligand
+Mercury	not_ligand
+Hafnium	not_ligand
+Tetrafluoroboric acid	not_ligand
+Ammonium hydrogendifluoride	not_ligand
+3,3'-Dichloro(1,1'-biphenyl)-4,4'-diamine dihydrochloride	not_ligand
+3,3'-Dimethoxybenzidine dihydrochloride	not_ligand
+Piperazine dihydrochloride	not_ligand
+Hydrogen fluoride ; Hydrofluoric acid	not_ligand
+Hydroxylamine, hydrochloride	not_ligand
+Phenyl hydrazine	not_ligand
+N,N""'-1,6-Hexanediyl bis(N'-cyanoguanidine) polymer with 1,6-hexane diamine, hydrochloride	not_ligand
+C.I. basic orange 002	ligand
+2-Methyl-4-isothiazolin-3-one ; 2-Methyl-2H-isothiazol-3-one	not_ligand
+5-Chloro-2-methyl-4-isothiazolin-3-one	not_ligand
+2-Chloroethyldiethyl ammonium chloride	not_ligand
+Medetomidine	not_ligand
+Hydrogen chloride ; Hydrochloric acid	not_ligand
+Hydrogen bromide	not_ligand
+Germanium tetrahydride	not_ligand
+Ferbam(Respirable fraction)	not_ligand
+Dicyclopentadienyl iron	not_ligand
+Iron pentacarbonyl, as Fe	not_ligand
+Iron salts(Soluble, as Fe)	not_ligand
+Sodium monofluoride	not_ligand
+Potassium fluoride	not_ligand
+Nickel difluoride	not_ligand
+Copper sulfate	not_ligand
+2-Pyridinethiol-1-oxide, copper salt	not_ligand
+Copper nitrate	not_ligand
+Copper thiocyanate	not_ligand
+Copper cyanide	not_ligand
+Copper	not_ligand
+Chromium(VI)	not_ligand
+Chromite ore processing (Chromate), as Cr	not_ligand
+2-Ethylhexanoic acid cobalt(2+) salt ; Cobaltous octoate	not_ligand
+Cobalt acetate	not_ligand
+Nitric acid cobalt salt	not_ligand
+Cobalt hydrocarbonyl, as Co	ligand
+Cobalt and inorganic compounds	ligand
+Tributyltin chloride	not_ligand
+C.I. basic green 004	not_ligand
+N,N-Dimethyl-N-octadecyl-1-octadecanammonium chloride	not_ligand
+Benzyldimethyl-octadecyl ammonium chloride	not_ligand
+Cetyl pyridinium chloride	not_ligand
+N,N,N-Trimethyl-1-hexadecanaminium chloride	not_ligand
+Quaternary ammonium compounds, benzylalkyl(C=12-16)dimethyl, chlorides	not_ligand
+N-Dodecyl-N,N-dimethylbenzenemethanaminium chloride	not_ligand
+Didecyldimethylammonium chloride	not_ligand
+Quaternary ammonium compounds, benzyl-(C=8-18)-alkyldimethyl, chlorides	not_ligand
+2,3-Epoxypropyltrimethylammonium chloride	not_ligand
+Tetramethylammonium chloride	not_ligand
+Copper monochloride	not_ligand
+Zinc chloride	not_ligand
+Tin dichloride	not_ligand
+Nickel dichloride	not_ligand
+Antimony trichloride	not_ligand
+Octadecanoic acid cadmium salt ; Cadmium stearate	not_ligand
+cadmium dioleate	not_ligand
+Cadmium 2-ethylhexanoate	not_ligand
+Neodecanoic acid cadmium salt ; Cadmium neodecanoate	not_ligand
+p-tert-Butylbenzoic acid cadmium salt	not_ligand
+Benzoic acid cadmium salt	not_ligand
+Cadimium	not_ligand
+Antimony compound with cadmium (2:3)	not_ligand
+Calcium cyanamide	not_ligand
+Cadmium octanoate ; Cadmium di(octanoate)	not_ligand
+Calcium nitrite	not_ligand
+Calcium hypochlorite	not_ligand
+Calcium carbonate	not_ligand
+Calcium silicate	not_ligand
+Cyanides, as CN	not_ligand
+Silicon carbide	not_ligand
+Carbon monoxide	not_ligand
+Graphite (Natural＆ Synthetic, Except Graphite fibers, Respirable fraction)	not_ligand
+Hexadecyltrimethylammonium bromide	not_ligand
+Triphenylethylphosphonium bromide	not_ligand
+Diquat	not_ligand
+Bromine	ligand
+Beryllium and compounds	not_ligand
+Barium and soluble compounds	not_ligand
+Disodium tetraborate, anhydrous	not_ligand
+Decaborane	not_ligand
+Dimethylamine borane ; DMAB	not_ligand
+Arsine	not_ligand
+Aluminium phosphide releasing phosphine	not_ligand
+Aluminum(Soluble salts)	not_ligand
+Silver nitrate	not_ligand
+Silver cyanide	not_ligand

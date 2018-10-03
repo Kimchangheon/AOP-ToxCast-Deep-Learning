@@ -1,0 +1,54 @@
+Chemical Name	Prediction
+PHMG	not_ligand
+DDAC	not_ligand
+PGH	not_ligand
+MIT	not_ligand
+CMIT	not_ligand
+SDT	not_ligand
+Bleomycin	not_ligand
+Rotenone	not_ligand
+Disulfiram	ligand
+HCCPD	not_ligand
+Rosiglitazone	not_ligand
+Troglitazone	not_ligand
+SR 16832	not_ligand
+SB 525334	not_ligand
+SRI-011381 hydrochloride	not_ligand
+As(Sodium arsenite)	not_ligand
+Cd(Cadmium chloride)	not_ligand
+Lead(II) Iodide	not_ligand
+4-Nonylphenol	ligand
+DEHP	not_ligand
+BPA	not_ligand
+Formaldehyde	not_ligand
+Benzene	not_ligand
+o-Nitrotoluene	not_ligand
+o-Tolidine	not_ligand
+Toluene	not_ligand
+Hexahydrobenzene	not_ligand
+N,N-Dimethylaniline	not_ligand
+Ethyl acetate	not_ligand
+Benzyl butyl phthalate (BBP)	not_ligand
+Naphthalene	not_ligand
+N,N-Diethyl-m-toluidine	not_ligand
+Nitrobenzene	not_ligand
+Dimethyl-p-toluidine	not_ligand
+p-Nitrotoluene	not_ligand
+4-(1,1,3,3-Tetramethylbutyl)phenol	not_ligand
+Aniline	not_ligand
+Methylene chloride	not_ligand
+N,N-Diethylaniline	not_ligand
+Isobutyl methacrylate	not_ligand
+Methylaniline	not_ligand
+Dicyclohexylamine 	not_ligand
+Cyanoethylene	not_ligand
+Methacrylonitrile	not_ligand
+Triclosan	not_ligand
+BPB	not_ligand
+BPF	not_ligand
+BPE	not_ligand
+BPS	not_ligand
+Chloropyrifos	not_ligand
+Glutaral	not_ligand
+Valporic acid	not_ligand
+Phenobarbital	not_ligand

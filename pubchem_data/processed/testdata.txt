@@ -1,0 +1,1 @@
+﻿CAS Number	SMILES	Type100-00-5	[O-][N+](=O)c1ccc(Cl)cc1	100-01-6	Nc1ccc(cc1)[N+]([O-])=O

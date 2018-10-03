@@ -1,0 +1,54 @@
+﻿Chemical_Name	SMILES
+PHMG	CC(C)(C(=O)O)ON.Cl
+DDAC	CCCCCCCCCC[N+](C)(C)CCCCCCCCCC.[Cl-]
+PGH	C(C(=O)NO)OP(=O)(O)O
+MIT	CN1C(=O)C=CS1
+CMIT	CN1C(=O)C=C(S1)Cl
+SDT	C1(=O)[N-]C(=O)N(C(=O)N1Cl)Cl.[Na+]
+Bleomycin	CC1=C(N=C(N=C1N)C(CC(=O)N)NCC(C(=O)N)N)C(=O)NC(C(C2=CN=CN2)OC3C(C(C(C(O3)CO)O)O)OC4C(C(C(C(O4)CO)O)OC(=O)N)O)C(=O)NC(C)C(C(C)C(=O)NC(C(C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O
+Rotenone	CC(=C)C1CC2=C(O1)C=CC3=C2OC4COC5=CC(=C(C=C5C4C3=O)OC)OC
+Disulfiram	CCN(CC)C(=S)SSC(=S)N(CC)CC
+HCCPD	C1(=C(C(C(=C1Cl)Cl)(Cl)Cl)Cl)Cl
+Rosiglitazone	CN(CCOC1=CC=C(C=C1)CC2C(=O)NC(=O)S2)C3=CC=CC=N3
+Troglitazone	CC1=C(C(=C2CCC(OC2=C1C)(C)COC3=CC=C(C=C3)CC4C(=O)NC(=O)S4)C)O
+SR 16832	COC1=CC2=C(C=CN=C2C=C1)NC(=O)C3=C(C=CC(=C3)[N+](=O)[O-])Cl
+SB 525334	CC1=CC=CC(=N1)C2=C(N=C(N2)C(C)(C)C)C3=CC4=NC=CN=C4C=C3
+SRI-011381 hydrochloride	C1CCC(CC1)NC(=O)N(CC2CCNCC2)CC3=CC=CC=C3.Cl
+As(Sodium arsenite)	[O-][As]=O.[Na+]
+Cd(Cadmium chloride)	Cl[Cd]Cl
+Lead(II) Iodide	I[Pb]I
+4-Nonylphenol	CCCCCCCCCC1=CC=C(C=C1)O
+DEHP	CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC
+BPA	CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O
+Formaldehyde	C=O
+Benzene	C1=CC=CC=C1
+o-Nitrotoluene	CC1=CC=CC=C1[N+](=O)[O-]
+o-Tolidine	CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)C)N
+Toluene	CC1=CC=CC=C1
+Hexahydrobenzene	C1CCCCC1
+"N,N-Dimethylaniline"	CN(C)C1=CC=CC=C1
+Ethyl acetate	CCOC(=O)C
+Benzyl butyl phthalate (BBP)	CCCCOC(=O)C1=CC=CC=C1C(=O)OCC2=CC=CC=C2
+Naphthalene	C1=CC=C2C=CC=CC2=C1
+"N,N-Diethyl-m-toluidine"	CCN(CC)C1=CC=CC(=C1)C
+Nitrobenzene	C1=CC=C(C=C1)[N+](=O)[O-]
+Dimethyl-p-toluidine	CC1=CC=C(C=C1)N(C)C
+p-Nitrotoluene	CC1=CC=C(C=C1)[N+](=O)[O-]
+"4-(1,1,3,3-Tetramethylbutyl)phenol"	CC(C)(C)CC(C)(C)C1=CC=C(C=C1)O
+Aniline	C1=CC=C(C=C1)N
+Methylene chloride	C(Cl)Cl
+"N,N-Diethylaniline"	B.CCN(CC)C1=CC=CC=C1
+Isobutyl methacrylate	CC(C)COC(=O)C(=C)C
+Methylaniline	CNC1=CC=CC=C1
+Dicyclohexylamine 	C1CCC(CC1)NC2CCCCC2
+Cyanoethylene	C(C#N)Cl
+Methacrylonitrile	CC(=C)C#N
+Triclosan	C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl
+BPB	CCC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O
+BPF	C1=CC(=CC=C1CC2=CC=C(C=C2)O)O
+BPE	CC(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O
+BPS	C1=CC(=CC=C1O)S(=O)(=O)C2=CC=C(C=C2)O
+Chloropyrifos	CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl
+Glutaral	C(CC=O)CC=O
+Valporic acid	CCCC(CCC)C(=O)O
+Phenobarbital	CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2

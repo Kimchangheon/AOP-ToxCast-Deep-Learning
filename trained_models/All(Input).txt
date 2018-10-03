@@ -1,0 +1,1037 @@
+﻿Chemical_Name	SMILES	Type
+Phenyl mercaptan	Sc1ccccc1	
+2-Imidazolidinethione	S=C1NCCN1	
+2(3H)-Benzothiazolethione	S=C1Nc2ccccc2S1	
+Carbon sulfide ; Carbon disulfide	S=C=S	
+Phosphorus pentasulfide	S=[P]12S[P]3(=S)S[P](=S)(S1)S[P](=S)(S2)S3	
+Cadmium sulfide	S=[Cd]	
+"Nickel sulfide roasting (Fume & dust, as Ni)"	S.[Ni]	
+"2,2′-Dibenzothiazyl disulfide ; 2,2′-Dithiobis(benzothiazole)"	S(Sc1sc2ccccc2n1)c3sc4ccccc4n3	
+Hydrogen sulfide	S	
+Phenyl phosphine	Pc1ccccc1	
+White phosphorus	P12P3P1P23	
+Phosphine	P	
+Monosodium phosphate	OP(=O)(O)[O-].[Na+]	
+Lead oxide phosphonate (Pb3O2(HPO3))	OP([O-])[O-].O=[Pb].O=[Pb].[Pb+2]	
+Hydrogen peroxide	OO	
+"Tetrahydro-1,3,4,6-tetrakis(hydroxymethyl)imidazo[4,5-d]imidazole-2,5(1H,3H)-dione"	OCN1C2C(N(CO)C1=O)N(CO)C(=O)N2CO	
+Hypochlorous acid	OCl	
+2-Phenoxyethanol	OCCOc1ccccc1	
+POLYETHYLENE GLYCOL	OCCO	
+Diethanolamine	OCCNCCO	
+Ethylene chlorohydrin	OCCCl	
+2-phenylethanol	OCCc1ccccc1	
+2-Furanmethanol ; Furfuryl alcohol	OCc1occc1	
+"Glycidol,2,3-Epoxy-1-propanol"	OCC1CO1	
+Benzyl Alcohol	OCc1ccccc1	
+2-Propen-1-ol ; Allyl alcohol ; Vinylcarbinol	OCC=C	
+Glycerin mist	OCC(O)CO	
+alphachloralose	OCC(O)[C@H]1OC2O[C@@H](O[C@@H]2[C@H]1O)C(Cl)(Cl)Cl	
+Pentaerythritol	OCC(CO)(CO)CO	
+"2-Bromo-2-nitro-1,3-propanediol ; Bronopol"	OCC(Br)(CO)[N+]([O-])=O	
+2-Propyn-1-ol ; Propargyl alcohol	OCC#C	
+"Catechol,Pyrocatechol"	Oc1ccccc1O	
+"[1,1'-Biphenyl]-2-ol ; o-Phenylphenol"	Oc1ccccc1c2ccccc2	
+Benzyl salicylate	Oc1ccccc1C(=O)OCc2ccccc2	
+Phenol ; Hydroxybenzene	Oc1ccccc1	
+"1,3-Benzenediol ; Resorcin ; Resorcinol"	Oc1cccc(O)c1	
+2-Naphthol ; 2-Naphthalenol ; β-Naphthol	Oc1ccc2ccccc2c1	
+1-pyrenol	Oc1ccc2ccc3cccc4ccc1c2c34	
+"1,4-Benzenediol ; Hydroquinone"	Oc1ccc(O)cc1	
+Ortho-benzyl-para-chlorophenol; 4-chloro-2-(phenylmethyl) phenol	Oc1ccc(Cl)cc1Cc2ccccc2	
+"9,9-Bis(4-hydroxyphenyl)fluorene"	Oc1ccc(cc1)C2(c3ccc(O)cc3)c4ccccc4c5ccccc25	
+"5-Chloro-2-(2,4-dichlorophenoxy)phenol ; Triclosan"	Oc1cc(Cl)ccc1Oc2ccc(Cl)cc2Cl	
+5-chloro-2-(4-chlorphenoxy)phenol (DCPP)	Oc1cc(Cl)ccc1Oc2ccc(Cl)cc2	
+"2,4,6-Trichlorophenol"	Oc1c(Cl)cc(Cl)cc1Cl	
+Pentachlorophenol(Inhalable fraction and vapor)	Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl	
+"2,4,6-Trinitrophenol ; Picric acid"	Oc1c(cc(cc1[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O	
+Coumatetralyl	OC1=C(C2CCCc3ccccc23)C(=O)c4ccccc4O1	
+Flocoumafen	OC1=C(C2CC(Cc3ccccc23)c4ccc(OCc5ccc(cc5)C(F)(F)F)cc4)C(=O)c6ccccc6O1	
+Difenacoum	OC1=C(C2CC(Cc3ccccc23)c4ccc(cc4)c5ccccc5)C(=O)c6ccccc6O1	
+Difethialone	OC1=C(C2CC(Cc3ccccc23)c4ccc(cc4)c5ccc(Br)cc5)C(=O)c6ccccc6S1	
+Brodifacoum	OC1=C(C2CC(Cc3ccccc23)c4ccc(cc4)c5ccc(Br)cc5)C(=O)c6ccccc6O1	
+Formic acid	OC=O	
+Sucrose	OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O	
+"1,3-Dichloro-2-propanol"	OC(CCl)CCl	
+Bromadiolone	OC(CC(c1ccccc1)C2=C(O)Oc3ccccc3C2=O)c4ccc(cc4)c5ccc(Br)cc5	
+2-Thioglycolic acid ; Thioglycolic acid ; Mercaptoacetic acid	OC(=O)CS	
+"2,4-D (2,4-Dichloro phenoxyacetic acid) (Inhalable fraction)"	OC(=O)COc1ccc(Cl)cc1Cl	
+"2,4,5-T(2,4,5-Trichlorophenoxy acetic acid)"	OC(=O)COc1cc(Cl)c(Cl)cc1Cl	
+"Nitrilo-2,2',2''-triacetic acid ; Nitrilotriacetic acid"	OC(=O)CN(CC(O)=O)CC(O)=O	
+Chloroacetic acid	OC(=O)CCl	
+Citric acid	OC(=O)CC(O)(CC(O)=O)C(O)=O	
+Bromoacetic acid	OC(=O)CBr	
+Salicylicacid 	OC(=O)c1ccccc1O	
+Benzoic acid	OC(=O)c1ccccc1	
+Trimellitic anhydride(Inhalable fraction and vapor)	OC(=O)c1ccc2C(=O)OC(=O)c2c1	
+2-Propenoic acid ; Acrylic acid	OC(=O)C=C	
+Oxalic acid	OC(=O)C(O)=O	
+Dichloro acetic acid	OC(=O)C(Cl)Cl	
+Trichloroacetic acid	OC(=O)C(Cl)(Cl)Cl	
+Boric acid	OB(O)O	
+Orange lead	O1[Pb]O[Pb]2O[Pb]1O2	
+N-Nitrosopyrrolidine	O=NN1CCCC1	
+Glutaraldehyde	O=CCCCC=O	
+2-Furancarboxyaldehyde ; 2-Furaldehyde	O=Cc1occc1	
+Coumarin	O=C1Oc2ccccc2C=C1	
+Phthalic anhydride	O=C1OC(=O)c2ccccc12	
+Maleic anhydride	O=C1OC(=O)C=C1	
+"1,2-Benzisothiazol-3(2H)-one"	O=C1NSc2ccccc12	
+"1,3,5-Tris(oxiranylmethyl)-1,3,5-triazine-2,4,6(1H,3H,5H)-trione"	O=C1N(CC2CO2)C(=O)N(CC3CO3)C(=O)N1CC4CO4	
+β-Propiolactone	O=C1CCO1	
+Caprolactum(Dust)	O=C1CCCCCN1	
+Cyclohexanone	O=C1CCCCC1	
+"1-Cyclohexyl-1H-pyrrole-2,5-dione"	O=C1C=CC(=O)N1C2CCCCC2	
+p-Benzoquinone	O=C1C=CC(=O)C=C1	
+Strychnine	O=C1C[C@@H]2OCC=C3CN4CC[C@@]56[C@@H]4C[C@@H]3[C@@H]2[C@@H]5N1c7ccccc67	
+Carbon dioxide	O=C=O	
+"2,2‘-Methylenediphenyl diisocyanate"	O=C=Nc1ccccc1Cc2ccccc2N=C=O	
+"2,4‘-Methylenediphenyl diisocyanate"	O=C=Nc1ccc(Cc2ccccc2N=C=O)cc1	
+Methylenediphenyl diisocyanate(MDI)	O=C=Nc1ccc(Cc2ccc(cc2)N=C=O)cc1	
+"1,1'-Methylenebis[4-isocyanatocyclohexane]"	O=C=NC1CCC(CC1)CC2CCC(CC2)N=C=O	
+Cinnamaldehyde / 3-phenyl-propen-2-al	O=C/C=C/c1ccccc1	
+Benzoyl peroxide	O=C(OOC(=O)c1ccccc1)c2ccccc2	
+Benzyl benzoate	O=C(OCc1ccccc1)c2ccccc2	
+Diboron trioxide	O=BOB=O	
+Zinc oxide	O=[Zn]	
+Vanadium pentoxide(Respirable fraction or fume)(Inhalable fraction)	O=[V](=O)O[V](=O)=O	
+Titanium Dioxide	O=[Ti]=O	
+Silicon Dioxide	O=[Si]=O	
+"1,2-Oxathiolane, 2,2-dioxide ; 1,3-Propanesultone"	O=[S]1(=O)CCCO1	
+Sulfur dioxide	O=[S]=O	
+Lead dioxide	O=[Pb]=O	
+Lead monoxide	O=[Pb]	
+Diphosphorus pentaoxide	O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3	
+Triphenyl phosphate	O=[P](Oc1ccccc1)(Oc2ccccc2)Oc3ccccc3	
+"Osmium tetroxide, as Os"	O=[Os](=O)(=O)=O	
+Nickel dioxide	O=[Ni]O[Ni]=O	
+Nickel monoxide	O=[Ni]	
+Magnesium oxide(Inhalable fraction)	O=[Mg]	
+Copper monoxide	O=[Cu]	
+Chromium trioxide	O=[Cr](=O)=O	
+Cobalt monooxide	O=[Co]	
+"Cobalt carbonyl, as Co"	C(=O)=[Co]	
+Cerium Oxide and Cerium Compounds	O=[Ce]=O	
+Cadimium oxide	O=[Cd]	
+Calcium oxide/lime/burnt lime/quicklime	O=[Ca]	
+Zeolites	O=[Al]O[Al]=O.O=[Si]=O	
+Emery	O=[Al]O[Al]=O	
+Cyhexatin	C1CCC(CC1)[Sn](C2CCCCC2)C3CCCCC3.O	
+Copper hydroxide	O.O.[Cu]	
+Cadimium hydroxide	O.O.[Cd]	
+Fuming sulphuric acid	O[S](O)(=O)=O.O=[S](=O)=O	
+Sulfuric acid	O[S](O)(=O)=O	
+Chlorosulfuric acid	O[S](Cl)(=O)=O	
+Orthophosphoric acid	O[P](O)(O)=O	
+Nitric acid ; Aqua fortis	O[N+]([O-])=O	
+Chromic acid (H2CrO4)	O[Cr](O)(=O)=O	
+Dichromic acid	O[Cr](=O)(=O)O[Cr](O)(=O)=O	
+Kaoline(Respirable fraction)	O.O.O=[Al]O[Si](=O)O[Si](=O)O[Al]=O	
+Disodium tetraborate decahydrate	O.O.O.O.O.O.O.O.O.O.[Na+].[Na+].[O-]B(OB=O)OB([O-])OB=O	
+Cobalt sulfate	O.O.O.O.O.O.O.[Co++].[O-][S]([O-])(=O)=O	
+Nickel dinitrate	O.O.O.O.O.O.[Ni++].[O-][N+]([O-])=O.[O-][N](=O)=O	
+Disodium tetraborate pentahydrate	O.O.O.O.O.[Na+].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-]	
+"Silicic acid, sodium salt; Sodium silicate"	O.O.O.O.O.[Na+].[Na+].[O-][Si]([O-])=O	
+Copper(II) sulfate pentahydrate	O.O.O.O.O.[Cu++].[O-][S]([O-])(=O)=O	
+Pentalead tetraoxide sulfate	O.O.O.O.[Pb].[Pb].[Pb].[Pb].[Pb].[O-][S]([O-])(=O)=O	
+Disodium octaborate tetrahydrate	O.O.O.O.[Na+].[Na+].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-]	
+"Ethylenediaminetetraacetate, trisodium; Trisodium EDTA"	O.O.O.[Na+].[Na+].[Na+].OC(=O)CN(CCN(CC([O-])=O)CC([O-])=O)CC([O-])=O	
+Nickel dihydroxide	O.O.[Ni]	
+Chromyl chloride	O.O.[Cl-].[Cl-].[Cr+2]	
+Gypsum	O.O.[Ca++].[O-][S]([O-])(=O)=O	
+"Iron oxide, as Fe,"	O.[O--].[O--].[O--].[Fe+3].[Fe+3]	
+Cetylpyridinium chloride monohydrate	O.[Cl-].CCCCCCCCCCCCCCCCN1C=C[CH+]C=C1	
+Plaster of Paris	O.[Ca++].[Ca++].[O-][S]([O-])(=O)=O.[O-][S]([O-])(=O)=O	
+Diquat	O.[Br-].[Br-].C1C[n+]2ccccc2c3cccc[n+]13	
+Triphenyl phosphite	O(P(Oc1ccccc1)Oc2ccccc2)c3ccccc3	
+Phenyl ether(Vapor)	O(c1ccccc1)c2ccccc2	
+Tributyltin Oxide	CCCC[Sn](CCCC)(CCCC)O[Sn](CCCC)(CCCC)CCCC	
+Diphenoxarsin-10-yl oxide	O([As]1c2ccccc2Oc3ccccc13)[As]4c5ccccc5Oc6ccccc46	
+Hydroxylamine	NO	
+Hydrazine	NN	
+"Ethanolamine ,2-Aminoethanol"	NCCO	
+"3,6,9,12-Tetraazatetradecane-1,14-diamine"	NCCNCCNCCNCCNCCN	
+Diethylene triamine	NCCNCCN	
+Cyanogen	NCCN	
+"m-Xylene-α, α´-diamine"	NCc1cccc(CN)c1	
+"N-cyclopropyl-1,3,5-triazine-2,4,6-triamine (Cyromazine)"	Nc1nc(N)nc(NC2CC2)n1	
+fipronil	Nc1n(nc(C#N)c1[S](=O)C(F)(F)F)c2c(Cl)cc(cc2Cl)C(F)(F)F	
+2-Aminopyridine	Nc1ccccn1	
+"1,2-Benzenediamine ; o-Phenylenediamine"	Nc1ccccc1N	
+Aniline	Nc1ccccc1	
+α-Naphthyl amine	Nc1cccc2ccccc12	
+"1,3-Benzenediamine ; m-Phenylenediamine"	Nc1cccc(N)c1	
+β-Naphthylamine	Nc1ccc2ccccc2c1	
+"4,4'-Oxybisbenzenamine"	Nc1ccc(Oc2ccc(N)cc2)cc1	
+"1,4-Benzenediamine ; p-Phenylenediamine"	Nc1ccc(N)cc1	
+"4,4'-Methylenedianiline"	Nc1ccc(Cc2ccc(N)cc2)cc1	
+"3,3'-Dichloro-4,4'-diaminodiphenylmethane"	Nc1ccc(Cc2ccc(N)c(Cl)c2)cc1Cl	
+"3,3'-Dihydroxybenzidine"	Nc1ccc(cc1O)c2ccc(N)c(O)c2	
+"3,3'-Dichloro-(1,1'-biphenyl)-4,4'-diamine"	Nc1ccc(cc1Cl)c2ccc(N)c(Cl)c2	
+4-Aminodiphenyl	Nc1ccc(cc1)c2ccccc2	
+Benzidine	Nc1ccc(cc1)c2ccc(N)cc2	
+p-Nitroaniline	Nc1ccc(cc1)[N+]([O-])=O	
+Picloram	Nc1c(Cl)c(Cl)nc(C(O)=O)c1Cl	
+"1H-1,2,4-Triazol-3-amine ; 3-Amino-1H-1,2,4-triazole ; Amitrole"	Nc1[nH]ncn1	
+Formamide	NC=O	
+"1,1'-Iminodi(octamethylene)diguanidine"	NC(N)=NCCCCCCCCNCCCCCCCCN=C(N)N	
+α-Naphthylthiourea(ANTU)	NC(=S)Nc1cccc2ccccc12	
+2-Propenamide ; Acrylamide	NC(=O)C=C	
+Cyanamide	NC#N	
+Phenothiazine	N1c2ccccc2Sc3ccccc13	
+Nitric monoxide	N=O	
+Ammonium Sulfate	N.N.O[S](O)(=O)=O	
+"1,2-Diphenylhydrazine"	N(Nc1ccccc1)c2ccccc2	
+N-Phenylbenzenamine ; Diphenylamine	N(c1ccccc1)c2ccccc2	
+N-Phenyl-1-naphthalenamine	N(c1ccccc1)c2cccc3ccccc23	
+N-Phenyl-β-naphthyl amine	N(c1ccccc1)c2ccc3ccccc3c2	
+Nitrogen	N#N	
+m-Phthalodinitrile(Inhalable fraction and vapor)	N#Cc1cccc(c1)C#N	
+Ammonia	N	
+Polyvinylpyrrolidone iodine	II.C=CN1CCCC1=O	
+Iodine	II	
+Iodoform	IC(I)I	
+Oxygen difluoride	FOF	
+Nitrogen trifluoride	FN(F)F	
+Fluorine	FF	
+Norflurane	FCC(F)(F)F	
+diflubenzuron	Fc1cccc(F)c1C(=O)NC(=O)Nc2ccc(Cl)cc2	
+Fluquinconazole	Fc1ccc2N=C(n3cncn3)N(C(=O)c2c1)c4ccc(Cl)cc4Cl	
+Fludioxonil	FC1(F)Oc2cccc(c2O1)c3c[nH]cc3C#N	
+Chlorodifluoromethane	FC(F)Cl	
+"1-(3,5-dichloro-4-(1,1,2,2-tetrafluoroethoxy)phenyl)-3-(2,6-difluorobenzoyl) urea (Hexaflumuron)"	FC(F)C(F)(F)Oc1c(Cl)cc(NC(=O)NC(=O)c2c(F)cccc2F)cc1Cl	
+Carbonyl fluoride	FC(F)=O	
+"Hexafluoro-1,3-butadiene"	FC(F)=C(F)C(F)=C(F)F	
+Tralopyril	FC(F)(F)c1[nH]c(c2ccc(Cl)cc2)c(C#N)c1Br	
+Chloropentafluoro ethane	FC(F)(F)C(F)(F)Cl	
+Trifluoroacetyl chloride	FC(F)(F)C(Cl)=O	
+Hexafluoroacetone	FC(F)(F)C(=O)C(F)(F)F	
+Trifluoro bromomethane	FC(F)(F)Br	
+Dichlorodifluoromethane	FC(F)(Cl)Cl	
+Dichlorotetrafluoroethane	FC(F)(Cl)C(F)(F)Cl	
+"1,1,2-Trichloro-1,2,2-trifluoroethane"	FC(F)(Cl)C(F)(Cl)Cl	
+"1,1,1,2-Tetrachloro-2,2- difluoroethane"	FC(F)(Cl)C(Cl)(Cl)Cl	
+Difluorodibromomethane	FC(F)(Br)Br	
+"Trichlorofluoromethane,Fluorotrichloromethane"	FC(Cl)(Cl)Cl	
+"1,1,2,2-Tetrachloro-1,2-difluoroethane"	FC(Cl)(Cl)C(F)(Cl)Cl	
+Boron trifluoride	FB(F)F	
+"Tellurium hexafluoride, as Te"	F[Te](F)(F)(F)(F)F	
+"Selenium hexafluoride, as Se"	F[Se](F)(F)(F)(F)F	
+Sulfur tetrafluoride	F[S](F)(F)F	
+Sulfur hexafluoride	F[S](F)(F)(F)(F)F	
+Sulfur pentafluoride	F[S](F)(F)(F)(F)[S](F)(F)(F)(F)F	
+sulfuryl fluoride	F[S](F)(=O)=O	
+Trisodium hexafluoroaluminate	F[Al-3](F)(F)(F)(F)F.[Na+].[Na+].[Na+]	
+Metribuzin	CSC1=NN=C(C(=O)N1N)C(C)(C)C	
+"Methanethiol,Methyl mercaptan"	CS	
+Trimethyl phosphite	COP(OC)OC	
+Linuron ; Afalon	CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1	
+"Dimethoxymethane,Methylal"	COCOC	
+"1,1'-Oxybis(2-methoxyethane) ; Diglyme"	COCCOCCOC	
+2-(2-methoxyethoxy)ethanol	COCCOCCO	
+Ethylene glycol methyl ether acetate	COCCOC(C)=O	
+Ethylene glycol dimethyl ether	COCCOC	
+2-Methoxyethanol ; Methyl Cellosolve	COCCO	
+Chloromethyl methyl ether	COCCl	
+Propylene glycol monomethyl ether (PGME)	COCC(C)O	
+"Creosote, wood "	COc1ccccc1O	
+o-Anisidine	COc1ccccc1N	
+4-Methoxyphenol	COc1ccc(O)cc1	
+Methoxychlor	COc1ccc(cc1)C(c2ccc(OC)cc2)C(Cl)(Cl)Cl	
+Rotenone(Commercial)	COc1cc2OC[C@H]3Oc4c5C[C@@H](Oc5ccc4C(=O)[C@H]3c2cc1OC)C(C)=C	
+"3,3'-Dimethoxy-[1,1'-biphenyl]-4,4'-diamine"	COc1cc(ccc1N)c2ccc(N)c(OC)c2	
+"Eugenol, synthetic oil of cloves"	COc1cc(CC=C)ccc1O	
+Methidathion ; Supracide	COC1=NN(CS[P](=S)(OC)OC)C(=O)S1	
+Methyl formate	COC=O	
+Dipropylene glycol monomethyl ether (DPGME)	COC(C)COC(C)CO	
+3-Methoxybutyl chloroformate	COC(C)CCOC(Cl)=O	
+Methyl acetate	COC(C)=O	
+S-Methoprene	COC(C)(C)CCCC(C)C\C=C\C(C)=C\C(=O)OC(C)C	
+Methyl tert-butyl ether (MTBE)	COC(C)(C)C	
+1H-Benzimidazol-2-ylcarbamic acid methyl ester	COC(=O)Nc1[nH]c2ccccc2n1	
+"[1,2-Phenylenebis(iminocarbonothioyl)]biscarbamic acid dimethyl ester"	COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC	
+Indoxacarb (enantiomeric reaction mass S:R 75:25)	COC(=O)N(C(=O)N1CO[C@]2(Cc3cc(Cl)ccc3C2=N1)C(=O)OC)c4ccc(OC(F)(F)F)cc4	
+Chloroacetic acid methyl ester ; Methyl α-chloroacetate	COC(=O)CCl	
+Methyl salicylate	COC(=O)c1ccccc1O	
+Dimethylphthalate	COC(=O)c1ccccc1C(=O)OC	
+Methyl 4-hydroxybenzoate	COC(=O)c1ccc(O)cc1	
+2-Propenoic acid methyl ester ; Methyl acrylate	COC(=O)C=C	
+margosa extract	COC(=O)C[C@H]1[C@@]2(C)[C@H](C[C@@H](OC(C)=O)[C@@]3(C)CO[C@@H]([C@H]4O[C@@H]5C[C@H](C(=C5[C@@]14C)C)c6cocc6)[C@H]23)OC(=O)C(/C)=C/C	
+"Clove oil; Oils, eugenia caryophyllata"	COC(=O)C(CC1=CN=CN1)N.Cl	
+Methyl methacrylate	COC(=O)C(C)=C	
+Methyl 2-cyanoacrylate	COC(=O)C(=C)C#N	
+Dimethylfumarate(DMF)	COC(=O)\C=C\C(=O)OC	
+Mevinphos	COC(=O)\C=C(/C)O[P](=O)(OC)OC	
+Methyl silicate	CO[Si](OC)(OC)OC	
+Dicyclopentyldimethoxysilane	CO[Si](C1CCCC1)(C2CCCC2)OC	
+Sulfuric acid dimethyl ester ; Dimethyl sulfate	CO[S](=O)(=O)OC	
+methyl(Inhalable fraction and vapor)	CO[P](=S)(OC)SCN1N=Nc2ccccc2C1=O	
+Temephos	CO[P](=S)(OC)Oc1ccc(Sc2ccc(O[P](=S)(OC)OC)cc2)cc1	
+Fenthion	CO[P](=S)(OC)Oc1ccc(SC)c(C)c1	
+Methyl parathion(Inhalable fraction and vapor)	CO[P](=S)(OC)Oc1ccc(cc1)[N+]([O-])=O	
+Ronnel	CO[P](=S)(OC)Oc1cc(Cl)c(Cl)cc1Cl	
+"Phosphoric acid 2,2-dichloroethenyl dimethyl ester"	CO[P](=O)(OC)OC=C(Cl)Cl	
+"Dimethyl-1,2-dibromo-2, 2-dichloroethy1 phosphate"	CO[P](=O)(OC)OC(Br)C(Cl)(Cl)Br	
+Dicrotophos	CO[P](=O)(OC)OC(/C)=C/C(=O)N(C)C	
+Trichlorofon ; Chlorofos	CO[P](=O)(OC)C(O)C(Cl)(Cl)Cl	
+Methanol ; Methyl alcohol	CO	
+Methyl hydrazine	CNN	
+N-Methylbenzenamine ; Methylaniline	CNc1ccccc1	
+N-Methyl formamide ; Monomethylformamide	CNC=O	
+Poly(2-hydroxy propyl dimethyl ammonium chloride)	CNC.C1C(O1)CCl	
+Propoxur	CNC(=O)Oc1ccccc1OC(C)C	
+Bendiocarb	CNC(=O)Oc1cccc2OC(C)(C)Oc12	
+Carbaryl	CNC(=O)Oc1cccc2ccccc12	
+Carbofuran ; Furadan	CNC(=O)Oc1cccc2CC(C)(C)Oc12	
+Methomyl ; Lannate	CNC(=O)O\N=C(/C)SC	
+Monocrotophos(Inhalable fraction and vapor)	CNC(=O)\C=C(/C)O[P](=O)(OC)OC	
+Dimethylamine	CNC	
+"5-Chloro-2-methyl-3(2H)-isothiazolone, mixt. with 2-methyl-3(2H)-isothiazolone"	CN1SC=CC1=O.CN2SC(=CC2=O)Cl	
+"Tetrahydro-3,5-dimethyl-1,3,5-thiadia­zine-2-thione (Dazomet)"	CN1CSC(=S)N(C)C1	
+thiamethoxam	CN1COCN(Cc2sc(Cl)nc2)/C1=N/[N+]([O-])=O	
+1-Methyl-2-pyrrolidinone ; N-Methylpyrrolidone	CN1CCCC1=O	
+Nicotine	CN1CCC[C@H]1c2cccnc2	
+Methyl isocyanate	CN=C=O	
+"(E)-1-(2-Chloro-1,3-thiazol-5-ylmethyl)-3- methyl-2-nitroguanidine (Clothianidin)"	CN=C(NCc1sc(Cl)nc1)N[N+]([O-])=O	
+Dinotefuran	CN=C(NCC1CCOC1)N[N+]([O-])=O	
+Crufomate	CN[P](=O)(OC)Oc1ccc(cc1Cl)C(C)(C)C	
+Tetryl	CN(c1c(cc(cc1[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O	
+N-Nitrosodimethylamine	CN(C)N=O	
+"1,1-Dimethylhydrazine"	CN(C)N	
+"N,N-Dimethylaniline ; N,N-Dimethylbenzenamine"	CN(C)c1ccccc1	
+"Bis[[4-[4-(dimethylamino)benzhydrylidene]cyclohexa-2,5-dien-1-ylidene]dimethylammonium] oxalate, dioxalate"	CN(C)c1ccc(cc1)[C+](c2ccccc2)c3ccc(cc3)N(C)C.CN(C)c4ccc(cc4)[C+](c5ccccc5)c6ccc(cc6)N(C)C.OC(=O)C(O)=O.OC(=O)C([O-])=O.OC(=O)C([O-])=O	
+"N,N,4-Trimethylbenzenamine ; Dimethyl-p-toludine"	CN(C)c1ccc(C)cc1	
+"N,N-Dimethylformamide ; Dimethylformamide"	CN(C)C=O	
+Dimethyl carbamoylchloride	CN(C)C(Cl)=O	
+"N,N-Dimethylacetamide"	CN(C)C(C)=O	
+Tetramethylthiuram disulfide ; Thiram	CN(C)C(=S)SSC(=S)N(C)C	
+Fenothiocarb	CN(C)C(=O)SCCCCOc1ccccc1	
+"N'-(3,4-Dichlorophenyl)-N,N-dimethyl urea"	CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1	
+"N,N-Dimethylmethanamine ; Trimethylamine"	CN(C)C	
+Dimethylaminosulfonyl chloride	CN(C)[S](Cl)(=O)=O	
+Dichlofluanid	CN(C)[S](=O)(=O)N(SC(F)(Cl)Cl)c1ccccc1	
+Tolylfluanid 	CN(C)[S](=O)(=O)N(SC(F)(Cl)Cl)c1ccc(C)cc1	
+Hexamethyl phosphoramide	CN(C)[P](=O)(N(C)C)N(C)C	
+Methylamine ; Methanamine ; Monomethylamine	CN	
+Disulfur dichloride	ClSSCl	
+Perchloromethyl mercaptan	ClSC(Cl)(Cl)Cl	
+Phosphorus trichloride	ClP(Cl)Cl	
+"1,3,5-Trichloro-1,3,5-triazine-2,4,6(1H,3H,5H)-trione"	ClN1C(=O)N(Cl)C(=O)N(Cl)C1=O	
+Bis(chloromethyl)ether (BCME)	ClCOCCl	
+Chlorine	ClCl	
+Bis(chloroethyl)ether (BCEE)	ClCCOCCCl	
+Tri(2-chloroethyl)phosphate	ClCCO[P](=O)(OCCCl)OCCCl	
+Methylene chloride ; Dichloromethane	ClCCl	
+Dichloroacetylene	ClCCCl	
+"1-Chloro-2,3-epoxypropane ; Epichlorohydrin"	ClCC1CO1	
+(Chloromethyl)benzene ; Benzyl chloride	ClCc1ccccc1	
+2-Chloro-5-(chloromethyl)pyridine	ClCc1ccc(Cl)nc1	
+Toxaphene	ClCC1(CCl)C(=C)C2(Cl)C(Cl)C(Cl)C1(Cl)C2(Cl)Cl	
+Chloroacetaldehyde	ClCC=O	
+3-Chloro-1-propene ; Allyl chloride ; Chlorallylene	ClCC=C	
+"1,1,2-Trichloroethane "	ClCC(Cl)Cl	
+"1,2,3-Trichloropropane"	ClCC(Cl)CCl	
+Chloroacetyl chloride	ClCC(Cl)=O	
+"1,1,1,2-Tetrachloroethane"	ClCC(Cl)(Cl)Cl	
+"1,2-Dibromo-3-chloropropane (DBCP)"	ClCC(Br)CBr	
+2-Chloroacetophenone	ClCC(=O)c1ccccc1	
+"Bromochloromethane,Chlorobromomethane"	ClCBr	
+2-Chloropyridine	Clc1ccccn1	
+"1,2-Dichlorobenzene ; o-Dichlorobenzene"	Clc1ccccc1Cl	
+o-Chlorobenzylidene malononitrile	Clc1ccccc1C=C(C#N)C#N	
+o-Chlorostyrene	Clc1ccccc1C=C	
+Monochlorobenzene	Clc1ccccc1	
+Nitrapyrin	Clc1cccc(n1)C(Cl)(Cl)Cl	
+Chlorodiphenyl(54% Chlorine)	Clc1cccc(c1Cl)c2ccc(Cl)c(Cl)c2Cl	
+Thiacloprid	Clc1ccc(CN2CCSC2=NC#N)cn1	
+"1,4-Dichlorobenzene ; p-Dichlorobenzene"	Clc1ccc(Cl)cc1	
+"1,2,4-Trichlorobenzene"	Clc1ccc(Cl)c(Cl)c1	
+"p,p'-Dichlorodiphenyltrichloroethane (DDT)"	Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl	
+Chlorophacinone	Clc1ccc(cc1)C(C(=O)C2C(=O)c3ccccc3C2=O)c4ccccc4	
+Chlorodiphenyl(42% Chlorine)	Clc1ccc(c(Cl)c1)c2ccc(Cl)cc2Cl	
+"Hexachlorodibenzo-p-dioxin (HxCDD), mixture of 1,2,3,6,7,8-HxCDD and 1,2,3,7,8,9-HxCDD"	Clc1cc2Oc3c(Cl)c(Cl)c(Cl)cc3Oc2c(Cl)c1Cl	
+Chlordane	ClC1CC2C(C1Cl)C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl	
+Chlorinated diphenyloxide	Clc1cc(Cl)c(Oc2c(Cl)cc(Cl)cc2Cl)c(Cl)c1	
+Polychlorinated biphenyls (PCBs)	Clc1cc(cc(Cl)c1Cl)c2cc(Cl)c(Cl)c(Cl)c2	
+Heptachlor epoxide	ClC1C2OC2C3C1C4(Cl)C(=C(Cl)C3(Cl)C4(Cl)Cl)Cl	
+Heptachlor	ClC1C=CC2C1C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl	
+Octachloronaphthalene	Clc1c(Cl)c(Cl)c2c(Cl)c(Cl)c(Cl)c(Cl)c2c1Cl	
+"4,5,6,7-Tetrachloro-1,3-isobenzofurandione"	Clc1c(Cl)c(Cl)c2C(=O)OC(=O)c2c1Cl	
+technical Hexachlorocyclohexane (t-HCH)	ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl	
+"2,4,5,6-Tetrachloro-1,3-benzenedicarbonitrile"	Clc1c(Cl)c(C#N)c(Cl)c(C#N)c1Cl	
+Endosulfan(Inhalable fraction and vapor)	ClC1=C(Cl)C2(Cl)C3CO[S](=O)OCC3C1(Cl)C2(Cl)Cl	
+Endrin	ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl	
+Aldrin	ClC1=C(Cl)C2(Cl)C3C4CC(C=C4)C3C1(Cl)C2(Cl)Cl	
+"1,2,3,4,5,5-Hexachloro-1,3-cyclopentadiene"	ClC1=C(Cl)C(Cl)(Cl)C(=C1Cl)Cl	
+Ethylene trichloride ; Trichloroethylene ; Trichloroethene	ClC=C(Cl)Cl	
+Vinyl chloride	ClC=C	
+"1,3-Dichloropropene"	ClC\C=C/Cl	
+"1-Chloro-2,3-epoxypropane ; Epichlorohydrin"	ClC[C@H]1CO1	
+"1-Chloro-2,3-epoxypropane ; Epichlorohydrin"	ClC[C@@H]1CO1	
+"1,3-Dichloropropene"	ClC/C=C/Cl	
+Trichloromethane ; Chloroform	ClC(Cl)Cl	
+"1,1,2,2-Tetrachloroethane"	ClC(Cl)C(Cl)Cl	
+Captafol	ClC(Cl)C(Cl)(Cl)SN1C(=O)C2CC=CCC2C1=O	
+Phosgene	ClC(Cl)=O	
+Tetrachloroethene ; Tetrachloroethylene	ClC(Cl)=C(Cl)Cl	
+Hexachlorobutadiene	ClC(Cl)=C(Cl)C(Cl)=C(Cl)Cl	
+"1,1-Dichloroethene "	ClC(Cl)=C	
+N-(trichloromethylthio)phthalimide (Folpet)	ClC(Cl)(Cl)SN1C(=O)c2ccccc2C1=O	
+Captan	ClC(Cl)(Cl)SN1C(=O)C2CC=CCC2C1=O	
+Carbon tetrachloride ; Tetrachloromethane	ClC(Cl)(Cl)Cl	
+"(Trichloromethyl)benzene ; α,α,α-Trichlorotoluene"	ClC(Cl)(Cl)c1ccccc1	
+Hexachloroethane	ClC(Cl)(Cl)C(Cl)(Cl)Cl	
+Benzyl chloroformate	ClC(=O)OCc1ccccc1	
+Benzoyl chloride	ClC(=O)c1ccccc1	
+"2-Chloro-1,3-butadiene"	ClC(=C)C=C	
+Cyanogen chloride	ClC#N	
+Acetylene dichloride	Cl\C=C\Cl	
+Tin tetrachloride	Cl[Sn](Cl)(Cl)Cl	
+Thionyl chloride	Cl[S](Cl)=O	
+Phosphoryl trichloride	Cl[P](Cl)(Cl)=O	
+Phosphorus pentachloride	Cl[P](Cl)(Cl)(Cl)Cl	
+Methyl iodide	CI	
+Methyl demeton	CCSCCO[P](=S)(OC)OC.CCSCCS[P](=O)(OC)OC	
+"Ethanethiol,Ethyl mercaptan"	CCS	
+Pentaborane	CCOP(=S)(C1=CC=CC=C1)OC2=CC=C(C=C2)[N+](=O)[O-]	
+4-bromo-2-(4-chlorophenyl)-1-ethoxy­ methyl-5-trifluoromethylpyrrole-3-carbonitrile (Chlorfenapyr)	CCOCn1c(c2ccc(Cl)cc2)c(C#N)c(Br)c1C(F)(F)F	
+Ethyleneglycol monoethyl ether acetate	CCOCCOC(C)=O	
+Ethylene glycol monoethyl ether	CCOCCO	
+3-Ethoxy-1-propylamine	CCOCCCN	
+"Ethyl ether,Diethyl ether"	CCOCC	
+etofenprox	CCOc1ccc(cc1)C(C)(C)COCc2cccc(Oc3ccccc3)c2	
+Ethyl formate	CCOC=O	
+Ethyl carbamate	CCOC(N)=O	
+Acetic acid ethyl ester ; Ethyl acetate	CCOC(C)=O	
+Fenoxycarb	CCOC(=O)NCCOc1ccc(Oc2ccccc2)cc1	
+Malathion(Inhalable fraction and vapor)	CCOC(=O)CC(S[P](=S)(OC)OC)C(=O)OCC	
+Ethyl bromoacetate	CCOC(=O)CBr	
+Diethyl phthalate	CCOC(=O)c1ccccc1C(=O)OCC	
+Ethyl acrylate	CCOC(=O)C=C	
+Ethyl silicate	CCO[Si](OCC)(OCC)OCC	
+"[3-(2,3-Epoxypropoxy)propyl]diethoxymethylsilane"	CCO[Si](C)(CCCOCC1CO1)OCC	
+Sulfuric acid diethyl ester ; Diethyl sulfate	CCO[S](=O)(=O)OCC	
+Phorate	CCO[P](=S)(OCC)SCSCC	
+Ethion	CCO[P](=S)(OCC)SCS[P](=S)(OCC)OCC	
+Disulfoton(Inhalable fraction and vapor)	CCO[P](=S)(OCC)SCCSCC	
+Dioxathion	CCO[P](=S)(OCC)SC1OCCOC1S[P](=S)(OCC)OCC	
+"O,O-Diethyl-O-(3,5,6-trichloro-2-pyridyl)phosphorothioate"	CCO[P](=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl	
+Fensulfothion(Inhalable fraction and vapor)	CCO[P](=S)(OCC)Oc1ccc(cc1)[S](C)=O	
+Parathion(Inhalable fraction and vapor)	CCO[P](=S)(OCC)Oc1ccc(cc1)[N+]([O-])=O	
+Dimpylate	CCO[P](=S)(OCC)Oc1cc(C)nc(n1)C(C)C	
+"Sulfotep,TEDP"	CCO[P](=S)(OCC)O[P](=S)(OCC)OCC	
+EPN(Inhalable fraction)	CCO[P](=S)(Oc1ccc(cc1)[N+]([O-])=O)c2ccccc2	
+Fonofos(Inhalable fraction and vapor)	CCO[P](=S)(CC)Sc1ccccc1	
+Demeton	CCO[P](=O)(OCC)SCCSCC.CCO[P](=S)(OCC)OCCSCC	
+"bromfenvinfos; 2-bromo-1-(2,4-dichlorophenyl)vinyl diethyl phosphate"	CCO[P](=O)(OCC)OC(=C/Br)/c1ccc(Cl)cc1Cl	
+Tetraethyl pyrophosphate (TEPP) (Inhalable fraction and vapor)	CCO[P](=O)(OCC)O[P](=O)(OCC)OCC	
+Fenamiphos(Inhalable fraction and vapor)	CCO[P](=O)(NC(C)C)Oc1ccc(SC)c(C)c1	
+Ethanol	CCO	
+Diethylamine	CCNCC	
+Atrazine	CCNc1nc(Cl)nc(NC(C)C)n1	
+N-Ethylmorpholine	CCN1CCOCC1	
+N-[2-[(4-Amino-3-methylphenyl)ethylamino]ethyl]methanesulfonamide sulfate (2:3)	CCN(CCN[S](C)(=O)=O)c1ccc(N)c(C)c1.CCN(CCN[S](C)(=O)=O)c2ccc(N)c(C)c2.O[S](O)(=O)=O.O[S](O)(=O)=O.O[S](O)(=O)=O	
+N-Nitrosodiethylamine	CCN(CC)N=O	
+2-Diethylamino ethanol	CCN(CC)CCO	
+"N,N-Diethylethanamine"	CCN(CC)CC	
+"N,N-Diethylbenzenamine ; N,N-Diethylaniline"	CCN(CC)c1ccccc1	
+"N,N-Diethyl-m-toluidine"	CCN(CC)c1cccc(C)c1	
+Bis(diethylthiocarbamoyl) disulfide ; Disulfiram ; Cronetal	CCN(CC)C(=S)SSC(=S)N(CC)CC	
+"N,N-diethyl-m-toluamide"	CCN(CC)C(=O)c1cccc(C)c1	
+Ethyl amine	CCN	
+Chloromethane	CCl	
+Allylpropyl disulfide	CCCSSCC=C	
+Sulprofos	CCCS[P](=S)(OCC)Oc1ccc(SC)cc1	
+n-Propyl acetate	CCCOC(C)=O	
+n-Propyl nitrate	CCCO[N+]([O-])=O	
+n-Propyl alcohol	CCCO	
+Paraffin wax fume	CCCNCC(COC1=CC=CC=C1C(=O)CCC2=CC=CC=C2)O	
+Chloroethane ; Ethyl chloride	CCCl	
+Butanethiol	CCCCS	
+Dibutyl phosphate(Inhalable fraction and vapor)	CCCCOP(=O)(O)OCCCC	
+2-(2-butoxyethoxy)ethanol	CCCCOCCOCCO	
+Ethyleneglycol monobutyl etheracetate	CCCCOCCOC(C)=O	
+2-Butoxyethanol	CCCCOCCO	
+(Butoxymethyl)oxirane	CCCCOCC1CO1	
+1-Butoxy-2-propanol	CCCCOCC(C)O	
+n-Butyl acetate	CCCCOC(C)=O	
+Furathiocarb	CCCCOC(=O)N(C)SN(C)C(=O)Oc1cccc2CC(C)(C)Oc12	
+"1,2-Benzenedicarboxylic acid dibutyl ester"	CCCCOC(=O)c1ccccc1C(=O)OCCCC	
+"1,2-Benzenedicarboxylic acid butyl phenylmethyl ester"	CCCCOC(=O)c1ccccc1C(=O)OCc2ccccc2	
+n-Butyl acrylate	CCCCOC(=O)C=C	
+n-Butyl lactate	CCCCOC(=O)C(C)O	
+Tributyl phosphatee (Inhalable fraction and vapor)	CCCCO[P](=O)(OCCCC)OCCCC	
+n-Butyl alcohol(1-Butanol)	CCCCO	
+N-Butyl-1-butanamine ; n-Dibutylamine	CCCCNCCCC	
+3-Iodo-2-propyl butyl carbamate	CCCCNC(=O)OCC#CI	
+Benomyl	CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc12	
+PHMG phosphate	CCCCNC(=NCCCC)N	
+2-N-Dibutylaminoethanol	CCCCN(CCO)CCCC	
+N-Nitroso-di-n-butylamine	CCCCN(CCCC)N=O	
+"N,N-Dibutyl-1-butanamine ; Tributylamine"	CCCCN(CCCC)CCCC	
+Ethyl butylacetylaminopropionate; 3-[N-n-Butyl-N-acetyl]aminopropionic acid ethyl ester	CCCCN(CCC(=O)OCC)C(C)=O	
+1-Butanamine ; n-Butylamine	CCCCN	
+n-Amyl acetate	CCCCCOC(C)=O	
+Di-n-octyl phthalate	CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC	
+2-Octyl-3(2H)-isothiazolone	CCCCCCCCN1SC=CC1=O	
+"4,5-Dichloro-2-octylisothiazol-3(2H)-one (4,5-Dichloro-2-octyl-2H-isothiazol-3-one (DCOIT))"	CCCCCCCCN1SC(=C(Cl)C1=O)Cl	
+"D-Glucose, decyl octyl ethers, oligomeric"	CCCCCCCCCCOC1C(C(C(C(O1)CO)O)O)O	
+2-Methyl-2-propenoic acid dodecyl ester	CCCCCCCCCCCCOC(=O)C(C)=C	
+"dimethyl(pentadecyl)amine oxide; Amines, C12-18-alkyldimethyl,N-oxides"	CCCCCCCCCCCCCCC[N+](C)(C)[O-]	
+"Benzyl-dimethyl-tetradecylazanium;1,1-dioxo-1,2-benzothiazol-3-olate"	CCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[O-][S]2(=NC(=O)c3ccccc23)=O	
+Isopropyl myristate	CCCCCCCCCCCCCC(=O)OC(C)C	
+Cis-9-tricosene; Cis-tricos-9-ene	CCCCCCCCCCCCC\C=C/CCCCCCCC	
+"Amines, C10-16-alkyldimethyl, N-oxides"	CCCCCCCCCCCCC[N+](C)(C)[O-]	
+Lauric acid; Dodecanoic acid	CCCCCCCCCCCC(O)=O	
+"α-(Nonylphenyl)-ω-hydroxypoly(oxy-1,2-ethanediyl)"	CCCCCCCCCc1ccc(OCCOCCO)cc1	
+Cadmium bis(o-nonylphenolate)	CCCCCCCCCC1=CC=CC=C1[O-].CCCCCCCCCC1=CC=CC=C1[O-].[Cd+2]	
+Decanoic acid	CCCCCCCCCC(O)=O	
+Undecan-2-one; Methyl-nonyl-ketone	CCCCCCCCCC(C)=O	
+4-Octylphenol	CCCCCCCCc1ccc(O)cc1	
+Nonanoic acid; pelargonic acid	CCCCCCCCC(O)=O	
+Nonane	CCCCCCCCC	
+Oleic acid	CCCCCCCC/C=C/CCCCCCCC(O)=O	
+Dicapryl/dicaprylyl dimonium chloride	CCCCCCCC.CCCCCCCC(CCCCCCCC[ClH2+2])CCCCCCCC[ClH2+2]	
+Octanoic acid	CCCCCCCC(O)=O	
+Octaneperoxoic acid	CCCCCCCC(=O)OO	
+Octane	CCCCCCCC	
+Castor oil	CCCCCCC(CC=CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC=CCC(CCCCCC)O)OC(=O)CCCCCCCC=CCC(CCCCCC)O)O	
+Heptane	CCCCCCC	
+2-Heptanone	CCCCCC(C)=O	
+n-Hexane	CCCCCC	
+n-Valeraldehyde	CCCCC=O	
+"Dioctyl phthalate,Di(2-ethylhexyl)phthalate"	CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC	
+"2-Ethylhexanoic acid zinc salt, basic"	CCCCC(CC)C(=O)[O-].CCCCC(CC)C(=O)[O-].[Zn+2]	
+2-Hexanone	CCCCC(C)=O	
+"Ethyl butyl ketone,3-Heptanone"	CCCCC(=O)CC	
+Pentane	CCCCC	
+Propiconazole	CCCC1COC(Cn2cncn2)(O1)c3ccc(Cl)cc3Cl	
+Dibutyltin dichloride	CCCC[Sn](CCCC)(Cl)Cl	
+2-ethyl hexanediol	CCCC(O)C(CC)CO	
+sec-Amyl acetate	CCCC(C)OC(C)=O	
+"Glycidyl butyrate ; Butanoic acid, oxiranylmethyl ester"	CCCC(=O)OCC1CO1	
+"Glycidyl butyrate ; Butanoic acid, oxiranylmethyl ester"	CCCC(=O)OC[C@H]1CO1	
+Dipropyl ketone	CCCC(=O)CCC	
+2-Pentanone	CCCC(=O)C	
+Butane	CCCC	
+1-Bromopropane	CCCBr	
+"1,2-Epoxybutane (EBU)"	CCC1CO1	
+Ethylbenzene	CCc1ccccc1	
+Spinosad	CCC1CCCC(OC2CCC(C(C)O2)N(C)C)C(C)C(=O)C3CC4C(CCC5CC(CC45)OC6CC(C)C(OC)C(OC)C6OC)C3CC(=O)O1	
+"2,2'-Methylenebis(4-ethyl-6-tert-butylphenol; 2,2'-Methylenebis[6-(1,1-dimethylethyl)-4-ethylphenol]"	CCc1cc(Cc2cc(CC)cc(c2O)C(C)(C)C)c(O)c(c1)C(C)(C)C	
+"2,4-Diamino-3,5-diethyltoluene"	CCc1cc(C)c(N)c(CC)c1N	
+"ar,ar-Diethyl-ar-methylbenzenediamine"	CCc1c(C)cc(N)c(CC)c1N	
+Propionaldehyde	CCC=O	
+1-Nitropropane	CCC[N+]([O-])=O	
+Dipropylene glycol 	CCC(O)OC(O)CC	
+Propionic acid	CCC(O)=O	
+1-Chloro-1-nitropropane	CCC(Cl)[N+]([O-])=O	
+2-Benzyl-2-dimethylamino-1-(4-morpholino-phenyl)-1-butanone	CCC(Cc1ccccc1)(N(C)C)C(=O)c2ccc(cc2)N3CCOCC3	
+sec-Butyl acetate	CCC(C)OC(C)=O	
+sec-Butyl alcohol(2-Butanol)	CCC(C)O	
+Bromacil	CCC(C)N1C(=O)NC(=C(Br)C1=O)C	
+"5-Methyl-3-heptanone,Ethyl amyl ketone"	CCC(C)CC(=O)CC	
+o-sec-Butylphenol	CCC(C)c1ccccc1O	
+"2-sec-Butyl-4,6-dinitrophenol"	CCC(C)c1cc(cc(c1O)[N+]([O-])=O)[N+]([O-])=O	
+"Methyl ethyl ketone ; MEK, 2-Butanone"	CCC(C)=O	
+Abamectin	CCC(C)[C@H]1O[C@@]2(C[C@@H]3C[C@@H](C\C=C(C)\[C@@H](O[C@H]4C[C@H](OC)[C@@H](O[C@H]5C[C@H](OC)[C@@H](O)[C@H](C)O5)[C@H](C)O4)[C@@H](C)/C=C/C=C/6CO[C@@H]7[C@H](O)C(=C[C@@H](C(=O)O3)[C@]67O)C)O2)C=C[C@@H]1C.CO[C@H]8C[C@@H](O[C@@H](C)[C@@H]8O)O[C@H]9[C@H](C)O[C@H](C[C@@H]9OC)O[C@H]/%10[C@@H](C)/C=C/C=C/%11CO[C@@H]%12[C@H](O)C(=C[C@@H](C(=O)O[C@H]%13C[C@@H](C\C=C%10C)O[C@@]%14(C%13)O[C@H](C(C)C)[C@@H](C)C=C%14)[C@]%11%12O)C	
+2-Butanone peroxide	CCC(C)(OO)OOC(C)(CC)OO	
+di-tert-amyl peroxide	CCC(C)(C)OOC(C)(C)CC	
+"4-(1,1-Dimethylpropyl)phenol ; 4-tert-Amylphenol"	CCC(C)(C)c1ccc(O)cc1	
+Diethyl ketone	CCC(=O)CC	
+Ethyl bromide	CCBr	
+"1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta[g]-2-benzopyran"	CC1COCc2cc3c(cc12)C(C)(C)C(C)C3(C)C	
+Difenoconazole	CC1COC(Cn2cncn2)(O1)c3ccc(Oc4ccc(Cl)cc4)cc3Cl	
+Methyl oxirane ; Propylene oxide	CC1CO1	
+Propylene imine	CC1CN1	
+"3,3'-Methylenebis(5-methyloxazolidine)"	CC1CN(CO1)CN2COC(C)C2	
+Triorthocresyl phosphate	Cc1ccccc1O[P](=O)(Oc2ccccc2C)Oc3ccccc3C	
+o-Cresol; 2-Methylphenol	Cc1ccccc1O	
+2-Methylbenzenamine ; o-Toluidine ; 2-Aminotoluene	Cc1ccccc1N	
+o-Chlorotoluene	Cc1ccccc1Cl	
+"o-Xylene ; 1,2-Dimethylbenzene"	Cc1ccccc1C	
+o-Methylcyclohexanone	CC1CCCCC1=O	
+1-Methyl-2-nitrobenzene ; o-Nitrotoluene	Cc1ccccc1[N+]([O-])=O	
+Toluene	Cc1ccccc1	
+m-Cresol ; 3-Methylphenol	Cc1cccc(O)c1	
+"3-Methyl-1,2-benzenediamine ; Toluene-2,3-diamine"	Cc1cccc(N)c1N	
+"Dimethylaminobenzene(mixed isomers, Inhalabable fraction and vapor)"	Cc1cccc(N)c1C	
+m-Toluidine	Cc1cccc(N)c1	
+Vinyl toluene	Cc1cccc(C=C)c1	
+"2,6-Xylenol ; 2,6-Dimethylphenol"	Cc1cccc(C)c1O	
+"1,2,3-Trimethylbenzene"	Cc1cccc(C)c1C	
+Xylene ; Dimethylbenzene	Cc1cccc(C)c1	
+Cresol ; Methylphenol	Cc1ccc(O)cc1	
+"2,4-Dimethylphenol ; 2,4-Xylenol"	Cc1ccc(O)c(C)c1	
+"4-Methyl-1,3-benzenediamine"	Cc1ccc(N)cc1N	
+4-Methylbenzenamine ; p-Toluidine ; 4-Aminotoluene	Cc1ccc(N)cc1	
+"Toluene-3,4-diamine"	Cc1ccc(N)c(N)c1	
+"2,4-Diisocyanatotoluene ; 2,4-Toluene diisocyanate ; 2,4-TDI"	Cc1ccc(cc1N=C=O)N=C=O	
+Methyldinitrobenzene ; Dinitrotoluene	Cc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O	
+p-tert-Butyltoluene	Cc1ccc(cc1)C(C)(C)C	
+1-Methyl-4-nitrobenzene ; p-Nitrotoluene	Cc1ccc(cc1)[N+]([O-])=O	
+"p-Xylene ; 1,4-Dimethylbenzene"	Cc1ccc(C)cc1	
+"2,5-Dimethylphenol ; 2,5-Xylenol"	Cc1ccc(C)c(O)c1	
+"1,2,4-Trimethylbenzene"	Cc1ccc(C)c(C)c1	
+Chlorocresol	Cc1cc(O)ccc1Cl	
+"4-chloro-3,5-dimethlyphenol"	Cc1cc(O)cc(C)c1Cl	
+"4,4'-Thiobis(6-tert-butyl-m-cresol)"	Cc1cc(O)c(cc1Sc2cc(c(O)cc2C)C(C)(C)C)C(C)(C)C	
+"3,3'-Dimethyl-(1,1'-biphenyl)-4,4'-diamine"	Cc1cc(ccc1N)c2ccc(N)c(C)c2	
+Dinitro-o-cresol	Cc1cc(cc(c1O)[N+]([O-])=O)[N+]([O-])=O	
+"3,5-Xylenol ; 3,5-Dimethylphenol"	Cc1cc(C)cc(O)c1	
+"1,3,5-Trimethylbenzene"	Cc1cc(C)cc(C)c1	
+"2,6-di-tert-butyl-p-cresol"	Cc1cc(c(O)c(c1)C(C)(C)C)C(C)(C)C	
+Chloroxylenol	Cc1c(O)ccc(Cl)c1C	
+"2-Methyl-1,3-benzenediamine"	Cc1c(N)cccc1N	
+Bifenthrin	Cc1c(COC(=O)C2C(\C=C(/Cl)C(F)(F)F)C2(C)C)cccc1c3ccccc3	
+"1,3-Diisocyanato-2-methylbenzene"	Cc1c(cccc1N=C=O)N=C=O	
+"3,5-Dinitro-o-toluamide"	Cc1c(cc(cc1[N+]([O-])=O)[N+]([O-])=O)C(N)=O	
+"2,4,6-Trinitrotoluene(TNT)"	Cc1c(cc(cc1[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O	
+Isophorone	CC1=CC(=O)CC(C)(C)C1	
+"3(or 4)-Methylbenzene-1,2-diamine"	CC1=CC(=C(C=C1)N)N.CC1=C(C(=CC=C1)N)N	
+Clopidol	CC1=C(Cl)C(=O)C(=C(C)N1)Cl	
+Pyrethrins 	CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C)CC=CC=C.CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C(=O)OC)CC=CC=C	
+"Tetrakis(1,2,2,6,6-pentamethyl-4-piperidyl) 1,2,3,4-butanetetracarboxylate"	CC1(CC(CC(N1C)(C)C)OC(=O)CC(C(CC(=O)OC2CC(N(C(C2)(C)C)C)(C)C)C(=O)OC3CC(N(C(C3)(C)C)C)(C)C)C(=O)OC4CC(N(C(C4)(C)C)C)(C)C)C	
+Oil of eucalyptus	CC1(C2CCC(O1)(CC2)C)C	
+"1,3-Dichloro-5, 5-dimethyl hydantoin"	CC1(C)N(Cl)C(=O)N(Cl)C1=O	
+"3-Isocyanatomethyl-3,5,5-trimethylcyclohexylisocyanate"	CC1(C)CC(CC(C)(CN=C=O)C1)N=C=O	
+"Camphor/1,7,7-Trimethylbicyclo[2.2.1]heptane-2-one"	CC1(C)C2CCC1(C)C(=O)C2	
+"α-Cyano-3-phenoxybenzyl 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate"	CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2	
+".alpha.-cyano-4-fluoro-3-phenoxybenzyl3-(2,2-dichlorovinyl)-2,2-dimethylcyclo­propanecarboxylate (Cyfluthrin)"	CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2ccc(F)c(Oc3ccccc3)c2	
+"Transfluthrin; 2,3,5,6-tetrafluorobenzyl trans-2-(2,2-dichlorovinyl) -3,3-dimethylcyclopropanecarboxylate"	CC1(C)[C@H](C=C(Cl)Cl)[C@H]1C(=O)OCc2c(F)c(F)cc(F)c2F	
+"3-(2,2-Dichloroethenyl)-2,2-dimethyl-cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester"	CC1(C)[C@@H](C=C(Cl)Cl)[C@H]1C(=O)OCc2cccc(Oc3ccccc3)c2	
+"[1.alpha.(S*),3.alpha.]-(.alpha.)-cyano-(3-phenoxyphenyl)methyl3-(2,2-dichlor-oethenyl)-2,2-dichlorovinyl)-2,2-dimethyl-cyclopropanecarboxylate (alpha-Cypermethrin)"	CC1(C)[C@@H](C=C(Cl)Cl)[C@H]1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2	
+Decamethrin	CC1(C)[C@@H](C=C(Br)Br)[C@H]1C(=O)O[C@H](C#N)c2cccc(Oc3ccccc3)c2	
+lambda-cyhalothrin	CC1(C)[C@@H](\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2	
+Acetaldehyde ; Ethanal	CC=O	
+Metofluthrin	CC=CC1C(C1(C)C)C(=O)OCC2=C(C(=C(C(=C2F)F)COC)F)F	
+"Empenthrin/1-ethynyl-2-methylpent-2-enyl 2,2-dimethyl-3-(2- methylprop-1- enyl)cyclopropanecarboxylate"	CC\C=C(/C)C(OC(=O)C1C(C=C(C)C)C1(C)C)C#C	
+"Tetraethyl lead, as Pb"	CC[Pb](CC)(CC)CC	
+Nitroethane	CC[N+]([O-])=O	
+"1,1'-Oxydi-2-propanol"	CC(O)COCC(C)O	
+2-Hydroxypropyl acrylate	CC(O)COC(=O)C=C	
+"Propylene glycol(1,2-Propanediol)"	CC(O)CO	
+"1,3-Butylene glycol"	CC(O)CCO	
+"2-Methyl-2,4-pentanediol"	CC(O)CC(C)(C)O	
+Acetic acid	CC(O)=O	
+"1,1-Dichloro-1-fluoro ethane"	CC(F)(Cl)Cl	
+pyriproxyfen	CC(COc1ccc(Oc2ccccc2)cc1)Oc3ccccn3	
+Aramite	CC(COc1ccc(cc1)C(C)(C)C)O[S](=O)OCCCl	
+Propylene glycoldinitrate	CC(CO[N+]([O-])=O)O[N+]([O-])=O	
+"cis-4-[3-(p-tert-Butylphenyl)-2-methylpropyl]-2,6-dimethylmorpholine"	CC(CN1C[C@H](C)O[C@H](C)C1)Cc2ccc(cc2)C(C)(C)C	
+"1,1-Dichloroethane,Ethylidene chloride"	CC(Cl)Cl	
+"1,2-Dichloropropane"	CC(Cl)CCl	
+"1,1,1-Trichloroethane"	CC(Cl)(Cl)Cl	
+"2,2-Dichloropropionic acid"	CC(Cl)(Cl)C(O)=O	
+"1,1-Dichloro-1-nitroethane"	CC(Cl)(Cl)[N+]([O-])=O	
+Citronella oil	CC(CCC=C(C)C)CC=O	
+Cyproconazole	CC(C1CC1)C(O)(Cn2cncn2)c3ccc(Cl)cc3	
+Isopropoxyethanol	CC(C)OCCO	
+Isopropyl glycidyl ether(IGE)	CC(C)OCC1CO1	
+Isopropyl ether	CC(C)OC(C)C	
+Isopropyl acetate	CC(C)OC(C)=O	
+Propan-2-ol; Isopropyl alcohol	CC(C)O	
+N-Isopropyl aniline	CC(C)Nc1ccccc1	
+"N-(1-Methylethyl)-N'-phenyl-1,4-benzenediamine"	CC(C)Nc1ccc(Nc2ccccc2)cc1	
+Diisopropylamine	CC(C)NC(C)C	
+Isopropylamine	CC(C)N	
+Isobutyl acetate	CC(C)COC(C)=O	
+"1,2-Benzenedicarboxylic acid diisobutyl ester"	CC(C)COC(=O)c1ccccc1C(=O)OCC(C)C	
+2-Methyl-2-propenoic acid 2-methylpropyl ester	CC(C)COC(=O)C(C)=C	
+Isobutyl alcohol	CC(C)CO	
+Isoamyl alcohol	CC(C)CCO	
+2-Propenoic acid isooctyl ester	CC(C)CCCCCOC(=O)C=C	
+Isooctyl alcohol	CC(C)CCCCCO	
+"1,2-Benzenedicarboxylic acid di(C=8-10) branched alkyl esters, (C=9)-rich"	CC(C)CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC(C)C	
+"1,2-Benzenedicarboxylic acid di(C=9-11) branched alkyl esters, (C=10)-rich"	CC(C)CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC(C)C	
+Branched 4-nonylphenol	CC(C)CCCCCCc1ccc(O)cc1	
+Methyl isoamyl ketone	CC(C)CCC(C)=O	
+sec-Hexyl acetate	CC(C)CC(C)OC(C)=O	
+Methyl amylalcohol	CC(C)CC(C)O	
+"N-(1,3-Dimethylbutyl)-N'-phenyl-1,4-benzenediamine"	CC(C)CC(C)Nc1ccc(Nc2ccccc2)cc1	
+"Methyl isobutyl ketone (MIBK),Hexone"	CC(C)CC(C)=O	
+Diisobutyl ketone	CC(C)CC(=O)CC(C)C	
+Cumene	CC(C)c1ccccc1	
+4-isopropyl-3-methylphenol; 4-isopropyl-m-cresol	CC(C)c1ccc(O)cc1C	
+Thymol	CC(C)c1ccc(C)cc1O	
+"hinokitiol/2-hydroxy-4-isopropyl-2,4,6-cycloheptatrien-1-one"	CC(C)C1=CC(=O)C(=CC=C1)O	
+Methyl isopropyl ketone	CC(C)C(C)=O	
+Butane	CC(C)C	
+2-Bromopropane	CC(C)Br	
+Acetone	CC(C)=O	
+Linalool	CC(C)=CCCC(C)(O)C=C	
+GERANIOL	CC(C)=CCC\C(C)=C\CO	
+"Farnesol	*"	CC(C)=CCC\C(C)=C\CC\C(C)=C\CO	
+Mesityl oxide	CC(C)=CC(C)=O	
+1R-trans phenothrin	CC(C)=C[C@@H]1[C@@H](C(=O)OCc2cccc(Oc3ccccc3)c2)C1(C)C	
+2-Nitropropane	CC(C)[N+]([O-])=O	
+"4,4'-(1-Methylethylidene)bisphenol polymer with (chloromethyl)oxirane"	CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.ClCC3CO3	
+"4,4'-(1-Methylethylidene)bisphenol; Bisphenol A"	CC(C)(c1ccc(O)cc1)c2ccc(O)cc2	
+"4,4'-(1-Methylethylidene)bis[2,6-dibromophenol]"	CC(C)(c1cc(Br)c(O)c(Br)c1)c2cc(Br)c(O)c(Br)c2	
+Bisphenol A bis(diphenyl phosphate)	CC(C)(C1=CC=C(C=C1)OP(=O)(OC2=CC=CC=C2)OC3=CC=CC=C3)C4=CC=C(C=C4)OP(=O)(OC5=CC=CC=C5)OC6=CC=CC=C6	
+tert-Butyl alcohol	CC(C)(C)O	
+"2-(1,1,3,3-Tetramethylbutyl)phenol"	CC(C)(C)CC(C)(C)c1ccccc1O	
+"4-(1,1,3,3-Tetramethylbutyl)phenol ; p-tert-Octylphenol"	CC(C)(C)CC(C)(C)c1ccc(O)cc1	
+Tebuconazole 	CC(C)(C)C(O)(CCc1ccc(Cl)cc1)Cn2cncn2	
+Pindone(Pival)	CC(C)(C)C(=O)C1C(=O)c2ccccc2C1=O	
+"tert-Butyl chromate, as CrO3"	CC(C)(C)[O-].CC(C)(C)[O-].O.O.[Cr+2]	
+Tetramethyl succinonitrile	CC(C)(C#N)C(C)(C)C#N	
+Peracetic acid	CC(=O)OO	
+Stoddard solvent	CC(=O)OCCCCCCBr	
+Acetylsalicylic acid(Aspirin)	CC(=O)Oc1ccccc1C(O)=O	
+Vinyl acetate	CC(=O)OC=C	
+Acetic anhydride	CC(=O)OC(C)=O	
+tert-Butyl acetate	CC(=O)OC(C)(C)C	
+Isobornyl acetate	CC(=O)O[C@H]1C[C@H]2CC[C@@]1(C)C2(C)C	
+Warfarin	CC(=O)CC(c1ccccc1)C2=C(O)Oc3ccccc3C2=O	
+"Diaceton alcohol,4-Hydroxy-4-methyl-2-pentanone"	CC(=O)CC(C)(C)O	
+α-Methyl styrene	CC(=C)c1ccccc1	
+"p-Mentha-1,8-diene ; Dipentene ; Limonene"	CC(=C)C1CCC(=CC1)C	
+Isoprene	CC(=C)C=C	
+Methacrylic acid	CC(=C)C(O)=O	
+2-Methyl-2-propenoic acid 2-propenyl ester	CC(=C)C(=O)OCC=C	
+"[1,1'-Biphenyl]-4-yl 2-methyl-2-propenoate"	CC(=C)C(=O)OC1=CC=C(C=C1)C2=CC=CC=C2	
+Methacrylonitrile	CC(=C)C#N	
+"p-Mentha-1,8-diene ; Dipentene ; Limonene"	CC(=C)[C@@H]1CCC(=CC1)C	
+Acetonitrile ; Methyl cyanide ; Cyanomethane	CC#N	
+Methyl acetylene propadiene mixture(MAPP)	CC#C.[CH2]=[C]=[CH2]	
+Methyl acetylene	CC#C	
+Bromomethane	CBr	
+"(Phenoxymethyl)oxirane ; 2,3-Epoxypropyl phenyl ether"	C1OC1COc2ccccc2	
+"2,2',2'',2'''-[ethane-1,2-diylidenetetrakis(p-phenyleneoxymethylene)]tetraoxirane"	C1OC1COc2ccc(cc2)C(C(c3ccc(OCC4CO4)cc3)c5ccc(OCC6CO6)cc5)c7ccc(OCC8CO8)cc7	
+Phenyloxirane ; Styrene oxide ; (Epoxyethyl)benzene	C1OC1c2ccccc2	
+Hexamethylenetetramine ; Hexamine	C1N2CN3CN1CN(C2)C3	
+"1,4-Diethylene dioxide ; 1,4-Dioxane"	C1COCCO1	
+Morpholine	C1COCCN1	
+Oxirane ; Ethylene oxide	C1CO1	
+Tri(aziridin-1-yl)phosphine oxide ; Aphoxide	C1CN1P(=O)(N2CC2)N3CC3	
+Ethyleneimine	C1CN1	
+1-Imidazolidneethanol	C1CN(CN1)CCO	
+"N,N′-methylenebismorpholine (MBM)"	C1CN(CCO1)CN2CCOCC2	
+Tetrahydrofuran	C1CCOC1	
+Pyridine	c1ccncc1	
+Benzene	c1ccccc1	
+Cyclopentane	C1CCCC1	
+Benzo[b]pyridine ; Quinoline	c1ccc2ncccc2c1	
+Naphthalene	c1ccc2ccccc2c1	
+Chrysen	c1ccc2c(c1)ccc3c4ccccc4ccc23	
+Benzo[def]chrysene ; Benzo[a]pyrene	c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45	
+Cyclohexene	C1CCC=CC1	
+Triphenylphosphine	c1ccc(cc1)P(c2ccccc2)c3ccccc3	
+N-Cyclohexyl-2-benzothiazolesulfenamide	C1CCC(CC1)NSc2sc3ccccc3n2	
+Dicyclohexylamine ; N-Cyclohexylcyclohexanamine	C1CCC(CC1)NC2CCCCC2	
+Azobenzene	c1ccc(cc1)N=Nc2ccccc2	
+Triphenyl amine	c1ccc(cc1)N(c2ccccc2)c3ccccc3	
+"1,1'-Biphenyl ; Diphenyl ; Phenylbenzene"	c1ccc(cc1)c2ccccc2	
+Terphenyls	c1ccc(cc1)c2ccc(cc2)c3ccccc3	
+Vinyl cyclohexenedioxide	C1CC2OC2CC1C3CO3	
+Hydrogenated terphenyls	C1CC=CC(C1)c2ccc(cc2)C3CCC=CC3	
+"5H-1,2-Oxathiole, 2,2-dioxide"	C1C=CS(=O)(=O)O1	
+Indene	C1C=Cc2ccccc12	
+Dicyclopentadiene	C1C=CC2C3CC(C=C3)C12	
+Cyclopentadiene	C1C=CC=C1	
+Diquat	C1C[n+]2ccccc2c3cccc[n+]13	
+Pyridine-triphenylborane (1:1)	C1=CC=NC=C1.C1=CC=C(C=C1)B(C1=CC=CC=C1)C1=CC=CC=C1	
+Naphthenic acids lead salts	C1=CC=C2C=C(C=CC2=C1)C(=O)[O-].C1=CC=C2C=C(C=CC2=C1)C(=O)[O-].[Pb+2]	
+3-(4-Bromophenyl)-9-phenyl-9H-carbazole	C1=CC=C(C=C1)N2C3=C(C=C(C=C3)C4=CC=C(C=C4)Br)C5=CC=CC=C52	
+4?Nitrobiphenyl	C1=CC=C(C=C1)C2=CC=C(C=C2)[N+](=O)[O-]	
+Hexachloronaphthalene	C1=C(C2=C(C(=CC(=C2Cl)Cl)Cl)C(=C1Cl)Cl)Cl	
+[3-Chloro-5-(trifluoromethyl)-2-pyridyl]amine ; ACTP	C1=C(C=NC(=C1Cl)N)C(F)(F)F	
+Pentachloronaphthalene	C1=C(C=C2C(=C1Cl)C(=CC(=C2Cl)Cl)Cl)Cl	
+Paraffin oils	C1=C(C=C(C(=C1O)O)O)C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)O.[Cl-]	
+Formaldehyde ; Formalin	C=O	
+N-Vinyl-2-pyrrolidone(NVP)	C=CN1CCCC1=O	
+Allyl glycidyl ether(AGE)	C=CCOCC1CO1	
+Diallyl phthalate	C=CCOC(=O)c1ccccc1C(=O)OCC=C	
+Oils. mustard	C=CCN=C=S	
+Divinyl benzene	C=Cc1ccccc1C=C	
+Vinyl benzene	C=Cc1ccccc1	
+2-Propenal ; Acrolein	C=CC=O	
+"1,3-Butadiene"	C=CC=C	
+2-Hydroxyethyl acrylate	C=CC(=O)OCCO	
+4-(2-Oxiranylmethoxy)butyl 2-propenoate	C=CC(=O)OCCCCOCC1CO1	
+2-Propenenitrile ; Acrylonitrile ; Cyanoethylene	C=CC#N	
+Ketene	C=C=O	
+Diazomethane	C=[N+]=[N-]	
+Ethylidene norbornene	C\C=C1/CC2CC1C=C2	
+Crotonaldehyde	C\C=C/C=O	
+"(Z,E)-tetradeca-9,12-dienyl acetate"	C\C=C/C/C=C/CCCCCCCCOC(C)=O	
+Methanesulfonic acid	C[S](O)(=O)=O	
+Methanesulfonyl chloride	C[S](Cl)(=O)=O	
+"Tetramethyl lead, as Pb"	C[Pb](C)(C)C	
+Paraquat(Respirable fraction)	C[n+]1ccc(cc1)c2cc[n+](C)cc2	
+Nitromethane	C[N+]([O-])=O	
+L-(+)-lactic acid	C[C@H](O)C(O)=O	
+"Bis(2,3-epithiopropyl)disulfide"	C(SSCC1CS1)C2CS2	
+Diglycidyl ether(DGE)	C(OCC1CO1)C2CO2	
+"2,3-Bis((2-mercaptoethyl)thio)-1-propanethiol"	C(CSCC(CS)SCCS)S	
+"2,2'-[1,2-Ethanediylbis(oxy)]bisethanamineguanidine monohydrochloride polymer with guanidine monohydrochloride"	C(COCCOCCN)N.C(=N)(N)N.Cl	
+Hexamethylene diisocyanate	C(CCCN=C=O)CCN=C=O	
+Starch	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O	
+"Glycine, N-(hydroxymethyl)-, monosodium salt"	C(C(=O)[O-])NCO.[Na+]	
+Trichloroacetonitrile	C(#N)C(Cl)(Cl)Cl	
+Hydrogen cyanide	C#N	
+"1,2-Dibromoethane"	BrCCBr	
+2-bromo-2-(bromomethyl)pentanedinitrile (DBDCB)	BrCC(Br)(CCC#N)C#N	
+Bromobenzene	Brc1ccccc1	
+2-Bromonaphthalene	Brc1ccc2ccccc2c1	
+"1,2,5,6,9,10-Hexabromocyclododecane"	BrC1CCC(Br)C(Br)CCC(Br)C(Br)CCC1Br	
+Hexabromocyclododecane	BrC1CC(Br)CC(Br)CC(Br)CC(Br)CC(Br)C1	
+"1,1'-Oxybis[2,3,4,5,6-pentabromobenzene]"	Brc1c(Br)c(Br)c(Oc2c(Br)c(Br)c(Br)c(Br)c2Br)c(Br)c1Br	
+Vinyl bromide	BrC=C	
+Acetylene tetrabromide	BrC(Br)C(Br)Br	
+Bromoform	BrC(Br)Br	
+Carbon tetrabromide	BrC(Br)(Br)Br	
+α-Bromocinnamaldehyde	BrC(/C=O)=C/c1ccccc1	
+Boron tribromide	BrB(Br)Br	
+Diborane	BB	
+"Zirconium and compounds, as Zr"	[Zr]	
+Zinc dimethyldithiocarbamate	[Zn++].CN(C)C([S-])=S.CN(C)C([S-])=S	
+"Bis(diethylcarbamodithioato-S,S')zinc"	[Zn++].CCN(CC)C([S-])=S.CCN(CC)C([S-])=S	
+Zinc dibutyldithiocarbamate	[Zn++].CCCCN(CCCC)C([S-])=S.CCCCN(CCCC)C([S-])=S	
+Zinc stearate	[Zn++].CCCCCCCCCCCCCCCCCC([O-])=O.CCCCCCCCCCCCCCCCCC([O-])=O	
+Trizinc bis(orthophosphate	[Zn++].[Zn++].[Zn++].[O-][P]([O-])([O-])=O.[O-][P]([O-])([O-])=O	
+Zineb	[Zn++].[S-]C(=S)NCCNC([S-])=S	
+Boric acid zinc salt	[Zn++].[O-]B([O-])[O-]	
+Zinc sulfate	[Zn++].[O-][S]([O-])(=O)=O	
+"Zinc chromates, as Cr"	[Zn++].[O-][Cr]([O-])(=O)=O	
+Zinc pyrithione	C1=CC=[N+](C(=C1)[S-])[O-].C1=CC=[N+](C(=C1)[S-])[O-].[Zn+2]	
+Zinc cyanide	[C-]#N.[C-]#N.[Zn+2]	
+"Yttrium(Metal & compounds, as Y)"	[Y]	
+Tungsten(Soluble compounds)	[W]	
+Ferrovanadium dust	[V].[Fe]	
+"Uranium(Soluble & insoluble compounds, as U)"	[U]	
+"Thallium (Soluble compounds, as Tl)"	[Tl]	
+Bismuth telluride	[Te].[Te]=[Bi].[Te]=[Bi]	
+"Tellurium & compounds, as Te"	[Te]	
+Tantalum	[Ta]	
+Strontium chromate	[Sr++].[O-][Cr]([O-])(=O)=O	
+Tin bis(tetrafluoroborate)	[Sn++].F[B-](F)(F)F.F[B-](F)(F)F	
+Tin sulfate	[Sn++].[O-][S]([O-])(=O)=O	
+"Tin oxide & Inorganic compounds except SnH4, as Sn"	[Sn]	
+Silicon tetrahydride	[SiH4].[SiH4]	
+Silane	[Si]	
+Cadimium selenide	[Se]=[Cd]	
+"Hydrogen selenide, as Se"	[Se]	
+Antimony triiodide	[Sb+3].[I-].[I-].[I-]	
+"Antimony & compounds, as Sb"	[Sb]#[Sb]	
+Stibine	[Sb]	
+"Cadmium zinc sulfide ((Cd,Zn)S)"	[S-2].[S-2].[Zn+2].[Cd+2]	
+"Rhodium, Metal"	[Rh]	
+"Platinum(Soluble salts, as Pt)"	[Pt]	
+C.I. pigment yellow 034	[PbH2++].[PbH2++].[O-]S([O-])(=O)=O.[O-][Cr]([O-])(=O)=O	
+"Lead arsenate, as Pb(AsO4)2"	[Pb++].O[As]([O-])([O-])=O	
+Octadecanoic acid lead(2+) salt ; Lead stearate	[Pb++].CCCCCCCCCCCCCCCCCC([O-])=O.CCCCCCCCCCCCCCCCCC([O-])=O	
+Lead 2-ethylhexanoate ; 2-Ethylhexanoic acid lead(2+) salt	[Pb++].CCCCC(CC)C([O-])=O.CCCCC(CC)C([O-])=O	
+Leadcarbonate 	[Pb++].[O-]C([O-])=O	
+Lead oxide sulfate (Pb4O3(SO4))	[Pb++].[O-][S]([O-])(=O)=O.O=[Pb].O=[Pb].O=[Pb]	
+Lead sulfate (PbSO4)	[Pb++].[O-][S]([O-])(=O)=O	
+Lead dinitrate	[Pb++].[O-][N+]([O-])=O.[O-][N+]([O-])=O	
+Lead chromate (PbCrO4)	[Pb++].[O-][Cr]([O-])(=O)=O	
+Lead cyanamidate (PbNH2(CN))	[Pb].NC#N	
+Dibasic lead stearate	[Pb].CCCCCCCCCCCCCCCCCC([O-])=O	
+Lead	[Pb]
+Phosphorus	[P]	
+Tetramethylammonium hydroxide	[OH-].C[N+](C)(C)C	
+Zinc tetraoxychromate	[OH-].[OH-].[Zn++].[Zn++].[Zn++].[O-][Cr]([O-])(=O)=O.[O-][Cr]([O-])(=O)=O	
+Trilead bis(carbonate) dihydroxide	[OH-].[OH-].[Pb++].[Pb++].[Pb++].[O-]C([O-])=O.[O-]C([O-])=O	
+Nickel hydroxide	[OH-].[OH-].[Ni++]	
+Basic Copper carbonate	[OH-].[OH-].[Cu++].[Cu++].[O-]C([O-])=O	
+Calcium hydroxide	[OH-].[OH-].[Ca++]	
+Sodium hydroxide	[OH-].[Na+]	
+Calcium magnesium tetrahydroxide	[OH-].[Mg++].[Ca++]	
+Potassium hydroxyoctaoxodizincatedichromate(1-)	[OH-].[K+].[Zn++].[Zn++].[O-][Cr]([O-])(=O)=O.[O-][Cr]([O-])(=O)=O	
+Potassium hydroxide	[OH-].[K+]
+Cesium hydroxide	[OH-].[Cs+]	
+Mica(Respirable fraction)	[O-2].O=[Al]O[Al]=O.O=[Si]=O.[K+].[K+]	
+Perlite	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].O=[Mg].O=[Si]=O.O=[Ca].[Na+].[Na+].[Al+3].[Al+3].[K+].[K+].[Fe+3].[Fe+3]	
+"Aluminum oxide,α-Alumina"	[O-2].[O-2].[O-2].[Al+3].[Al+3]	
+Nitrogen dioxide	[O-][N+]=O	
+"Nitroglycol,Ethylene glycol dinitrate"	[O-][N+](=O)OCCO[N+]([O-])=O	
+Nitroglycerin(NG)	[O-][N+](=O)OCC(CO[N+]([O-])=O)O[N+]([O-])=O	
+imidacloprid	[O-][N+](=O)NC1=NCCN1Cc2ccc(Cl)nc2	
+Cyclonite	[O-][N+](=O)N1CN(CN(C1)[N+]([O-])=O)[N+]([O-])=O	
+Dinitrobenzene(all isomers)	[O-][N+](=O)c1ccccc1[N+]([O-])=O	
+Nitrobenzene	[O-][N+](=O)c1ccccc1	
+Glycidyl 3-nitrobenzenesulfonate	[O-][N+](=O)c1cccc(c1)[S](=O)(=O)OC[C@H]2CO2	
+Glycidyl 3-nitrobenzenesulfonate	[O-][N+](=O)c1cccc(c1)[S](=O)(=O)OC[C@@H]2CO2	
+p-Nitrochlorobenzene	[O-][N+](=O)c1ccc(Cl)cc1	
+"Chloropicrin,Trichloronitromethane"	[O-][N+](=O)C(Cl)(Cl)Cl	
+Tetranitromethane	[O-][N+](=O)C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O	
+Potassium permanganate	[O-][Mn](=O)(=O)=O.[K+]	
+C.I. Pigment yellow 36 ; Zinc chromate yellow	[O-][Cr](=O)(=O)[O-].[Zn+2]	
+Chlorine dioxide	[O-][Cl]=O	
+"Lead oxide (PbO), lead-contg."	[O--].[Pb++]	
+Diantimony trioxide	[O--].[O--].[O--].[Sb+3].[Sb+3]	
+Diarsenic trioxide	[O--].[O--].[O--].[As+3].[As+3]	
+Calcium magnesium oxide	[O--].[O--].[Mg++].[Ca++]	
+Dipotassium heptadecaoxotetrazincate tetrachromate(2-)	[O--].[K+].[Zn++].[O-][Cr]([O-])(=O)=O	
+Nickel bis(sulfamidate)	[Ni++].N[S]([O-])(=O)=O.N[S]([O-])(=O)=O	
+Nickel acetate ; Acetic acid nickel(2+) salt	[Ni++].CC([O-])=O.CC([O-])=O	
+Nickel carbonate	[Ni++].[O-]C([O-])=O	
+Nickel sulfate	[Ni++].[O-][S]([O-])(=O)=O	
+Trinickel disulfide	[Ni][Ni][Ni]=[S]=S	
+"Nickel carbonyl, as Ni"	[Ni].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+]	
+"Nickel(Soluble compounds, as Ni) (Inhalable fraction)"	[Ni]	
+Ammonium sulfamate	[NH4+].N[S]([O-])(=O)=O	
+Ammonium hydrogen sulphide	[NH4+].[SH-]	
+Ammonium nitrite	[NH4+].[O-]N=O	
+Ammonium nitrate	[NH4+].[O-][N+]([O-])=O	
+Ammonium sulphide	[NH4+].[NH4+].[S--]	
+Ammonium dichromate	[NH4+].[NH4+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O	
+Ammonium chromate	[NH4+].[NH4+].[O-][Cr]([O-])(=O)=O	
+Ammonium chloride fume	[NH4+].[Cl-]	
+Bis(hydroxylammonium) sulfate	[NH3+]O.[NH3+]O.[O-][S]([O-])(=O)=O	
+2-thiazol-4-yl-1H-benzoimidazole (Thiabendazole)	[nH]1c2ccccc2nc1c3cscn3	
+Sodium hydroxyacetate; Sodium glycolate	[Na+].OCC([O-])=O	
+Sodium bicarbonate	[Na+].OC([O-])=O	
+Sodium tetrafluoroborate(1-)	[Na+].F[B-](F)(F)F	
+Sodium dimethyldithiocarbamate	[Na+].CN(C)C([S-])=S	
+"1,3-Dichloro-1,3,5-triazine-2,4,6(1H,3H,5H)-trione sodium salt "	[Na+].ClN1C(=O)[N-]C(=O)N(Cl)C1=O	
+"Poly(oxy-1,2-ethanediyl), .alpha.-sulfo-.omega.-(dodecyloxy)-, sodium salt"	[Na+].CCCCCCCCCCCCOCCO[S]([O-])(=O)=O	
+Sodium lauryl sulfate	[Na+].CCCCCCCCCCCCO[S]([O-])(=O)=O	
+Dimethylbenzenesulfonic acid sodium salt; Sodium xylenesulfonate	[Na+].Cc1ccc(cc1C)[S]([O-])(=O)=O	
+Acetic acid	[Na+].CC([O-])=O	
+Sodium nitrite	[Na+].[O-]N=O	
+Sodium hypochlorite	[Na+].[O-]Cl	
+나트륨 펜타클로로페네이트	[Na+].[O-]c1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl	
+Sodium fluoroacetate	[Na+].[O-]C(=O)CF	
+Sodium monochloroacetate ; Sodium chloroacetate	[Na+].[O-]C(=O)CCl	
+Sesone	[Na+].[O-][S](=O)(=O)OCCOc1ccc(Cl)cc1Cl	
+Sodium bisulfite	[Na+].[O-][S]([O-])=O	
+Sodium nitrate	[Na+].[O-][N+]([O-])=O	
+Sodium chlorite	[Na+].[O-][Cl]=O	
+Sodium chlorate	[Na+].[O-][Cl](=O)=O	
+"Ethylenediaminetetraacetate, disodium; Disodium EDTA"	[Na+].[Na+].OC(=O)CN(CCN(CC(O)=O)CC([O-])=O)CC([O-])=O	
+C.I. direct red 028	[Na+].[Na+].Nc1c(cc(c2ccccc12)[S]([O-])(=O)=O)N=Nc3ccc(cc3)c4ccc(cc4)N=Nc5cc(c6ccccc6c5N)[S]([O-])(=O)=O	
+C.I. direct black 038	[Na+].[Na+].NC1=CC(N)=C(C=C1)\N=N\C1=CC=C(C=C1)C1=CC=C(C=C1)\N=N\C1=C(C=C2C=C(C(\N=N\C3=CC=CC=C3)=C(O)C2=C1N)S([O-])(=O)=O)S([O-])(=O)=O	
+"Color index-Food Red 40; Allura Red AC; Disodium, 6-hydroxy-5-[(2-methoxy-5-methyl-4-sulfophenyl)azo]-2-naphthalene sulfonic acid"	[Na+].[Na+].COc1cc(c(C)cc1N\N=C2\C(=O)C=Cc3cc(ccc23)[S]([O-])(=O)=O)[S]([O-])(=O)=O	
+Sodium carbonate	[Na+].[Na+].[O-]C([O-])=O	
+Sodium metasilicate	[Na+].[Na+].[O-][Si]([O-])=O	
+Sodium metabisulfite	[Na+].[Na+].[O-][S](=O)O[S]([O-])=O	
+Sodium sulfate	[Na+].[Na+].[O-][S]([O-])(=O)=O	
+Sodium dichromate	[Na+].[Na+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O	
+Nitrilotriacetic acid trisodium salt ; Trisodium nitrilotriacetate	[Na+].[Na+].[Na+].[O-]C(=O)CN(CC([O-])=O)CC([O-])=O	
+"Ethylenediaminetetraacetate, tetrasodium; Tetrasodium EDTA"	[Na+].[Na+].[Na+].[Na+].[O-]C(=O)CN(CCN(CC([O-])=O)CC([O-])=O)CC([O-])=O	
+Tetrasodium pyrophosphate	[Na+].[Na+].[Na+].[Na+].[O-][P]([O-])(=O)O[P]([O-])([O-])=O	
+Sodium tripolyphosphate	[Na+].[Na+].[Na+].[Na+].[Na+].[O-][P]([O-])(=O)O[P]([O-])(=O)O[P]([O-])([O-])=O	
+Sodium azide	[Na+].[N-]=[N+]=[N-]	
+Sodium cyanide	[Na+].[C-]#N	
+Sodium bromide	[Na+].[Br-]	
+Sodium	[Na+]	
+Molybdenum(Insoluble compounds)(Inhalable fraction)	[Mo]	
+"2-Methylcyclopentadienyl manganese tricarbonyl, as Mn"	[Mn].C[c-]1cccc1.[C-]#[O+].[C-]#[O+].[C-]#[O+]	
+"Manganese cyclopentadienyl tricarbonyl, as Mn"	[Mn].[C-]#[O+].[C-]#[O+].[C-]#[O+].[cH-]1cccc1	
+Manganese	[Mn]	
+Magnesium silicofluoride ; Magnesium hexafluorosilicate	[Mg]	
+Magnesite	[Mg++].[O-]C([O-])=O	
+Soapstone	[Mg++].[Mg++].[Mg++].O[Si]([O-])=O.O[Si]([O-])=O.[O-][Si]([O-])=O.[O-][Si]([O-])=O	
+Magnesium phosphide releasing phosphine	[Mg++].[Mg++].[Mg++].[P-3].[P-3]	
+"1,1,1-Trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfon amide lithium salt"	[Li+].C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F	
+Lithium hydride	[Li+].[H-]	
+Lithium fluoride (LiF)	[Li+].[F-]	
+Potassium tetrafluoroborate	[K+].F[B-](F)(F)F	
+Nonylphenol	[K+].CCCCCCCCCc1ccccc1[O-]	
+"Potassium (E,E)-hexa-2,4-dienoate (Potassium Sorbate)"	[K+].C/C=C/C=C/C([O-])=O	
+Potassium chlorate	[K+].[O-][Cl](=O)=O	
+Dipotassium tetraiodomercurate	[K+].[K+].I[Hg-2](I)(I)I	
+Potassium dichromate (K2Cr2O7)	[K+].[K+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O	
+Potassium chromate	[K+].[K+].[O-][Cr]([O-])(=O)=O	
+"N,N-Bis(carboxymethyl)glycine, tripotassium salt"	[K+].[K+].[K+].[O-]C(=O)CN(CC([O-])=O)CC([O-])=O	
+Tetrapotassium pyrophosphate	[K+].[K+].[K+].[K+].[O-][P]([O-])(=O)O[P]([O-])([O-])=O	
+Tripotassium tetra(cyano-C)cuprate(3-)	[K+].[K+].[K+].[Cu+].[C-]#N.[C-]#N.[C-]#N.[C-]#N	
+Potassium cyanide	[K+].[C-]#N	
+Potassium dicyanoaurate	[K+].[Au+].[C-]#N.[C-]#N	
+Potassium dicyanoargentate	[K+].[Ag+].[C-]#N.[C-]#N	
+Potassium	[K+]	
+"Indium & compounds, as In"	[In]	
+Tri-n-butyl methyl phosphonium iodide	[I-].CCCC[P+](C)(CCCC)CCCC	
+Mercury	[Hg]	
+Hafnium	[Hf]	
+Tetrafluoroboric acid	[H+].F[B-](F)(F)F	
+Ammonium hydrogendifluoride	[H+].[NH4+].[F-].[F-]	
+"3,3'-Dichloro(1,1'-biphenyl)-4,4'-diamine dihydrochloride"	[H+].[H+].[Cl-].[Cl-].Nc1ccc(cc1Cl)c2ccc(N)c(Cl)c2	
+"3,3'-Dimethoxybenzidine dihydrochloride"	[H+].[H+].[Cl-].[Cl-].COc1cc(ccc1N)c2ccc(N)c(OC)c2	
+Piperazine dihydrochloride	[H+].[H+].[Cl-].[Cl-].C1CNCCN1	
+Hydrogen fluoride ; Hydrofluoric acid	[H+].[F-]	
+"Hydroxylamine, hydrochloride"	[H+].[Cl-].NO	
+Phenyl hydrazine	[H+].[Cl-].NNc1ccccc1	
+"N,N""""'-1,6-Hexanediyl bis(N'-cyanoguanidine) polymer with 1,6-hexane diamine, hydrochloride"	[H+].[Cl-].NCCCCCCN.NC(NC#N)=NCCCCCCN=C(N)NC#N	
+C.I. basic orange 002	[H+].[Cl-].Nc1ccc(N=Nc2ccccc2)c(N)c1	
+2-Methyl-4-isothiazolin-3-one ; 2-Methyl-2H-isothiazol-3-one	[H+].[Cl-].CN1SC=CC1=O	
+5-Chloro-2-methyl-4-isothiazolin-3-one	[H+].[Cl-].CN1SC(=CC1=O)Cl	
+2-Chloroethyldiethyl ammonium chloride	[H+].[Cl-].CCN(CC)CCCl	
+Medetomidine	[H+].[Cl-].CC(c1[nH]cnc1)c2cccc(C)c2C	
+Hydrogen chloride ; Hydrochloric acid	[H+].[Cl-]	
+Hydrogen bromide	[H+].[Br-]	
+Germanium tetrahydride	[GeH4]	
+Ferbam(Respirable fraction)	[Fe+3].CN(C)C([S-])=S.CN(C)C([S-])=S.CN(C)C([S-])=S	
+Dicyclopentadienyl iron	[Fe++].[cH-]1cccc1.[cH-]2cccc2	
+"Iron pentacarbonyl, as Fe"	[Fe].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+]	
+"Iron salts(Soluble, as Fe)"	[Fe]	
+Sodium monofluoride	[F-].[Na+]	
+Potassium fluoride	[F-].[K+]	
+Nickel difluoride	[F-].[F-].[Ni++]	
+Copper sulfate	[Cu++].[O-][S]([O-])(=O)=O	
+"2-Pyridinethiol-1-oxide, copper salt"	[Cu++].[O-][n+]1ccccc1[S-].[O-][n+]2ccccc2[S-]	
+Copper nitrate	[Cu++].[O-][N+]([O-])=O.[O-][N+]([O-])=O	
+Copper thiocyanate	[Cu+].[S-]C#N	
+Copper cyanide	[Cu+].[C-]#N	
+Copper	[Cu]	
+Chromium(VI)	[Cr+6]	
+"Chromite ore processing (Chromate), as Cr"	[Cr]	
+2-Ethylhexanoic acid cobalt(2+) salt ; Cobaltous octoate	[Co++].CCCCC(CC)C([O-])=O.CCCCC(CC)C([O-])=O	
+Cobalt acetate	[Co++].CC([O-])=O.CC([O-])=O	
+Nitric acid cobalt salt	[Co++].[O-][N+]([O-])=O.[O-][N+]([O-])=O	
+"Cobalt hydrocarbonyl, as Co"	[Co].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+]	
+Cobalt and inorganic compounds	[Co]	
+Tributyltin chloride	CCCC[Sn](CCCC)(CCCC)Cl	
+C.I. basic green 004	[Cl-].CN(C)c1ccc(cc1)[C+](c2ccccc2)c3ccc(cc3)N(C)C	
+"N,N-Dimethyl-N-octadecyl-1-octadecanammonium chloride"	[Cl-].CCCCCCCCCCCCCCCCCC[N+](C)(C)CCCCCCCCCCCCCCCCCC	
+Benzyldimethyl-octadecyl ammonium chloride	[Cl-].CCCCCCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1	
+Cetyl pyridinium chloride	[Cl-].CCCCCCCCCCCCCCCC[n+]1ccccc1	
+"N,N,N-Trimethyl-1-hexadecanaminium chloride"	[Cl-].CCCCCCCCCCCCCCCC[N+](C)(C)C	
+"Quaternary ammonium compounds, benzylalkyl(C=12-16)dimethyl, chlorides"	[Cl-].CCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1	
+"N-Dodecyl-N,N-dimethylbenzenemethanaminium chloride"	[Cl-].CCCCCCCCCCCC[N+](C)(C)Cc1ccccc1	
+Didecyldimethylammonium chloride	[Cl-].CCCCCCCCCC[N+](C)(C)CCCCCCCCCC	
+"Quaternary ammonium compounds, benzyl-(C=8-18)-alkyldimethyl, chlorides"	[Cl-].CCCCCCCCCC[N+](C)(C)Cc1ccccc1	
+"2,3-Epoxypropyltrimethylammonium chloride"	[Cl-].C[N+](C)(C)CC1CO1	
+Tetramethylammonium chloride	[Cl-].C[N+](C)(C)C	
+Copper monochloride	[Cl-].[Cu+]	
+Zinc chloride	[Cl-].[Cl-].[Zn++]	
+Tin dichloride	[Cl-].[Cl-].[Sn++]	
+Nickel dichloride	[Cl-].[Cl-].[Ni++]	
+Antimony trichloride	[Cl-].[Cl-].[Cl-].[Sb+3].CN(C)[C@H]1[C@@H]2C[C@H]3C(=C(O)c4c(O)ccc(Cl)c4[C@@]3(C)O)C(=O)[C@]2(O)C(=O)\C(=C(N)\O)C1=O	
+Octadecanoic acid cadmium salt ; Cadmium stearate	[Cd++].CCCCCCCCCCCCCCCCCC([O-])=O.CCCCCCCCCCCCCCCCCC([O-])=O	
+cadmium dioleate	[Cd++].CCCCCCCC\C=C/CCCCCCCC([O-])=O.CCCCCCCC\C=C/CCCCCCCC([O-])=O	
+Cadmium 2-ethylhexanoate	[Cd++].CCCCC(CC)C([O-])=O.CCCCC(CC)C([O-])=O	
+Neodecanoic acid cadmium salt ; Cadmium neodecanoate	[Cd++].CC(C)(C)CC(C)(C)CC([O-])=O.CC(C)(C)CC(C)(C)CC([O-])=O	
+p-tert-Butylbenzoic acid cadmium salt	[Cd++].CC(C)(C)c1ccc(cc1)C([O-])=O.CC(C)(C)c2ccc(cc2)C([O-])=O	
+Benzoic acid cadmium salt	[Cd++].[O-]C(=O)c1ccccc1.[O-]C(=O)c2ccccc2	
+Cadimium	[Cd++]	
+Antimony compound with cadmium (2:3)	[Cd].[Cd].[Cd].[Sb].[Sb]	
+Calcium cyanamide	[Ca++].NC#N	
+Cadmium octanoate ; Cadmium di(octanoate)	[Ca++].CCCCCCCC([O-])=O.CCCCCCCC([O-])=O	
+Calcium nitrite	[Ca++].[O-]N=O.[O-]N=O	
+Calcium hypochlorite	[Ca++].[O-]Cl.[O-]Cl	
+Calcium carbonate	[Ca++].[O-]C([O-])=O	
+Calcium silicate	[Ca++].[O-][Si]([O-])=O	
+"Cyanides, as CN"	[Ca++].[C-]#N.[C-]#N	
+Silicon carbide	[C-]#[Si+]	
+Carbon monoxide	[C-]#[O+]	
+"Graphite (Natural＆ Synthetic, Except Graphite fibers, Respirable fraction)"	[C]	
+Hexadecyltrimethylammonium bromide	[Br-].CCCCCCCCCCCCCCCC[N+](C)(C)C	
+Triphenylethylphosphonium bromide	[Br-].CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3	
+Diquat	[Br-].[Br-].C1C[n+]2ccccc2c3cccc[n+]13	
+Bromine	[Br-]	
+Beryllium and compounds	[Be]	
+Barium and soluble compounds	[Ba]	
+"Disodium tetraborate, anhydrous"	[B+3].[B+3].[B+3].[B+3].O.O.O.O.O.O.O.[O--].[O--].[O--].[O--].[O--].[O--].[O--].[Na+].[Na+]	
+Decaborane	[B][B][B][B][B][B][B][B][B][B]	
+Dimethylamine borane ; DMAB	[B].CNC	
+Arsine	[As]	
+Aluminium phosphide releasing phosphine	[Al+3].[P-3]	
+Aluminum(Soluble salts)	[Al]	
+Silver nitrate	[Ag+].[O-][N+]([O-])=O	
+Silver cyanide	[Ag+].[C-]#N	
+"Silver, ion"	[Ag]	

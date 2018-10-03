@@ -1,0 +1,4 @@
+﻿Chemical_Name	SMILES	Type
+liothyronine	C1=CC(=C(C=C1OC2=C(C=C(C=C2I)CC(C(=O)O)N)I)I)O	ligand
+Doxorubicin Hydrochloride	CC1C(C(CC(O1)OC2CC(CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=O)CO)O)N)O.Cl	ligand
+Pirinixic acid	CC1=C(C(=CC=C1)NC2=CC(=NC(=N2)SCC(=O)O)Cl)C	ligand

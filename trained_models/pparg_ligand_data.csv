@@ -1,0 +1,797 @@
+Chemical_Name,SMILES,Type
+liothyronine,C1=CC(=C(C=C1OC2=C(C=C(C=C2I)CC(C(=O)O)N)I)I)O,ligand
+Doxorubicin Hydrochloride,CC1C(C(CC(O1)OC2CC(CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=O)CO)O)N)O.Cl,ligand
+Pirinixic acid,CC1=C(C(=CC=C1)NC2=CC(=NC(=N2)SCC(=O)O)Cl)C,ligand
+oxaprozin,C1=CC=C(C=C1)C2=C(OC(=N2)CCC(=O)O)C3=CC=CC=C3,ligand
+lansoprazole,CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCC(F)(F)F,ligand
+loratadine,CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1,ligand
+nimesulide,CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2=CC=CC=C2,ligand
+disulfiram,CCN(CC)C(=S)SSC(=S)N(CC)CC,ligand
+Lorglumide sodium,CCCCCN(CCCCC)C(=O)C(CCC(=O)[O-])NC(=O)C1=CC(=C(C=C1)Cl)Cl.[Na+],ligand
+mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C,ligand
+ethoxyquin,CCOC1=CC2=C(C=C1)NC(C=C2C)(C)C,ligand
+Butyl 4-hydroxybenzoate,CCCCOC(=O)C1=CC=C(C=C1)O,ligand
+IOPANOIC ACID,CCC(CC1=C(C(=C(C=C1I)I)N)I)C(=O)O,ligand
+bezafibrate,CC(C)(C(=O)O)OC1=CC=C(C=C1)CCNC(=O)C2=CC=C(C=C2)Cl,ligand
+omeprazole,CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC,ligand
+Diclofenac sodium,C1=CC=C(C(=C1)CC(=O)[O-])NC2=C(C=CC=C2Cl)Cl.[Na+],ligand
+DSSTox_CID_25584,CC1=C(C=CC=C1NC2=C(C=CC=N2)C(=O)O)C(F)(F)F.CNCC(C(C(C(CO)O)O)O)O,ligand
+NCGC00017116-01,CC(C1=CC(=CC=C1)OC2=CC=CC=C2)C(=O)[O-].CC(C1=CC(=CC=C1)OC2=CC=CC=C2)C(=O)[O-].O.O.[Ca+2],ligand
+Phenazopyridine hydrochloride,C1=CC=C(C=C1)N=NC2=C(N=C(C=C2)N)N.Cl,ligand
+Cinchophen,C1=CC=C(C=C1)C2=NC3=CC=CC=C3C(=C2)C(=O)O,ligand
+Zomepirac sodium salt,CC1=C(N(C(=C1)CC(=O)[O-])C)C(=O)C2=CC=C(C=C2)Cl.[Na+],ligand
+dichlorvos,COP(=O)(OC)OC=C(Cl)Cl,ligand
+Sodium dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],ligand
+linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O,ligand
+hexylresorcinol,CCCCCCC1=C(C=C(C=C1)O)O,ligand
+estradiol,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,ligand
+losartan,CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)CO)Cl,ligand
+pioglitazone hydrochloride,CCC1=CN=C(C=C1)CCOC2=CC=C(C=C2)CC3C(=O)NC(=O)S3.Cl,ligand
+oxazepam,C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O,ligand
+PHENYLHYDRAZINE HYDROCHLORIDE,C1=CC=C(C=C1)NN.Cl,ligand
+Potassium warfarin,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)[O-].[K+],ligand
+Pravadoline,CC1=C(C2=CC=CC=C2N1CCN3CCOCC3)C(=O)C4=CC=C(C=C4)OC,ligand
+Romazarit,CC1=C(OC(=N1)C2=CC=C(C=C2)Cl)COC(C)(C)C(=O)O,ligand
+temephos,COP(=S)(OC)OC1=CC=C(C=C1)SC2=CC=C(C=C2)OP(=S)(OC)OC,ligand
+estradiol cypionate,CC12CCC3C(C1CCC2OC(=O)CCC4CCCC4)CCC5=C3C=CC(=C5)O,not_ligand
+tert-Butylhydroquinone,CC(C)(C)C1=C(C=CC(=C1)O)O,not_ligand
+GERANIOL,CC(=CCCC(=CCO)C)C,not_ligand
+PHENOL RED,C1=CC=C2C(=C1)C(OS2(=O)=O)(C3=CC=C(C=C3)O)C4=CC=C(C=C4)O,not_ligand
+2-ketoglutaric acid,C(CC(=O)O)C(=O)C(=O)O,not_ligand
+Yohimbine,COC(=O)C1C(CCC2C1CC3C4=C(CCN3C2)C5=CC=CC=C5N4)O,not_ligand
+PYRIDOXAMINE DIHYDROCHLORIDE,CC1=NC=C(C(=C1O)CN)CO.Cl.Cl,not_ligand
+4-Sulfamoylbenzoic acid,C1=CC(=CC=C1C(=O)O)S(=O)(=O)N,not_ligand
+pridinol,C1CCN(CC1)CCC(C2=CC=CC=C2)(C3=CC=CC=C3)O,not_ligand
+Procodazole,C1=CC=C2C(=C1)NC(=N2)CCC(=O)O,not_ligand
+sulfaquinoxaline,C1=CC=C2C(=C1)N=CC(=N2)NS(=O)(=O)C3=CC=C(C=C3)N,not_ligand
+51-56-9,CN1C2CCC1CC(C2)OC(=O)C(C3=CC=CC=C3)O.Br,not_ligand
+Scopolamine hydrobromide,CN1C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4.Br,not_ligand
+scopolamine methyl bromide,C[N+]1(C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4)C.[Br-],not_ligand
+Phosphonoacetic acid,C(C(=O)O)P(=O)(O)O,not_ligand
+mesoridazine,CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)C,not_ligand
+domperidone,C1CN(CCC1N2C3=C(C=C(C=C3)Cl)NC2=O)CCCN4C5=CC=CC=C5NC4=O,not_ligand
+Pifexole,C1=CC=C(C(=C1)C2=NC(=NO2)C3=CC=NC=C3)Cl,not_ligand
+zidovudine,CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N=[N+]=[N-],not_ligand
+azelaic acid,C(CCCC(=O)O)CCCC(=O)O,not_ligand
+amoxapine,C1CN(CCN1)C2=NC3=CC=CC=C3OC4=C2C=C(C=C4)Cl,not_ligand
+4-aminopyridine,C1=CN=CC=C1N,not_ligand
+Alaproclate,CC(C(=O)OC(C)(C)CC1=CC=C(C=C1)Cl)N,not_ligand
+acetohexamide,CC(=O)C1=CC=C(C=C1)S(=O)(=O)NC(=O)NC2CCCCC2,not_ligand
+amantadine,C1C2CC3CC1CC(C2)(C3)N,not_ligand
+Tacrine,C1CCC2=NC3=CC=CC=C3C(=C2C1)N,not_ligand
+azathioprine,CN1C=NC(=C1SC2=NC=NC3=C2NC=N3)[N+](=O)[O-],not_ligand
+acyclovir,C1=NC2=C(N1COCCO)NC(=NC2=O)N,not_ligand
+aspirin,CC(=O)OC1=CC=CC=C1C(=O)O,not_ligand
+amifostine,C(CN)CNCCSP(=O)(O)O,not_ligand
+acetazolamide,CC(=O)NC1=NN=C(S1)S(=O)(=O)N,not_ligand
+arecoline,CN1CCC=C(C1)C(=O)OC,not_ligand
+6-aminohexanoic acid,C(CCC(=O)O)CCN,not_ligand
+allopurinol,C1=C2C(=NC=NC2=O)NN1,not_ligand
+alprenolol,CC(C)NCC(COC1=CC=CC=C1CC=C)O,not_ligand
+altretamine,CN(C)C1=NC(=NC(=N1)N(C)C)N(C)C,not_ligand
+aniracetam,COC1=CC=C(C=C1)C(=O)N2CCCC2=O,not_ligand
+bumetanide,CCCCNC1=C(C(=CC(=C1)C(=O)O)S(=O)(=O)N)OC2=CC=CC=C2,not_ligand
+bepridil,CC(C)COCC(CN(CC1=CC=CC=C1)C2=CC=CC=C2)N3CCCC3,not_ligand
+baclofen,C1=CC(=CC=C1C(CC(=O)O)CN)Cl,not_ligand
+betaxolol,CC(C)NCC(COC1=CC=C(C=C1)CCOCC2CC2)O,not_ligand
+buspirone,C1CCC2(C1)CC(=O)N(C(=O)C2)CCCCN3CCN(CC3)C4=NC=CC=N4,not_ligand
+chlormezanone,CN1C(S(=O)(=O)CCC1=O)C2=CC=C(C=C2)Cl,not_ligand
+cirazoline,C1CC1C2=CC=CC=C2OCC3=NCCN3,not_ligand
+chlorambucil,C1=CC(=CC=C1CCCC(=O)O)N(CCCl)CCCl,not_ligand
+carmustine,C(CCl)NC(=O)N(CCCl)N=O,not_ligand
+cilostazol,C1CCC(CC1)N2C(=NN=N2)CCCCOC3=CC4=C(C=C3)NC(=O)CC4,not_ligand
+Cyclophosphamide monohydrate,C1CNP(=O)(OC1)N(CCCl)CCCl.O,not_ligand
+chlorpropamide,CCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)Cl,not_ligand
+mitotane,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl,not_ligand
+carbamazepine,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,not_ligand
+chlorzoxazone,C1=CC2=C(C=C1Cl)NC(=O)O2,not_ligand
+cimetidine,CC1=C(N=CN1)CSCCNC(=NC)NC#N,not_ligand
+chlorothiazide,C1=C2C(=CC(=C1Cl)S(=O)(=O)N)S(=O)(=O)N=CN2,not_ligand
+cinnarizine,C1CN(CCN1CC=CC2=CC=CC=C2)C(C3=CC=CC=C3)C4=CC=CC=C4,not_ligand
+CYPROHEPTADINE,CN1CCC(=C2C3=CC=CC=C3C=CC4=CC=CC=C42)CC1,not_ligand
+Fenclonine,C1=CC(=CC=C1CC(C(=O)O)N)Cl,not_ligand
+Chloroquine diphosphate,CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl.OP(=O)(O)O.OP(=O)(O)O,not_ligand
+clofibrate,CCOC(=O)C(C)(C)OC1=CC=C(C=C1)Cl,not_ligand
+clonidine,C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl,not_ligand
+cinoxacin,CCN1C2=CC3=C(C=C2C(=O)C(=N1)C(=O)O)OCO3,not_ligand
+carisoprodol,CCCC(C)(COC(=O)N)COC(=O)NC(C)C,not_ligand
+Meclofenoxate hydrochloride,CN(C)CCOC(=O)COC1=CC=C(C=C1)Cl.Cl,not_ligand
+cyclothiazide,C1C2CC(C1C=C2)C3NC4=CC(=C(C=C4S(=O)(=O)N3)S(=O)(=O)N)Cl,not_ligand
+dobutamine,CC(CCC1=CC=C(C=C1)O)NCCC2=CC(=C(C=C2)O)O,not_ligand
+diphenhydramine,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,not_ligand
+Doxepin Hydrochloride,CN(C)CCC=C1C2=CC=CC=C2COC3=CC=CC=C31.Cl,not_ligand
+diazoxide,CC1=NS(=O)(=O)C2=C(N1)C=CC(=C2)Cl,not_ligand
+propofol,CC(C)C1=C(C(=CC=C1)C(C)C)O,not_ligand
+ETHAMIVAN,CCN(CC)C(=O)C1=CC(=C(C=C1)O)OC,not_ligand
+ENOXIMONE,CC1=C(NC(=O)N1)C(=O)C2=CC=C(C=C2)SC,not_ligand
+Edrophonium chloride,CC[N+](C)(C)C1=CC(=CC=C1)O.[Cl-],not_ligand
+Efaroxan,CCC1(CC2=CC=CC=C2O1)C3=NCCN3,not_ligand
+EGTA,C(COCCOCCN(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O,not_ligand
+Furafylline,CC1=NC2=C(N1)C(=O)N(C(=O)N2CC3=CC=CO3)C,not_ligand
+felbamate,C1=CC=C(C=C1)C(COC(=O)N)COC(=O)N,not_ligand
+fenofibrate,CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl,not_ligand
+flumazenil,CCOC(=O)C1=C2CN(C(=O)C3=C(N2C=N1)C=CC(=C3)F)C,not_ligand
+5-Fluorouracil,C1=C(C(=O)NC(=O)N1)F,not_ligand
+flecainide,C1CCNC(C1)CNC(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F,not_ligand
+fenoldopam,C1CNCC(C2=CC(=C(C(=C21)Cl)O)O)C3=CC=C(C=C3)O,not_ligand
+Famotidina,C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N,not_ligand
+flutamide,CC(C)C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F,not_ligand
+felodipine,CCOC(=O)C1=C(NC(=C(C1C2=C(C(=CC=C2)Cl)Cl)C(=O)OC)C)C,not_ligand
+glipizide,CC1=NC=C(N=C1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3,not_ligand
+gabapentin,C1CCC(CC1)(CC(=O)O)CN,not_ligand
+guanfacine hydrochloride,C1=CC(=C(C(=C1)Cl)CC(=O)N=C(N)N)Cl.Cl,not_ligand
+ganciclovir,C1=NC2=C(N1COC(CO)CO)NC(=NC2=O)N,not_ligand
+haloperidol,C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F,not_ligand
+HYDRALAZINE HYDROCHLORIDE,C1=CC=C2C(=C1)C=NN=C2NN.Cl,not_ligand
+Velnacrine maleate,C1CC(C2=C(C3=CC=CC=C3N=C2C1)N)O.C(=CC(=O)O)C(=O)O,not_ligand
+hydrochlorothiazide,C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl,not_ligand
+histamine,C1=C(NC=N1)CCN,not_ligand
+dopamine,C1=CC(=C(C=C1CCN)O)O,not_ligand
+hydroxyurea,C(=O)(N)NO,not_ligand
+ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,not_ligand
+isoproterenol,CC(C)NCC(C1=CC(=C(C=C1)O)O)O,not_ligand
+Imiloxan,CCN1C=CN=C1CC2COC3=CC=CC=C3O2,not_ligand
+ketotifen,CN1CCC(=C2C3=C(C(=O)CC4=CC=CC=C42)SC=C3)CC1,not_ligand
+Linopirdine,C1=CC=C(C=C1)N2C3=CC=CC=C3C(C2=O)(CC4=CC=NC=C4)CC5=CC=NC=C5,not_ligand
+Loxoprofen,CC(C1=CC=C(C=C1)CC2CCCC2=O)C(=O)O,not_ligand
+lamotrigine,C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N,not_ligand
+leflunomide,CC1=C(C=NO1)C(=O)NC2=CC=C(C=C2)C(F)(F)F,not_ligand
+lidocaine,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C,not_ligand
+metolazone,CC1NC2=CC(=C(C=C2C(=O)N1C3=CC=CC=C3C)S(=O)(=O)N)Cl,not_ligand
+metoclopramide,CCN(CC)CCNC(=O)C1=CC(=C(C=C1OC)N)Cl,not_ligand
+MOXONIDINE,CC1=NC(=C(C(=N1)Cl)NC2=NCCN2)OC,not_ligand
+mianserin,CN1CCN2C(C1)C3=CC=CC=C3CC4=CC=CC=C42,not_ligand
+molsidomine,CCOC(=NC1=C[N+](=NO1)N2CCOCC2)[O-],not_ligand
+minoxidil,C1CCN(CC1)C2=NC(=N)N(C(=C2)N)O,not_ligand
+moxisylyte hydrochloride,CC1=CC(=C(C=C1OC(=O)C)C(C)C)OCCN(C)C.Cl,not_ligand
+Melatonin,CC(=O)NCCC1=CNC2=C1C=C(C=C2)OC,not_ligand
+Procorum,CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C(=C2)OC)OC)OC.Cl,not_ligand
+mecamylamine,CC1(C2CCC(C2)C1(C)NC)C,not_ligand
+memantine,CC12CC3CC(C1)(CC(C3)(C2)N)C,not_ligand
+nitrendipine,CCOC(=O)C1=C(NC(=C(C1C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OC)C)C,not_ligand
+nimodipine,CC1=C(C(C(=C(N1)C)C(=O)OC(C)C)C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OCCOC,not_ligand
+Nisoxetine,CNCCC(C1=CC=CC=C1)OC2=CC=CC=C2OC,not_ligand
+nylidrin,CC(CCC1=CC=CC=C1)NC(C)C(C2=CC=C(C=C2)O)O,not_ligand
+Nialamide,C1=CC=C(C=C1)CNC(=O)CCNNC(=O)C2=CC=NC=C2,not_ligand
+nifedipine,CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC,not_ligand
+nilutamide,CC1(C(=O)N(C(=O)N1)C2=CC(=C(C=C2)[N+](=O)[O-])C(F)(F)F)C,not_ligand
+NIMUSTINE,CC1=NC=C(C(=N1)N)CNC(=O)N(CCCl)N=O,not_ligand
+octopamine,C1=CC(=CC=C1C(CN)O)O,not_ligand
+oxolinic acid,CCN1C=C(C(=O)C2=CC3=C(C=C21)OCO3)C(=O)O,not_ligand
+oxymetazoline,CC1=CC(=C(C(=C1CC2=NCCN2)C)O)C(C)(C)C,not_ligand
+Pirenperone,CC1=C(C(=O)N2C=CC=CC2=N1)CCN3CCC(CC3)C(=O)C4=CC=C(C=C4)F,not_ligand
+pindolol,CC(C)NCC(COC1=CC=CC2=C1C=CN2)O,not_ligand
+Palmitoylethanolamide,CCCCCCCCCCCCCCCC(=O)NCCO,not_ligand
+pentoxifylline,CC(=O)CCCCN1C(=O)C2=C(N=CN2C)N(C1=O)C,not_ligand
+PIRFENIDONE,CC1=CN(C(=O)C=C1)C2=CC=CC=C2,not_ligand
+PAPAVERINE HYDROCHLORIDE,COC1=C(C=C(C=C1)CC2=NC=CC3=CC(=C(C=C32)OC)OC)OC.Cl,not_ligand
+piracetam,C1CC(=O)N(C1)CC(=O)N,not_ligand
+pyrilamine,CN(C)CCN(CC1=CC=C(C=C1)OC)C2=CC=CC=N2,not_ligand
+piroxicam,CN1C(=C(C2=CC=CC=C2S1(=O)=O)O)C(=O)NC3=CC=CC=N3,not_ligand
+Phenelzine sulfate,C1=CC=C(C=C1)CCNN.OS(=O)(=O)O,not_ligand
+pyrazinamide,C1=CN=C(C=N1)C(=O)N,not_ligand
+primidone,CCC1(C(=O)NCNC1=O)C2=CC=CC=C2,not_ligand
+pirenzepine,CN1CCN(CC1)CC(=O)N2C3=CC=CC=C3C(=O)NC4=C2N=CC=C4,not_ligand
+Pargyline hydrochloride,CN(CC#C)CC1=CC=CC=C1.Cl,not_ligand
+phenylbutazone,CCCCC1C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3,not_ligand
+piribedil,C1CN(CCN1CC2=CC3=C(C=C2)OCO3)C4=NC=CC=N4,not_ligand
+PROCAINAMIDE,CCN(CC)CCNC(=O)C1=CC=C(C=C1)N,not_ligand
+propentofylline,CCCN1C=NC2=C1C(=O)N(C(=O)N2C)CCCCC(=O)C,not_ligand
+PROCAINE HYDROCHLORIDE,CCN(CC)CCOC(=O)C1=CC=C(C=C1)N.Cl,not_ligand
+QUIPAZINE MALEATE,C1CN(CCN1)C2=NC3=CC=CC=C3C=C2.C(=CC(=O)O)C(=O)O,not_ligand
+ranitidine,CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C,not_ligand
+ritanserin,CC1=C(C(=O)N2C=CSC2=N1)CCN3CCC(=C(C4=CC=C(C=C4)F)C5=CC=C(C=C5)F)CC3,not_ligand
+riluzole,C1=CC2=C(C=C1OC(F)(F)F)SC(=N2)N,not_ligand
+risperidone,CC1=C(C(=O)N2CCCCC2=N1)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F,not_ligand
+ropinirole,CCCN(CCC)CCC1=C2CC(=O)NC2=CC=C1,not_ligand
+RANOLAZINE,CC1=C(C(=CC=C1)C)NC(=O)CN2CCN(CC2)CC(COC3=CC=CC=C3OC)O,not_ligand
+Spiroxatrine,C1CN(CCC12C(=O)NCN2C3=CC=CC=C3)CC4COC5=CC=CC=C5O4,not_ligand
+sulfaphenazole,C1=CC=C(C=C1)N2C(=CC=N2)NS(=O)(=O)C3=CC=C(C=C3)N,not_ligand
+SR 57227A,C1CN(CCC1N)C2=NC(=CC=C2)Cl.Cl,not_ligand
+Siguazodan,CC1CC(=O)NN=C1C2=CC=C(C=C2)NC(=NC)NC#N,not_ligand
+Salbutamol,CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O,not_ligand
+spiperone,C1CN(CCC12C(=O)NCN2C3=CC=CC=C3)CCCC(=O)C4=CC=C(C=C4)F,not_ligand
+sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O,not_ligand
+gaboxadol,C1CNCC2=C1C(=O)NO2,not_ligand
+tropisetron,CN1C2CCC1CC(C2)OC(=O)C3=CNC4=CC=CC=C43,not_ligand
+Tracazolate hydrochloride,CCCCNC1=C2C=NN(C2=NC(=C1C(=O)OCC)C)CC.Cl,not_ligand
+Telenzepine,CC1=C2C(=CS1)C(=O)NC3=CC=CC=C3N2C(=O)CN4CCN(CC4)C,not_ligand
+thalidomide,C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O,not_ligand
+Tiapride hydrochloride,CCN(CC)CCNC(=O)C1=C(C=CC(=C1)S(=O)(=O)C)OC.Cl,not_ligand
+taurine,C(CS(=O)(=O)O)N,not_ligand
+tolbutamide,CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)C,not_ligand
+tolazamide,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN2CCCCCC2,not_ligand
+tyramine,C1=CC(=CC=C1CCN)O,not_ligand
+theobromine,CN1C=NC2=C1C(=O)NC(=O)N2C,not_ligand
+dl-Thioctic acid,C1CSSC1CCCCC(=O)O,not_ligand
+Trazodone hydrochloride,C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl.Cl,not_ligand
+Tyrphostin 23,C1=CC(=C(C=C1C=C(C#N)C#N)O)O,not_ligand
+Trim,C1=CC=C(C(=C1)C(F)(F)F)N2C=CN=C2,not_ligand
+Tetracaine hydrochloride,CCCCNC1=CC=C(C=C1)C(=O)OCCN(C)C.Cl,not_ligand
+trimethoprim,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,not_ligand
+tropicamide,CCN(CC1=CC=NC=C1)C(=O)C(CO)C2=CC=CC=C2,not_ligand
+brimonidine,C1CN=C(N1)NC2=C(C3=NC=CN=C3C=C2)Br,not_ligand
+NONIVAMIDE,CCCCCCCCC(=O)NCC1=CC(=C(C=C1)O)OC,not_ligand
+xylazine,CC1=C(C(=CC=C1)C)NC2=NCCCS2,not_ligand
+Xylometazoline hydrochloride,CC1=CC(=CC(=C1CC2=NCCN2)C)C(C)(C)C.Cl,not_ligand
+zaprinast,CCCOC1=CC=CC=C1C2=NC(=O)C3=NNNC3=N2,not_ligand
+zardaverine,COC1=C(C=CC(=C1)C2=NNC(=O)C=C2)OC(F)F,not_ligand
+Loxapine succinate,CN1CCN(CC1)C2=NC3=CC=CC=C3OC4=C2C=C(C=C4)Cl.C(CC(=O)O)C(=O)O,not_ligand
+Pempidine d-tartaric acid,CC1(CCCC(N1C)(C)C)C.C(C(C(=O)O)O)(C(=O)O)O,not_ligand
+l-ascorbic acid,C(C(C1C(=C(C(=O)O1)O)O)O)O,not_ligand
+PRALIDOXIME CHLORIDE,CN1C=CC=CC1=C[NH+]=O.[Cl-],not_ligand
+DSSTox_CID_1478,CC12CCC3C(C1CCC2(C#C)O)CCC4=CCCCC34,not_ligand
+METHANTHELINE BROMIDE,CC[N+](C)(CC)CCOC(=O)C1C2=CC=CC=C2OC3=CC=CC=C13.[Br-],not_ligand
+furosemide,C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl,not_ligand
+metyrapone,CC(C)(C1=CN=CC=C1)C(=O)C2=CN=CC=C2,not_ligand
+idoxuridine,C1C(C(OC1N2C=C(C(=O)NC2=O)I)CO)O,not_ligand
+chlorhexidine,C1=CC(=CC=C1NC(=NC(=NCCCCCCN=C(N)N=C(N)NC2=CC=C(C=C2)Cl)N)N)Cl,not_ligand
+probenecid,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O,not_ligand
+sulfaguanidine,C1=CC(=CC=C1N)S(=O)(=O)N=C(N)N,not_ligand
+testosterone propionate,CCC(=O)OC1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C,not_ligand
+sulfinpyrazone,C1=CC=C(C=C1)N2C(=O)C(C(=O)N2C3=CC=CC=C3)CCS(=O)C4=CC=CC=C4,not_ligand
+aminophenazone,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)C,not_ligand
+nicotinic acid,C1=CC(=CN=C1)C(=O)O,not_ligand
+Tolazoline hydrochloride,C1CN=C(N1)CC2=CC=CC=C2.Cl,not_ligand
+guanethidine sulfate,C1CCCN(CCC1)CCN=C(N)N.OS(=O)(=O)O.OS(=O)(=O)O,not_ligand
+methimazole,CN1C=CNC1=S,not_ligand
+antipyrine,CC1=CC(=O)N(N1C)C2=CC=CC=C2,not_ligand
+Zoxazolamine,C1=CC2=C(C=C1Cl)N=C(O2)N,not_ligand
+phenacetin,CCOC1=CC=C(C=C1)NC(=O)C,not_ligand
+Methacholine chloride,CC(C[N+](C)(C)C)OC(=O)C.[Cl-],not_ligand
+DIPHEMANIL METHYLSULFATE,C[N+]1(CCC(=C(C2=CC=CC=C2)C3=CC=CC=C3)CC1)C.COS(=O)(=O)[O-],not_ligand
+primaquine diphosphate,CC(CCCN)NC1=C2C(=CC(=C1)OC)C=CC=N2.OP(=O)(O)O.OP(=O)(O)O,not_ligand
+sulfanilamide,C1=CC(=CC=C1N)S(=O)(=O)N,not_ligand
+TETRACYCLINE HYDROCHLORIDE,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O.Cl,not_ligand
+Desoxycortone,CC12CCC3C(C1CCC2C(=O)CO)CCC4=CC(=O)CCC34C,not_ligand
+vitamin B12,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=C(C7=NC(=CC8=NC(=C(C4=N5)C)C(C8(C)C)CCC(=O)N)C(C7(C)CC(=O)N)CCC(=O)N)C)[N-]6)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3],not_ligand
+D-cycloserine,C1C(C(=O)NO1)N,not_ligand
+isopropamide,CC(C)[N+](C)(CCC(C1=CC=CC=C1)(C2=CC=CC=C2)C(=O)N)C(C)C,not_ligand
+sulfathiazole,C1=CC(=CC=C1N)S(=O)(=O)NC2=NC=CS2,not_ligand
+phentolamine,CC1=CC=C(C=C1)N(CC2=NCCN2)C3=CC(=CC=C3)O,not_ligand
+BENDROFLUMETHIAZIDE,C1=CC=C(C=C1)CC2NC3=C(C=C(C(=C3)C(F)(F)F)S(=O)(=O)N)S(=O)(=O)N2,not_ligand
+QUINETHAZONE,CCC1NC2=CC(=C(C=C2C(=O)N1)S(=O)(=O)N)Cl,not_ligand
+MEPENZOLATE BROMIDE,C[N+]1(CCCC(C1)OC(=O)C(C2=CC=CC=C2)(C3=CC=CC=C3)O)C.[Br-],not_ligand
+pyrithyldione,CCC1(C(=O)C=CNC1=O)CC,not_ligand
+chlorthalidone,C1=CC=C2C(=C1)C(=O)NC2(C3=CC(=C(C=C3)Cl)S(=O)(=O)N)O,not_ligand
+ethosuximide,CCC1(CC(=O)NC1=O)C,not_ligand
+dapsone,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,not_ligand
+Sulfachloropyridazine,C1=CC(=CC=C1N)S(=O)(=O)NC2=NN=C(C=C2)Cl,not_ligand
+sulfamethoxypyridazine,COC1=NN=C(C=C1)NS(=O)(=O)C2=CC=C(C=C2)N,not_ligand
+khellin,CC1=CC(=O)C2=C(C3=C(C(=C2O1)OC)OC=C3)OC,not_ligand
+phenindione,C1=CC=C(C=C1)C2C(=O)C3=CC=CC=C3C2=O,not_ligand
+methylprednisolone,CC1CC2C3CCC(C3(CC(C2C4(C1=CC(=O)C=C4)C)O)C)(C(=O)CO)O,not_ligand
+phthalylsulfathiazole,C1=CC=C(C(=C1)C(=O)NC2=CC=C(C=C2)S(=O)(=O)NC3=NC=CS3)C(=O)O,not_ligand
+dibucaine,CCCCOC1=NC2=CC=CC=C2C(=C1)C(=O)NCCN(CC)CC,not_ligand
+Phensuximide,CN1C(=O)CC(C1=O)C2=CC=CC=C2,not_ligand
+Sparteine,C1CCN2CC3CC(C2C1)CN4C3CCCC4,not_ligand
+benzthiazide,C1=CC=C(C=C1)CSCC2=NS(=O)(=O)C3=CC(=C(C=C3N2)Cl)S(=O)(=O)N,not_ligand
+guaifenesin,COC1=CC=CC=C1OCC(CO)O,not_ligand
+Synephrine,CNCC(C1=CC=C(C=C1)O)O,not_ligand
+allantoin,C1(C(=O)NC(=O)N1)NC(=O)N,not_ligand
+acetaminophen,CC(=O)NC1=CC=C(C=C1)O,not_ligand
+Benzonatate,CCCCNC1=CC=C(C=C1)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC,not_ligand
+Azacyclonol,C1CNCCC1C(C2=CC=CC=C2)(C3=CC=CC=C3)O,not_ligand
+succinylsulfathiazole,C1=CC(=CC=C1NC(=O)CCC(=O)O)S(=O)(=O)NC2=NC=CS2,not_ligand
+roxarsone,C1=CC(=C(C=C1[As](=O)(O)O)[N+](=O)[O-])O,not_ligand
+benzethonium chloride,CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCOCC[N+](C)(C)CC2=CC=CC=C2.[Cl-],not_ligand
+Carbarsone,C1=CC(=CC=C1NC(=O)N)[As](=O)(O)O,not_ligand
+sulfadimethoxine,COC1=NC(=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N)OC,not_ligand
+aminoglutethimide,CCC1(CCC(=O)NC1=O)C2=CC=C(C=C2)N,not_ligand
+Oxethazaine,CC(C)(CC1=CC=CC=C1)N(C)C(=O)CN(CCO)CC(=O)N(C)C(C)(C)CC2=CC=CC=C2,not_ligand
+trimethadione,CC1(C(=O)N(C(=O)O1)C)C,not_ligand
+sulfisoxazole,CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N,not_ligand
+sulfabenzamide,C1=CC=C(C=C1)C(=O)NS(=O)(=O)C2=CC=C(C=C2)N,not_ligand
+sulfamerazine,CC1=NC(=NC=C1)NS(=O)(=O)C2=CC=C(C=C2)N,not_ligand
+noscapine,CN1CCC2=CC3=C(C(=C2C1C4C5=C(C(=C(C=C5)OC)OC)C(=O)O4)OC)OCO3,not_ligand
+Piperidolate hydrochloride,CCN1CCCC(C1)OC(=O)C(C2=CC=CC=C2)C3=CC=CC=C3.Cl,not_ligand
+clioquinol,C1=CC2=C(C(=C(C=C2Cl)I)O)N=C1,not_ligand
+oxybenzone,COC1=CC(=C(C=C1)C(=O)C2=CC=CC=C2)O,not_ligand
+Diphenylpyraline hydrochloride,CN1CCC(CC1)OC(C2=CC=CC=C2)C3=CC=CC=C3.Cl,not_ligand
+Benzydamine hydrochloride,CN(C)CCCOC1=NN(C2=CC=CC=C21)CC3=CC=CC=C3.Cl,not_ligand
+trichlormethiazide,C1=C2C(=CC(=C1Cl)S(=O)(=O)N)S(=O)(=O)NC(N2)C(Cl)Cl,not_ligand
+hydroflumethiazide,C1NC2=C(C=C(C(=C2)C(F)(F)F)S(=O)(=O)N)S(=O)(=O)N1,not_ligand
+Mafenide hydrochloride,C1=CC(=CC=C1CN)S(=O)(=O)N.Cl,not_ligand
+sulfamethizole,CC1=NN=C(S1)NS(=O)(=O)C2=CC=C(C=C2)N,not_ligand
+thiabendazole,C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3,not_ligand
+butacaine,CCCCN(CCCC)CCCOC(=O)C1=CC=C(C=C1)N,not_ligand
+dydrogesterone,CC(=O)C1CCC2C1(CCC3C2C=CC4=CC(=O)CCC34C)C,not_ligand
+UNII-184M412SJH,CC(C(C1=CC=CC=C1)O)N.Cl,not_ligand
+methoxsalen,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,not_ligand
+Cyclizine dihydrochloride,CN1CCN(CC1)C(C2=CC=CC=C2)C3=CC=CC=C3.Cl.Cl,not_ligand
+DEXPROPRANOLOL,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O,not_ligand
+ISOFLUPREDONE ACETATE,CC(=O)OCC(=O)C1(CCC2C1(CC(C3(C2CCC4=CC(=O)C=CC43C)F)O)C)O,not_ligand
+Procarbazine hydrochloride,CC(C)NC(=O)C1=CC=C(C=C1)CNNC.Cl,not_ligand
+fluorometholone,CC1CC2C3CCC(C3(CC(C2(C4(C1=CC(=O)C=C4)C)F)O)C)(C(=O)C)O,not_ligand
+metronidazole,CC1=NC=C(N1CCO)[N+](=O)[O-],not_ligand
+dyphylline,CN1C2=C(C(=O)N(C1=O)C)N(C=N2)CC(CO)O,not_ligand
+santonin,CC1C2CCC3(C=CC(=O)C(=C3C2OC1=O)C)C,not_ligand
+Crotaglin,CCN(C1=CC=CC=C1C)C(=O)C=CC,not_ligand
+ETOFYLLINE,CN1C2=C(C(=O)N(C1=O)C)N(C=N2)CCO,not_ligand
+Tetrahydrozoline hydrochloride,C1CC(C2=CC=CC=C2C1)C3=NCCN3.Cl,not_ligand
+Canadine,COC1=C(C2=C(CC3C4=CC5=C(C=C4CCN3C2)OCO5)C=C1)OC,not_ligand
+methocarbamol,COC1=CC=CC=C1OCC(COC(=O)N)O,not_ligand
+Amylocaine hydrochloride,CCC(C)(CN(C)C)OC(=O)C1=CC=CC=C1.Cl,not_ligand
+ethionamide,CCC1=NC=CC(=C1)C(=S)N,not_ligand
+Dyclonine hydrochloride,CCCCOC1=CC=C(C=C1)C(=O)CCN2CCCCC2.Cl,not_ligand
+droperidol,C1CN(CC=C1N2C3=CC=CC=C3NC2=O)CCCC(=O)C4=CC=C(C=C4)F,not_ligand
+Trimethobenzamide hydrochloride,CN(C)CCOC1=CC=C(C=C1)CNC(=O)C2=CC(=C(C(=C2)OC)OC)OC.Cl,not_ligand
+chlorotrianisene,COC1=CC=C(C=C1)C(=C(C2=CC=C(C=C2)OC)Cl)C3=CC=C(C=C3)OC,not_ligand
+Isoxsuprine hydrochloride,CC(COC1=CC=CC=C1)NC(C)C(C2=CC=C(C=C2)O)O.Cl,not_ligand
+DEBRISOQUIN SULFATE,C1CN(CC2=CC=CC=C21)C(=N)N.C1CN(CC2=CC=CC=C21)C(=N)N.OS(=O)(=O)O,not_ligand
+MEGESTROL ACETATE,CC1=CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(=O)CC4)C,not_ligand
+proxyphylline,CC(CN1C=NC2=C1C(=O)N(C(=O)N2C)C)O,not_ligand
+bisacodyl,CC(=O)OC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC(=O)C)C3=CC=CC=N3,not_ligand
+berberine chloride,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC.[Cl-],not_ligand
+Pramoxine hydrochloride,CCCCOC1=CC=C(C=C1)OCCCN2CCOCC2.Cl,not_ligand
+sulfameter,COC1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,not_ligand
+dimethadione,CC1(C(=O)NC(=O)O1)C,not_ligand
+sulfamethoxazole,CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N,not_ligand
+cyclopenthiazide,C1CCC(C1)CC2NC3=CC(=C(C=C3S(=O)(=O)N2)S(=O)(=O)N)Cl,not_ligand
+Tetraverin,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)NCN5CCCC5)N(C)C)O,not_ligand
+PHENFORMIN HYDROCHLORIDE,C1=CC=C(C=C1)CCN=C(N)N=C(N)N.Cl,not_ligand
+clofibric acid,CC(C)(C(=O)O)OC1=CC=C(C=C1)Cl,not_ligand
+Ethaverine hydrochloride,CCOC1=C(C=C(C=C1)CC2=NC=CC3=CC(=C(C=C32)OCC)OCC)OCC.Cl,not_ligand
+Ethambutol dihydrochloride,CCC(CO)NCCNC(CC)CO.Cl.Cl,not_ligand
+meticrane,CC1=C(C=C2C(=C1)CCCS2(=O)=O)S(=O)(=O)N,not_ligand
+Meclizine dihydrochloride,CC1=CC(=CC=C1)CN2CCN(CC2)C(C3=CC=CC=C3)C4=CC=C(C=C4)Cl.Cl.Cl,not_ligand
+Metformin hydrochloride,CN(C)C(=N)N=C(N)N.Cl,not_ligand
+Dexamethasone 21-acetate,CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)COC(=O)C)O)C)O)F)C,not_ligand
+Mephentermine sulfate,CC(C)(CC1=CC=CC=C1)NC.CC(C)(CC1=CC=CC=C1)NC.OS(=O)(=O)O,not_ligand
+sulfamonomethoxine,COC1=NC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N,not_ligand
+Procyclidine hydrochloride,C1CCC(CC1)C(CCN2CCCC2)(C3=CC=CC=C3)O.Cl,not_ligand
+flurandrenolide,CC1(OC2CC3C4CC(C5=CC(=O)CCC5(C4C(CC3(C2(O1)C(=O)CO)C)O)C)F)C,not_ligand
+Azaperone,C1CN(CCN1CCCC(=O)C2=CC=C(C=C2)F)C3=CC=CC=N3,not_ligand
+Tranylcypromine hydrochloride,C1C(C1N)C2=CC=CC=C2.Cl,not_ligand
+BENPERIDOL,C1CN(CCC1N2C3=CC=CC=C3NC2=O)CCCC(=O)C4=CC=C(C=C4)F,not_ligand
+flumethasone,CC1CC2C3CC(C4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C)F,not_ligand
+nifenazone,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)NC(=O)C3=CN=CC=C3,not_ligand
+tolnaftate,CC1=CC(=CC=C1)N(C)C(=S)OC2=CC3=CC=CC=C3C=C2,not_ligand
+bufexamac,CCCCOC1=CC=C(C=C1)CC(=O)NO,not_ligand
+SULFADOXINE,COC1=C(N=CN=C1OC)NS(=O)(=O)C2=CC=C(C=C2)N,not_ligand
+Antazoline hydrochloride,C1CN=C(N1)CN(CC2=CC=CC=C2)C3=CC=CC=C3.Cl,not_ligand
+Methyldopate HCL,CCOC(=O)C(C)(CC1=CC(=C(C=C1)O)O)N.Cl,not_ligand
+medrysone,CC1CC2C3CCC(C3(CC(C2C4(C1=CC(=O)CC4)C)O)C)C(=O)C,not_ligand
+MEBEVERINE HYDROCHLORIDE,CCN(CCCCOC(=O)C1=CC(=C(C=C1)OC)OC)C(C)CC2=CC=C(C=C2)OC.Cl,not_ligand
+Dimethisoquin hydrochloride,CCCCC1=CC2=CC=CC=C2C(=N1)OCCN(C)C.Cl,not_ligand
+MIDODRINE HYDROCHLORIDE,COC1=CC(=C(C=C1)OC)C(CNC(=O)CN)O.Cl,not_ligand
+halcinonide,CC1(OC2CC3C4CCC5=CC(=O)CCC5(C4(C(CC3(C2(O1)C(=O)CCl)C)O)F)C)C,not_ligand
+Moroxydine hydrochloride,C1COCCN1C(=N)N=C(N)N.Cl,not_ligand
+CLIDINIUM BROMIDE,C[N+]12CCC(CC1)C(C2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O.[Br-],not_ligand
+Flavoxate hydrochloride,CC1=C(OC2=C(C1=O)C=CC=C2C(=O)OCCN3CCCCC3)C4=CC=CC=C4.Cl,not_ligand
+ifosfamide,C1CN(P(=O)(OC1)NCCCl)CCCl,not_ligand
+trioxsalen,CC1=CC(=O)OC2=C1C=C3C=C(OC3=C2C)C,not_ligand
+bromopride,CCN(CC)CCNC(=O)C1=CC(=C(C=C1OC)N)Br,not_ligand
+CEFALONIUM,C1C(=C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CS3)C(=O)[O-])C[N+]4=CC=C(C=C4)C(=O)N,not_ligand
+CYCLOPENTOLATE HYDROCHLORIDE,CN(C)CCOC(=O)C(C1=CC=CC=C1)C2(CCCC2)O.Cl,not_ligand
+Hydrocotarnine hydrobromide,CN1CCC2=CC3=C(C(=C2C1)OC)OCO3.Br,not_ligand
+fosfosal,C1=CC=C(C(=C1)C(=O)O)OP(=O)(O)O,not_ligand
+Oxprenolol hydrochloride,CC(C)NCC(COC1=CC=CC=C1OCC=C)O.Cl,not_ligand
+proglumide,CCCN(CCC)C(=O)C(CCC(=O)O)NC(=O)C1=CC=CC=C1,not_ligand
+ronidazole,CN1C(=CN=C1COC(=O)N)[N+](=O)[O-],not_ligand
+DSSTox_CID_3697,CCOC1C(C(C(O1)C(COCC2=CC=CC=C2)OCC3=CC=CC=C3)OCC4=CC=CC=C4)O,not_ligand
+Trimetazidine dihydrochloride,COC1=C(C(=C(C=C1)CN2CCNCC2)OC)OC.Cl.Cl,not_ligand
+Parbendazole,CCCCC1=CC2=C(C=C1)N=C(N2)NC(=O)OC,not_ligand
+Selegiline hydrochloride,CC(CC1=CC=CC=C1)N(C)CC#C.Cl,not_ligand
+BENSERAZIDE HYDROCHLORIDE,C1=CC(=C(C(=C1CNNC(=O)C(CO)N)O)O)O.Cl,not_ligand
+thiamphenicol,CS(=O)(=O)C1=CC=C(C=C1)C(C(CO)NC(=O)C(Cl)Cl)O,not_ligand
+trapidil,CCN(CC)C1=CC(=NC2=NC=NN12)C,not_ligand
+Molindone hydrochloride,CCC1=C(NC2=C1C(=O)C(CC2)CN3CCOCC3)C.Cl,not_ligand
+Fenoterol hydrobromide,CC(CC1=CC=C(C=C1)O)NCC(C2=CC(=CC(=C2)O)O)O.Br,not_ligand
+Ornidazole,CC1=NC=C(N1CC(CCl)O)[N+](=O)[O-],not_ligand
+Mepirizole,CC1=CC(=NC(=N1)N2C(=CC(=N2)C)OC)OC,not_ligand
+streptozocin,CN(C(=O)NC1C(C(C(OC1O)CO)O)O)N=O,not_ligand
+tinidazole,CCS(=O)(=O)CCN1C(=NC=C1[N+](=O)[O-])C,not_ligand
+piromidic acid,CCN1C=C(C(=O)C2=CN=C(N=C21)N3CCCC3)C(=O)O,not_ligand
+Dilazep,COC1=CC(=CC(=C1OC)OC)C(=O)OCCCN2CCCN(CC2)CCCOC(=O)C3=CC(=C(C(=C3)OC)OC)OC,not_ligand
+gliclazide,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN2CC3CCCC3C2,not_ligand
+Spectinomycin dihydrochloride,CC1CC(=O)C2(C(O1)OC3C(C(C(C(C3O2)NC)O)NC)O)O.Cl.Cl,not_ligand
+ketoprofen,CC(C1=CC=CC(=C1)C(=O)C2=CC=CC=C2)C(=O)O,not_ligand
+Carbimazole,CCOC(=O)N1C=CN(C1=S)C,not_ligand
+benfotiamine,CC1=NC=C(C(=N1)N)CN(C=O)C(=C(CCOP(=O)(O)O)SC(=O)C2=CC=CC=C2)C,not_ligand
+etanidazole,C1=CN(C(=N1)[N+](=O)[O-])CC(=O)NCCO,not_ligand
+Terbutaline sulfate,CC(C)(C)NCC(C1=CC(=CC(=C1)O)O)O.CC(C)(C)NCC(C1=CC(=CC(=C1)O)O)O.OS(=O)(=O)O,not_ligand
+probucol,CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)SC(C)(C)SC2=CC(=C(C(=C2)C(C)(C)C)O)C(C)(C)C,not_ligand
+Kanamycin sulfate,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)O)O)OC3C(C(C(C(O3)CO)O)N)O)N.OS(=O)(=O)O,not_ligand
+gemfibrozil,CC1=CC(=C(C=C1)C)OCCCC(C)(C)C(=O)O,not_ligand
+timolol,CC(C)(C)NCC(COC1=NSN=C1N2CCOCC2)O,not_ligand
+suxibuzone,CCCCC1(C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3)COC(=O)CCC(=O)O,not_ligand
+ETOFENAMATE,C1=CC=C(C(=C1)C(=O)OCCOCCO)NC2=CC=CC(=C2)C(F)(F)F,not_ligand
+Bupropion hydrochloride,CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C.Cl,not_ligand
+Labetalol hydrochloride,CC(CCC1=CC=CC=C1)NCC(C2=CC(=C(C=C2)O)C(=O)N)O.Cl,not_ligand
+tiaprofenic acid,CC(C1=CC=C(S1)C(=O)C2=CC=CC=C2)C(=O)O,not_ligand
+Etomidate,CCOC(=O)C1=CN=CN1C(C)C2=CC=CC=C2,not_ligand
+Pivampicillin,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)OCOC(=O)C(C)(C)C)C,not_ligand
+isoxicam,CC1=CC(=NO1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O,not_ligand
+Buflomedil hydrochloride,COC1=CC(=C(C(=C1)OC)C(=O)CCCN2CCCC2)OC.Cl,not_ligand
+fenbufen,C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)CCC(=O)O,not_ligand
+etodolac,CCC1=CC=CC2=C1NC3=C2CCOC3(CC)CC(=O)O,not_ligand
+nabumetone,CC(=O)CCC1=CC2=C(C=C1)C=C(C=C2)OC,not_ligand
+vinpocetine,CCC12CCCN3C1C4=C(CC3)C5=CC=CC=C5N4C(=C2)C(=O)OCC,not_ligand
+fenbendazole,COC(=O)NC1=NC2=C(N1)C=C(C=C2)SC3=CC=CC=C3,not_ligand
+DSSTox_CID_25474,CC1CC2C3CCC4=CC(=O)C=CC4(C3C(CC2(C1(C)C(=O)OC)C)O)C,not_ligand
+cefadroxil,CC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)SC1)C(=O)O,not_ligand
+budesonide,CCCC1OC2CC3C4CCC5=CC(=O)C=CC5(C4C(CC3(C2(O1)C(=O)CO)C)O)C,not_ligand
+carteolol hydrochloride,CC(C)(C)NCC(COC1=CC=CC2=C1CCC(=O)N2)O.Cl,not_ligand
+pipemidic acid,CCN1C=C(C(=O)C2=CN=C(N=C21)N3CCNCC3)C(=O)O,not_ligand
+Ribostamycin sulfate,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)N)OC3C(C(C(O3)CO)O)O)O)N.OS(=O)(=O)O,not_ligand
+ticlopidine,C1CN(CC2=C1SC=C2)CC3=CC=CC=C3Cl,not_ligand
+praziquantel,C1CCC(CC1)C(=O)N2CC3C4=CC=CC=C4CCN3C(=O)C2,not_ligand
+piretanide,C1CCN(C1)C2=C(C(=CC(=C2)C(=O)O)S(=O)(=O)N)OC3=CC=CC=C3,not_ligand
+DSSTox_CID_25484,CCNC1CC(C(C(C1OC2C(C(C(CO2)(C)O)NC)O)O)OC3C(CC=C(O3)CN)N)N.CCNC1CC(C(C(C1OC2C(C(C(CO2)(C)O)NC)O)O)OC3C(CC=C(O3)CN)N)N.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O,not_ligand
+MEPTAZINOL HYDROCHLORIDE,CCC1(CCCCN(C1)C)C2=CC(=CC=C2)O.Cl,not_ligand
+tenoxicam,CN1C(=C(C2=C(S1(=O)=O)C=CS2)O)C(=O)NC3=CC=CC=N3,not_ligand
+iopamidol,CC(C(=O)NC1=C(C(=C(C(=C1I)C(=O)NC(CO)CO)I)C(=O)NC(CO)CO)I)O,not_ligand
+CLORSULON,C1=C(C(=CC(=C1N)S(=O)(=O)N)S(=O)(=O)N)C(=C(Cl)Cl)Cl,not_ligand
+rolipram,COC1=C(C=C(C=C1)C2CC(=O)NC2)OC3CCCC3,not_ligand
+Terazosin hydrochloride,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC.Cl,not_ligand
+NAFTIFINE HYDROCHLORIDE,CN(CC=CC1=CC=CC=C1)CC2=CC=CC3=CC=CC=C32.Cl,not_ligand
+Glafenine hydrochloride,C1=CC=C(C(=C1)C(=O)OCC(CO)O)NC2=C3C=CC(=CC3=NC=C2)Cl.Cl,not_ligand
+norfloxacin,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,not_ligand
+iopromide,CN(CC(CO)O)C(=O)C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)NC(=O)COC)I,not_ligand
+enoxacin,CCN1C=C(C(=O)C2=CC(=C(N=C21)N3CCNCC3)F)C(=O)O,not_ligand
+isradipine,CC1=C(C(C(=C(N1)C)C(=O)OC(C)C)C2=CC=CC3=NON=C32)C(=O)OC,not_ligand
+UNII-P41PML4GHR,CNC(=C[N+](=O)[O-])NCCSCC1=CSC(=N1)CN(C)C,not_ligand
+ozagrel hydrochloride,C1=CC(=CC=C1CN2C=CN=C2)C=CC(=O)O.Cl,not_ligand
+LEVOCABASTINE HYDROCHLORIDE,CC1CN(CCC1(C2=CC=CC=C2)C(=O)O)C3CCC(CC3)(C#N)C4=CC=C(C=C4)F.Cl,not_ligand
+simvastatin,CCC(C)(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC3CC(CC(=O)O3)O)C,not_ligand
+roxithromycin,CCC1C(C(C(C(=NOCOCCOC)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O,not_ligand
+cisapride,COC1CN(CCC1NC(=O)C2=CC(=C(C=C2OC)N)Cl)CCCOC3=CC=C(C=C3)F,not_ligand
+ECADOTRIL,CC(=O)SCC(CC1=CC=CC=C1)C(=O)NCC(=O)OCC2=CC=CC=C2,not_ligand
+ofloxacin,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,not_ligand
+Cetirizine dihydrochloride,C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl.Cl.Cl,not_ligand
+Clebopride maleate,COC1=CC(=C(C=C1C(=O)NC2CCN(CC2)CC3=CC=CC=C3)Cl)N.C(=CC(=O)O)C(=O)O,not_ligand
+ramipril,CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2C3CCCC3CC2C(=O)O,not_ligand
+ioversol,C(CO)N(C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I)C(=O)CO,not_ligand
+iodixanol,CC(=O)N(CC(CN(C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I)C(=O)C)O)C2=C(C(=C(C(=C2I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I,not_ligand
+Ciprofloxacin hydrochloride,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O.Cl,not_ligand
+Lomefloxacin hydrochloride,CCN1C=C(C(=O)C2=CC(=C(C(=C21)F)N3CCNC(C3)C)F)C(=O)O.Cl,not_ligand
+finasteride,CC12CCC3C(C1CCC2C(=O)NC(C)(C)C)CCC4C3(C=CC(=O)N4)C,not_ligand
+letrozole,C1=CC(=CC=C1C#N)C(C2=CC=C(C=C2)C#N)N3C=NC=N3,not_ligand
+flunisolide,CC1(OC2CC3C4CC(C5=CC(=O)C=CC5(C4C(CC3(C2(O1)C(=O)CO)C)O)C)F)C,not_ligand
+disopyramide,CC(C)N(CCC(C1=CC=CC=C1)(C2=CC=CC=N2)C(=O)N)C(C)C,not_ligand
+CEFOTIAM HYDROCHLORIDE,CN(C)CCN1C(=NN=N1)SCC2=C(N3C(C(C3=O)NC(=O)CC4=CSC(=N4)N)SC2)C(=O)O.Cl,not_ligand
+PENTAMIDINE ISETHIONATE,C1=CC(=CC=C1C(=N)N)OCCCCCOC2=CC=C(C=C2)C(=N)N.C(CS(=O)(=O)O)O.C(CS(=O)(=O)O)O,not_ligand
+Cloxacillin sodium salt,CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)[O-].[Na+],not_ligand
+DIETHYLCARBAMAZINE CITRATE,CCN(CC)C(=O)N1CCN(CC1)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O,not_ligand
+DENATONIUM BENZOATE,CC[N+](CC)(CC1=CC=CC=C1)CC(=O)NC2=C(C=CC=C2C)C.C1=CC=C(C=C1)C(=O)[O-],not_ligand
+dipyrone,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)CS(=O)(=O)[O-].[Na+],not_ligand
+Quercetin dihydrate,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O.O.O,not_ligand
+Nafcillin sodium salt monohydrate,CCOC1=C(C2=CC=CC=C2C=C1)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)[O-].O.[Na+],not_ligand
+CEPHAPIRIN SODIUM,CC(=O)OCC1=C(N2C(C(C2=O)NC(=O)CSC3=CC=NC=C3)SC1)C(=O)[O-].[Na+],not_ligand
+MORANTEL TARTRATE,CC1=C(SC=C1)C=CC2=NCCCN2C.C(C(C(=O)O)O)(C(=O)O)O,not_ligand
+naproxen sodium,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)[O-].[Na+],not_ligand
+indapamide,CC1CC2=CC=CC=C2N1NC(=O)C3=CC(=C(C=C3)Cl)S(=O)(=O)N,not_ligand
+Yohimbinic acid monohydrate,C1CC(C(C2C1CN3CCC4=C(C3C2)NC5=CC=CC=C45)C(=O)O)O.O,not_ligand
+Metaraminol bitartrate,CC(C(C1=CC(=CC=C1)O)O)N.C(C(C(=O)O)O)(C(=O)O)O,not_ligand
+Gabexate mesylate,CCOC(=O)C1=CC=C(C=C1)OC(=O)CCCCCN=C(N)N.CS(=O)(=O)O,not_ligand
+Tolmetin sodium dihydrate,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)[O-].O.O.[Na+],not_ligand
+NCGC00017135-01,C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O.C(C(CO)(CO)N)O,not_ligand
+ellagic acid,C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O,not_ligand
+methylergonovine,CCC(CO)NC(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,not_ligand
+nicergoline,CN1CC(CC2(C1CC3=CN(C4=CC=CC2=C34)C)OC)COC(=O)C5=CC(=CN=C5)Br,not_ligand
+kojic acid,C1=C(OC=C(C1=O)O)CO,not_ligand
+PERGOLIDE MESYLATE,CCCN1CC(CC2C1CC3=CNC4=CC=CC2=C34)CSC.CS(=O)(=O)O,not_ligand
+Sodium 4-phenylbutyrate,C1=CC=C(C=C1)CCCC(=O)[O-].[Na+],not_ligand
+theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2,not_ligand
+Miglustat,CCCCN1CC(C(C(C1CO)O)O)O,not_ligand
+Enrofloxacin,CCN1CCN(CC1)C2=C(C=C3C(=C2)N(C=C(C3=O)C(=O)O)C4CC4)F,not_ligand
+Cladribine,C1C(C(OC1N2C=NC3=C2N=C(N=C3N)Cl)CO)O,not_ligand
+nalidixic acid,CCN1C=C(C(=O)C2=C1N=C(C=C2)C)C(=O)O,not_ligand
+flumequine,CC1CCC2=C3N1C=C(C(=O)C3=CC(=C2)F)C(=O)O,not_ligand
+dropropizine,C1CN(CCN1CC(CO)O)C2=CC=CC=C2,not_ligand
+Metrifonate,COP(=O)(C(C(Cl)(Cl)Cl)O)OC,not_ligand
+sulfacetamide,CC(=O)NS(=O)(=O)C1=CC=C(C=C1)N,not_ligand
+sulfamethazine,CC1=CC(=NC(=N1)NS(=O)(=O)C2=CC=C(C=C2)N)C,not_ligand
+OXYPHENONIUM BROMIDE,CC[N+](C)(CC)CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O.[Br-],not_ligand
+Econazole nitrate,C1=CC(=CC=C1COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl.[N+](=O)(O)[O-],not_ligand
+HYDROCORTISONE VALERATE,CCCCC(=O)OC1(CCC2C1(CC(C3C2CCC4=CC(=O)CCC34C)O)C)C(=O)CO,not_ligand
+itraconazole,CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OCC5COC(O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl,not_ligand
+Diacerein,CC(=O)OC1=CC=CC2=C1C(=O)C3=C(C=C(C=C3C2=O)C(=O)O)OC(=O)C,not_ligand
+phenytoin,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3,not_ligand
+CROMOLYN SODIUM,C1=CC2=C(C(=C1)OCC(COC3=CC=CC4=C3C(=O)C=C(O4)C(=O)[O-])O)C(=O)C=C(O2)C(=O)[O-].[Na+].[Na+],not_ligand
+Ketanserin,C1CN(CCC1C(=O)C2=CC=C(C=C2)F)CCN3C(=O)C4=CC=CC=C4NC3=O,not_ligand
+FLUOCINOLONE ACETONIDE,CC1(OC2CC3C4CC(C5=CC(=O)C=CC5(C4(C(CC3(C2(O1)C(=O)CO)C)O)F)C)F)C,not_ligand
+enalapril,CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CCCC2C(=O)O,not_ligand
+nalmefene,C=C1CCC2(C3CC4=C5C2(C1OC5=C(C=C4)O)CCN3CC6CC6)O,not_ligand
+Diflorasone diacetate,CC1CC2C3CC(C4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)COC(=O)C)OC(=O)C)C)O)F)C)F,not_ligand
+Deoxycorticosterone acetate,CC(=O)OCC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C,not_ligand
+N-Acetyl-L-cysteine,CC(=O)NC(CS)C(=O)O,not_ligand
+CORTICOSTERONE,CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4C(=O)CO)C)O,not_ligand
+propylthiouracil,CCCC1=CC(=O)NC(=S)N1,not_ligand
+hydrocortisone,CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)CO)O)C)O,not_ligand
+TRIAMCINOLONE ACETONIDE,CC1(OC2CC3C4CCC5=CC(=O)C=CC5(C4(C(CC3(C2(O1)C(=O)CO)C)O)F)C)C,not_ligand
+stavudine,CC1=CN(C(=O)NC1=O)C2C=CC(O2)CO,not_ligand
+pilocarpine,CCC1C(COC1=O)CC2=CN=CN2C,not_ligand
+lovastatin,CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC3CC(CC(=O)O3)O)C,not_ligand
+desoximetasone,CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1C(=O)CO)C)O)F)C,not_ligand
+methysergide,CCC(CO)NC(=O)C1CN(C2CC3=CN(C4=CC=CC(=C34)C2=C1)C)C,not_ligand
+PHENYLEPHRINE HYDROCHLORIDE,CNCC(C1=CC(=CC=C1)O)O.Cl,not_ligand
+diltiazem,CC(=O)OC1C(SC2=CC=CC=C2N(C1=O)CCN(C)C)C3=CC=C(C=C3)OC,not_ligand
+TACA,C(C=CC(=O)O)N,not_ligand
+D-alanine,CC(C(=O)O)N,not_ligand
+kainic acid,CC(=C)C1CNC(C1CC(=O)O)C(=O)O,not_ligand
+Flurofamide,C1=CC(=CC=C1C(=O)NP(=O)(N)N)F,not_ligand
+Spiramide,C1CN(CCC12C(=O)NCN2C3=CC=CC=C3)CCCOC4=CC=C(C=C4)F,not_ligand
+Ifenprodil,CC(C(C1=CC=C(C=C1)O)O)N2CCC(CC2)CC3=CC=CC=C3,not_ligand
+METHYLDOPA SESQUIHYDRATE,CC(CC1=CC(=C(C=C1)O)O)(C(=O)O)N.CC(CC1=CC(=C(C=C1)O)O)(C(=O)O)N.O.O.O,not_ligand
+triprolidine,CC1=CC=C(C=C1)C(=CCN2CCCC2)C3=CC=CC=N3,not_ligand
+L-NAME,COC(=O)C(CCCN=C(N)N[N+](=O)[O-])N,not_ligand
+pronethalol,CC(C)NCC(C1=CC2=CC=CC=C2C=C1)O,not_ligand
+practolol,CC(C)NCC(COC1=CC=C(C=C1)NC(=O)C)O,not_ligand
+Clomethiazole,CC1=C(SC=N1)CCCl,not_ligand
+DSSTox_CID_25666,C1=CC(=C(C(=C1)Cl)C=NN=C(N)N)Cl,not_ligand
+Remoxipride,CCN1CCCC1CNC(=O)C2=C(C=CC(=C2OC)Br)OC,not_ligand
+SCH 50911,CC1(COC(CN1)CC(=O)O)C,not_ligand
+forskolin,CC(=O)OC1C(C2C(CCC(C2(C3(C1(OC(CC3=O)(C)C=C)C)O)C)O)(C)C)O,not_ligand
+GR 103691,CC(=O)C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)NCCCCN3CCN(CC3)C4=CC=CC=C4OC,not_ligand
+LORECLEZOLE HYDROCHLORIDE,C1=CC(=C(C=C1Cl)Cl)C(=CN2C=NC=N2)Cl.Cl,not_ligand
+Linomide,CN1C2=CC=CC=C2C(=C(C1=O)C(=O)N(C)C3=CC=CC=C3)O,not_ligand
+PINACIDIL MONOHYDRATE,CC(C(C)(C)C)N=C(NC#N)NC1=CC=NC=C1.O,not_ligand
+REMACEMIDE HYDROCHLORIDE,CC(CC1=CC=CC=C1)(C2=CC=CC=C2)NC(=O)CN.Cl,not_ligand
+RACLOPRIDE,CCN1CCCC1CNC(=O)C2=C(C(=CC(=C2OC)Cl)Cl)O,not_ligand
+IPSAPIRONE,C1CN(CCN1CCCCN2C(=O)C3=CC=CC=C3S2(=O)=O)C4=NC=CC=N4,not_ligand
+NICORANDIL,C1=CC(=CN=C1)C(=O)NCCO[N+](=O)[O-],not_ligand
+moclobemide,C1COCCN1CCNC(=O)C2=CC=C(C=C2)Cl,not_ligand
+N-Acetyl-DL-phenylalanine,CC(=O)NC(CC1=CC=CC=C1)C(=O)O,not_ligand
+Nicotredole,C1=CC=C2C(=C1)C(=CN2)CCNC(=O)C3=CN=CC=C3,not_ligand
+nevirapine,CC1=C2C(=NC=C1)N(C3=C(C=CC=N3)C(=O)N2)C4CC4,not_ligand
+OXCARBAZEPINE,C1C2=CC=CC=C2N(C3=CC=CC=C3C1=O)C(=O)N,not_ligand
+Gatifloxacin,CC1CN(CCN1)C2=C(C=C3C(=C2OC)N(C=C(C3=O)C(=O)O)C4CC4)F,not_ligand
+IMIQUIMOD,CC(C)CN1C=NC2=C1C3=CC=CC=C3N=C2N,not_ligand
+Metralindole,CN1CCN2C3=C(C=C(C=C3)OC)C4=C2C1=NCC4,not_ligand
+Eterobarb,CCC1(C(=O)N(C(=O)N(C1=O)COC)COC)C2=CC=CC=C2,not_ligand
+Phosmet,COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2C1=O,not_ligand
+nitrofurazone,C1=C(OC(=C1)[N+](=O)[O-])C=NNC(=O)N,not_ligand
+propylene glycol,CC(CO)O,not_ligand
+prednisone,CC12CC(=O)C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C,not_ligand
+Methoprene,CC(C)OC(=O)C=C(C)C=CCC(C)CCCC(C)(C)OC,not_ligand
+Dioctyl phthalate,CCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCCC,not_ligand
+naphthalene,C1=CC=C2C=CC=CC2=C1,not_ligand
+guaiacol,COC1=CC=CC=C1O,not_ligand
+halothane,C(C(F)(F)F)(Cl)Br,not_ligand
+PIPERONYL BUTOXIDE,CCCCOCCOCCOCC1=CC2=C(C=C1CCC)OCO2,not_ligand
+urea,C(=O)(N)N,not_ligand
+sulfasalazine,C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)NN=C3C=CC(=O)C(=C3)C(=O)O,not_ligand
+isopropanol,CC(C)O,not_ligand
+toluene,CC1=CC=CC=C1,not_ligand
+glycerol,C(C(CO)O)O,not_ligand
+DICYCLOHEXYLAMINE,C1CCC(CC1)NC2CCCCC2,not_ligand
+octanoic acid,CCCCCCCC(=O)O,not_ligand
+TETRAETHYLENEPENTAMINE,C(CNCCNCCNCCN)N,not_ligand
+Propyl 4-hydroxybenzoate,CCCOC(=O)C1=CC=C(C=C1)O,not_ligand
+lactic acid,CC(C(=O)O)O,not_ligand
+DIETHYL PHTHALATE,CCOC(=O)C1=CC=CC=C1C(=O)OCC,not_ligand
+Phosphoric acid,OP(=O)(O)O,not_ligand
+Triton X-100,CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCO,not_ligand
+STANOLONE,CC12CCC(=O)CC1CCC3C2CCC4(C3CCC4O)C,not_ligand
+TRICHLOROACETIC ACID,C(=O)(C(Cl)(Cl)Cl)O,not_ligand
+meprobamate,CCCC(C)(COC(=O)N)COC(=O)N,not_ligand
+silibinin,COC1=C(C=CC(=C1)C2C(OC3=C(O2)C=C(C=C3)C4C(C(=O)C5=C(C=C(C=C5O4)O)O)O)CO)O,not_ligand
+ISOAMYL NITRITE,CC(C)CCON=O,not_ligand
+DIISOPROPYLAMINE,CC(C)NC(C)C,not_ligand
+diazinon,CCOP(=S)(OCC)OC1=NC(=NC(=C1)C)C(C)C,not_ligand
+methyl salicylate,COC(=O)C1=CC=CC=C1O,not_ligand
+Gallic acid,C1=C(C=C(C(=C1O)O)O)C(=O)O,not_ligand
+PHENOTHIAZINE,C1=CC=C2C(=C1)NC3=CC=CC=C3S2,not_ligand
+VALPROIC ACID,CCCC(CCC)C(=O)O,not_ligand
+PHENOXYACETIC ACID,C1=CC=C(C=C1)OCC(=O)O,not_ligand
+methanol,CO,not_ligand
+TRICHLOROETHYLENE,C(=C(Cl)Cl)Cl,not_ligand
+"N,N-Diethyl-3-methylbenzamide",CCN(CC)C(=O)C1=CC(=CC=C1)C,not_ligand
+halazone,C1=CC(=CC=C1C(=O)O)S(=O)(=O)N(Cl)Cl,not_ligand
+GLYOXAL,C(=O)C=O,not_ligand
+OXYTETRACYCLINE HYDROCHLORIDE,CC1(C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O.Cl,not_ligand
+Tricaprylin,CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)OC(=O)CCCCCCC,not_ligand
+HEXANAMIDE,CCCCCC(=O)N,not_ligand
+FURFURAL,C1=COC(=C1)C=O,not_ligand
+Orotic acid,C1=C(NC(=O)NC1=O)C(=O)O,not_ligand
+IODOFORM,C(I)(I)I,not_ligand
+NITROBENZENE,C1=CC=C(C=C1)[N+](=O)[O-],not_ligand
+salicylamide,C1=CC=C(C(=C1)C(=O)N)O,not_ligand
+eugenol,COC1=C(C=CC(=C1)CC=C)O,not_ligand
+p-Propenylanisole,CC=CC1=CC=C(C=C1)OC,not_ligand
+resorcinol,C1=CC(=CC(=C1)O)O,not_ligand
+pyrogallol,C1=CC(=C(C(=C1)O)O)O,not_ligand
+ethylenediamine,C(CN)N,not_ligand
+DSSTox_CID_2774,CON=C(C1=CC=CO1)C(=O)NC2C3N(C2=O)C(=C(CS3)COC(=O)N)C(=O)O,not_ligand
+Octocrylene,CCCCC(CC)COC(=O)C(=C(C1=CC=CC=C1)C2=CC=CC=C2)C#N,not_ligand
+stearic acid,CCCCCCCCCCCCCCCCCC(=O)O,not_ligand
+triacetin,CC(=O)OCC(COC(=O)C)OC(=O)C,not_ligand
+fenthion,CC1=C(C=CC(=C1)OP(=S)(OC)OC)SC,not_ligand
+formaldehyde,C=O,not_ligand
+Eucalyptol,CC1(C2CCC(O1)(CC2)C)C,not_ligand
+TRIETHYLENETETRAMINE,C(CNCCNCCN)N,not_ligand
+ETHYL ACETATE,CCOC(=O)C,not_ligand
+EPICHLOROHYDRIN,C1C(O1)CCl,not_ligand
+Homosalate,CC1CC(CC(C1)(C)C)OC(=O)C2=CC=CC=C2O,not_ligand
+malathion,CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC,not_ligand
+SCOPOLAMINE HYDROBROMIDE TRIHYDRATE,CN1C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4.O.O.O.Br,not_ligand
+METHYLPHENIDATE HYDROCHLORIDE,COC(=O)C(C1CCCCN1)C2=CC=CC=C2.Cl,not_ligand
+DSSTox_CID_5866,C[NH+](C)CCC(C1=CC=CC=C1)C2=CC=CC=[NH+]2.C(=CC(=O)[O-])C(=O)[O-],not_ligand
+Mifobate,COP(=O)(C(C1=CC=C(C=C1)Cl)OP(=O)(OC)OC)OC,not_ligand
+Triciribine,CN1C2=NC=NC3=C2C(=CN3C4C(C(C(O4)CO)O)O)C(=N1)N,not_ligand
+Eliprodil,C1CN(CCC1CC2=CC=C(C=C2)F)CC(C3=CC=C(C=C3)Cl)O,not_ligand
+Prostaglandin E2,CCCCCC(C=CC1C(CC(=O)C1CC=CCCCC(=O)O)O)O,not_ligand
+DSSTox_CID_25746,COC1=C(C=C(C=C1)S(=O)(=O)N2C(C(C3=C2C=CC(=C3)Cl)(C4=CC=CC=C4Cl)O)C(=O)N5CCCC5C(=O)N)OC,not_ligand
+mestranol,CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)OC,not_ligand
+nicotinamide,C1=CC(=CN=C1)C(=O)N,not_ligand
+p-Arsanilic acid,C1=CC(=CC=C1N)[As](=O)(O)O,not_ligand
+EFLORNITHINE HYDROCHLORIDE,C(CC(C(F)F)(C(=O)O)N)CN.Cl,not_ligand
+physostigmine,CC12CCN(C1N(C3=C2C=C(C=C3)OC(=O)NC)C)C,not_ligand
+Fenspiride hydrochloride,C1CN(CCC12CNC(=O)O2)CCC3=CC=CC=C3.Cl,not_ligand
+hydroxyprogesterone,CC(=O)C1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)O,not_ligand
+Stilonium iodide,CC[N+](CC)(CC)CCOC1=CC=C(C=C1)C=CC2=CC=CC=C2.[I-],not_ligand
+Mexiletine hydrochloride,CC1=C(C(=CC=C1)C)OCC(C)N.Cl,not_ligand
+MINOCYCLINE HYDROCHLORIDE,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C.Cl,not_ligand
+NCGC00094159-01,C1CN=C(N1)CC2=CC3=CC=CC=C3C=C2.Cl,not_ligand
+METHAPYRILENE HYDROCHLORIDE,CN(C)CCN(CC1=CC=CS1)C2=CC=CC=N2.Cl,not_ligand
+Nomifensine maleate,CN1CC(C2=C(C1)C(=CC=C2)N)C3=CC=CC=C3.C(=CC(=O)O)C(=O)O,not_ligand
+Proadifen hydrochloride,CCCC(C1=CC=CC=C1)(C2=CC=CC=C2)C(=O)OCCN(CC)CC.Cl,not_ligand
+PROPANTHELINE BROMIDE,CC(C)[N+](C)(CCOC(=O)C1C2=CC=CC=C2OC3=CC=CC=C13)C(C)C.[Br-],not_ligand
+PYRIDOSTIGMINE BROMIDE,C[N+]1=CC=CC(=C1)OC(=O)N(C)C.[Br-],not_ligand
+Sotalol hydrochloride,CC(C)NCC(C1=CC=C(C=C1)NS(=O)(=O)C)O.Cl,not_ligand
+Succinylcholine chloride,C[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)C.[Cl-].[Cl-],not_ligand
+Trihexyphenidyl hydrochloride,C1CCC(CC1)C(CCN2CCCCC2)(C3=CC=CC=C3)O.Cl,not_ligand
+Tulobuterol hydrochloride,CC(C)(C)NCC(C1=CC=CC=C1Cl)O.Cl,not_ligand
+SB 206553 hydrochloride,CN1C=CC2=CC3=C(CCN3C(=O)NC4=CN=CC=C4)C=C21.Cl,not_ligand
+TETRAETHYLAMMONIUM CHLORIDE,CC[N+](CC)(CC)CC.[Cl-],not_ligand
+Levamisole hydrochloride,C1CSC2=NC(CN21)C3=CC=CC=C3.Cl,not_ligand
+Zimeldine hydrochloride,CN(C)CC=C(C1=CC=C(C=C1)Br)C2=CN=CC=C2.O.Cl.Cl,not_ligand
+simazine,CCNC1=NC(=NC(=N1)Cl)NCC,not_ligand
+lindane,C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl,not_ligand
+phenothrin,CC(=CC1C(C1(C)C)C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C,not_ligand
+fipronil,C1=C(C=C(C(=C1Cl)N2C(=C(C(=N2)C#N)S(=O)C(F)(F)F)N)Cl)C(F)(F)F,not_ligand
+Ephedrine hydrochloride,CC(C(C1=CC=CC=C1)O)NC.Cl,not_ligand
+erythromycin,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O,not_ligand
+ISOSORBIDE DINITRATE,C1C(C2C(O1)C(CO2)O[N+](=O)[O-])O[N+](=O)[O-],not_ligand
+lactulose,C(C1C(C(C(C(O1)OC2C(OC(C2O)(CO)O)CO)O)O)O)O,not_ligand
+Medroxyprogesterone acetate,CC1CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(=O)CC4)C,not_ligand
+UNII-AO9YF4MN30,CC1(C(N2C(S1)C(C2=O)NC(=O)C3=C(C=CC=C3OC)OC)C(=O)[O-])C.O.[Na+],not_ligand
+norethindrone,CC12CCC3C(C1CCC2(C#C)O)CCC4=CC(=O)CCC34,not_ligand
+Orphenadrine citrate,CC1=CC=CC=C1C(C2=CC=CC=C2)OCCN(C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O,not_ligand
+phenacemide,C1=CC=C(C=C1)CC(=O)NC(=O)N,not_ligand
+prednisolone,CC12CC(C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C)O,not_ligand
+prednisolone acetate,CC(=O)OCC(=O)C1(CCC2C1(CC(C3C2CCC4=CC(=O)C=CC34C)O)C)O,not_ligand
+salicyl alcohol,C1=CC=C(C(=C1)CO)O,not_ligand
+triamcinolone,CC12CC(C3(C(C1CC(C2(C(=O)CO)O)O)CCC4=CC(=O)C=CC43C)F)O,not_ligand
+flopropione,CCC(=O)C1=C(C=C(C=C1O)O)O,not_ligand
+IPRONIAZID SULFATE,CC(C)NNC(=O)C1=CC=NC=C1.OS(=O)(=O)O,not_ligand
+vincamine,CCC12CCCN3C1C4=C(CC3)C5=CC=CC=C5N4C(C2)(C(=O)OC)O,not_ligand
+iodamide,CC(=O)NCC1=C(C(=C(C(=C1I)C(=O)O)I)NC(=O)C)I,not_ligand
+PIMETHIXENE MALEATE,CN1CCC(=C2C3=CC=CC=C3SC4=CC=CC=C42)CC1.C(=CC(=O)O)C(=O)O,not_ligand
+Minaprine dihydrochloride,CC1=CC(=NN=C1NCCN2CCOCC2)C3=CC=CC=C3.Cl.Cl,not_ligand
+mephenesin,CC1=CC=CC=C1OCC(CO)O,not_ligand
+saccharin,C1=CC=C2C(=C1)C(=O)NS2(=O)=O,not_ligand
+Estradiol-3-acetate,CC(=O)OC1=CC2=C(C=C1)C3CCC4(C(C3CC2)CCC4O)C,not_ligand
+N-Acetyl-L-leucine,CC(C)CC(C(=O)O)NC(=O)C,not_ligand
+FOSCARNET SODIUM,C(=O)([O-])P(=O)([O-])[O-].[Na+].[Na+].[Na+],not_ligand
+QUINAPRIL HYDROCHLORIDE,CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CC3=CC=CC=C3CC2C(=O)O.Cl,not_ligand
+gluconolactone,C(C1C(C(C(C(=O)O1)O)O)O)O,not_ligand
+THONZYLAMINE HYDROCHLORIDE,CN(C)CCN(CC1=CC=C(C=C1)OC)C2=NC=CC=N2.Cl,not_ligand
+Heptaminol hydrochloride,CC(CCCC(C)(C)O)N.Cl,not_ligand
+Hydrocortisone 17-butyrate,CCCC(=O)OC1(CCC2C1(CC(C3C2CCC4=CC(=O)CCC34C)O)C)C(=O)CO,not_ligand
+urethane,CCOC(=O)N,not_ligand
+thiotepa,C1CN1P(=S)(N2CC2)N3CC3,not_ligand
+Tetrahydroxyquinone,C1(=C(C(=O)C(=C(C1=O)O)O)O)O,not_ligand
+pipobroman,C1CN(CCN1C(=O)CCBr)C(=O)CCBr,not_ligand
+exalamide,CCCCCCOC1=CC=CC=C1C(=O)N,not_ligand
+RESORCINOL MONOACETATE,CC(=O)OC1=CC=CC(=C1)O,not_ligand
+Ramifenazone,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)NC(C)C,not_ligand
+thiodiglycol,C(CSCCO)O,not_ligand
+Oxyphencyclimine hydrochloride,CN1CCCN=C1COC(=O)C(C2CCCCC2)(C3=CC=CC=C3)O.Cl,not_ligand
+fluconazole,C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O,not_ligand
+venlafaxine,CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O,not_ligand
+METAXALONE,CC1=CC(=CC(=C1)OCC2CNC(=O)O2)C,not_ligand
+SIBUTRAMINE HCl,CC(C)CC(C1(CCC1)C2=CC=C(C=C2)Cl)N(C)C.Cl,not_ligand
+zolmitriptan,CN(C)CCC1=CNC2=C1C=C(C=C2)CC3COC(=O)N3,not_ligand
+Secnidazole,CC1=NC=C(N1CC(C)O)[N+](=O)[O-],not_ligand
+rebamipide,C1=CC=C2C(=C1)C(=CC(=O)N2)CC(C(=O)O)NC(=O)C3=CC=C(C=C3)Cl,not_ligand
+modafinil,C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)N,not_ligand
+zolpidem,CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C,not_ligand
+Gemifloxacin mesylate,CON=C1CN(CC1CN)C2=C(C=C3C(=O)C(=CN(C3=N2)C4CC4)C(=O)O)F.CS(=O)(=O)O,not_ligand
+PRAVASTATIN SODIUM,CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC(CC(CC(=O)[O-])O)O)O.[Na+],not_ligand
+pantoprazole,COC1=C(C(=NC=C1)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC(F)F)OC,not_ligand
+tilorone,CCN(CC)CCOC1=CC2=C(C=C1)C3=C(C2=O)C=C(C=C3)OCCN(CC)CC,not_ligand
+hypoxanthine,C1=NC2=C(N1)C(=O)N=CN2,not_ligand
+Glycyrrhizic acid,CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C,not_ligand
+inosine,C1=NC(=O)C2=C(N1)N(C=N2)C3C(C(C(O3)CO)O)O,not_ligand
+guaiazulene,CC1=C2C=CC(=C2C=C(C=C1)C(C)C)C,not_ligand
+NEROLIDOL,CC(=CCCC(=CCCC(C)(C=C)O)C)C,not_ligand
+sumatriptan,CNS(=O)(=O)CC1=CC2=C(C=C1)NC=C2CCN(C)C,not_ligand
+ipriflavone,CC(C)OC1=CC2=C(C=C1)C(=O)C(=CO2)C3=CC=CC=C3,not_ligand
+quetiapine,C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42,not_ligand
+Phenyl 4-aminosalicylate,C1=CC=C(C=C1)OC(=O)C2=C(C=C(C=C2)N)O,not_ligand
+Lufenuron,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C=C2Cl)OC(C(C(F)(F)F)F)(F)F)Cl)F,not_ligand
+Salsalate,C1=CC=C(C(=C1)C(=O)OC2=CC=CC=C2C(=O)O)O,not_ligand
+olanzapine,CC1=CC2=C(NC3=CC=CC=C3N=C2S1)N4CCN(CC4)C,not_ligand
+pyridoxal,CC1=NC=C(C(=C1O)C=O)CO,not_ligand
+zonisamide,C1=CC=C2C(=C1)C(=NO2)CS(=O)(=O)N,not_ligand
+Lincomycin hydrochloride,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)O.Cl,not_ligand
+sparfloxacin,CC1CN(CC(N1)C)C2=C(C3=C(C(=C2F)N)C(=O)C(=CN3C4CC4)C(=O)O)F,not_ligand
+Tramadol,CN(C)CC1CCCCC1(C2=CC(=CC=C2)OC)O,not_ligand
+Levonorgestrel,CCC12CCC3C(C1CCC2(C#C)O)CCC4=CC(=O)CCC34,not_ligand
+L-tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O,not_ligand
+nitrazepam,C1C(=O)NC2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3,not_ligand
+M-TOLYL ACETATE,CC1=CC(=CC=C1)OC(=O)C,not_ligand
+PARALDEHYDE,CC1OC(OC(O1)C)C,not_ligand
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,not_ligand
+succinic acid,C(CC(=O)O)C(=O)O,not_ligand
+THYMOL,CC1=CC(=C(C=C1)C(C)C)O,not_ligand
+p-Phenylenediamine,C1=CC(=CC=C1N)N,not_ligand
+Methyl 4-hydroxybenzoate,COC(=O)C1=CC=C(C=C1)O,not_ligand
+l-Menthol,CC1CCC(C(C1)O)C(C)C,not_ligand
+PROPYL BENZOATE,CCCOC(=O)C1=CC=CC=C1,not_ligand
+PENTAERYTHRITOL TETRANITRATE,C(C(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-])O[N+](=O)[O-],not_ligand
+Thioacetazone,CC(=O)NC1=CC=C(C=C1)C=NNC(=S)N,not_ligand
+Permethrin,CC1(C(C1C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C,not_ligand
+N-Acetyl-L-tyrosine,CC(=O)NC(CC1=CC=C(C=C1)O)C(=O)O,not_ligand
+Phenicarbazide,C1=CC=C(C=C1)NNC(=O)N,not_ligand
+TRIMETOZINE,COC1=CC(=CC(=C1OC)OC)C(=O)N2CCOCC2,not_ligand
+IODOANTIPYRINE,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)I,not_ligand
+Sulisobenzone,COC1=C(C=C(C(=C1)O)C(=O)C2=CC=CC=C2)S(=O)(=O)O,not_ligand
+Scyllo-inositol,C1(C(C(C(C(C1O)O)O)O)O)O,not_ligand
+Trometamol,C(C(CO)(CO)N)O,not_ligand
+Methandienone,CC12CCC3C(C1CCC2(C)O)CCC4=CC(=O)C=CC34C,not_ligand
+tegafur,C1CC(OC1)N2C=C(C(=O)NC2=O)F,not_ligand
+tiopronin,CC(C(=O)NCC(=O)O)S,not_ligand
+S-(Carboxymethyl)cysteine,C(C(C(=O)O)N)SCC(=O)O,not_ligand
+PAMIDRONIC ACID,C(CN)C(O)(P(=O)(O)O)P(=O)(O)O,not_ligand
+temazepam,CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3,not_ligand
+PARETHOXYCAINE,CCN(CC)CCOC(=O)C1=CC=C(C=C1)OCC,not_ligand
+Tinoridine,CCOC(=O)C1=C(SC2=C1CCN(C2)CC3=CC=CC=C3)N,not_ligand
+ZILEUTON,CC(C1=CC2=CC=CC=C2S1)N(C(=O)N)O,not_ligand
+METHYL NICOTINATE,COC(=O)C1=CN=CC=C1,not_ligand
+Oxytetracycline dihydrate,CC1(C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O.O.O,not_ligand
+Rimantadine hydrochloride,CC(C12CC3CC(C1)CC(C3)C2)N.Cl,not_ligand
+phenobarbital,CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2,not_ligand
+Sildenafil citrate,CCCC1=NN(C2=C1NC(=NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O,not_ligand
+quinidine,COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O,not_ligand
+N-Cyclohexyl-2-benzothiazolesulfenamide,C1CCC(CC1)NSC2=NC3=CC=CC=C3S2,not_ligand
+THYMOL IODIDE,CC1=CC(=C(C=C1C2=CC(=C(C=C2C)OI)C(C)C)C(C)C)OI,not_ligand
+meloxicam,CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O,not_ligand
+RABEPRAZOLE SODIUM,CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3[N-]2)OCCCOC.[Na+],not_ligand
+Valacyclovir hydrochloride,CC(C)C(C(=O)OCCOCN1C=NC2=C1NC(=NC2=O)N)N.Cl,not_ligand
+THIOPENTAL SODIUM,CCCC(C)C1(C(=O)NC(=NC1=O)[S-])CC.[Na+],not_ligand
+Salacetamide,CC(=O)NC(=O)C1=CC=CC=C1O,not_ligand
+Metocinium iodide,C[N+](C)(C)CCOC(=O)C(C1=CC=CC=C1)(C2=CC=CC=C2)O.[I-],not_ligand
+PRANOLIUM CHLORIDE,CC(C)[N+](C)(C)CC(COC1=CC=CC2=CC=CC=C21)O.[Cl-],not_ligand
+Tetridamine,CNC1=C2CCCCC2=NN1C,not_ligand
+Pincainide,CC1=C(C(=CC=C1)C)NC(=O)CN2CCCCCC2,not_ligand
+TETRABENAZINE,CC(C)CC1CN2CCC3=CC(=C(C=C3C2CC1=O)OC)OC,not_ligand
+Riodipine,CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2OC(F)F)C(=O)OC,not_ligand
+Pyrrocaine,CC1=C(C(=CC=C1)C)NC(=O)CN2CCCC2,not_ligand
+Morinamide,C1COCCN1CNC(=O)C2=NC=CN=C2,not_ligand
+Pivagabine,CC(C)(C)C(=O)NCCCC(=O)O,not_ligand
+Lozilurea,CCNC(=O)NCC1=CC(=CC=C1)Cl,not_ligand
+SULFALENE,COC1=NC=CN=C1NS(=O)(=O)C2=CC=C(C=C2)N,not_ligand
+Tritiozine,COC1=CC(=CC(=C1OC)OC)C(=S)N2CCOCC2,not_ligand
+ORBIFLOXACIN,CC1CN(CC(N1)C)C2=C(C3=C(C(=C2F)F)C(=O)C(=CN3C4CC4)C(=O)O)F,not_ligand
+zaleplon,CCN(C1=CC=CC(=C1)C2=CC=NC3=C(C=NN23)C#N)C(=O)C,not_ligand
+tizanidine,C1CN=C(N1)NC2=C(C=CC3=NSN=C32)Cl,not_ligand
+Mexenone,CC1=CC=C(C=C1)C(=O)C2=C(C=C(C=C2)OC)O,not_ligand
+SUCROSE OCTAACETATE,CC(=O)OCC1C(C(C(C(O1)OC2(C(C(C(O2)COC(=O)C)OC(=O)C)OC(=O)C)COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C,not_ligand
+Sulazepam,CN1C(=S)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3,not_ligand
+Sulfasuccinamide,C1=CC(=CC=C1NC(=O)CCC(=O)O)S(=O)(=O)N,not_ligand
+Sulfaethidole,CCC1=NN=C(S1)NS(=O)(=O)C2=CC=C(C=C2)N,not_ligand
+Propyl 4-aminobenzoate,CCCOC(=O)C1=CC=C(C=C1)N,not_ligand
+Quinelorane,CCCN1CCCC2C1CC3=CN=C(N=C3C2)N,not_ligand
+Talipexole,C=CCN1CCC2=C(CC1)SC(=N2)N,not_ligand
+Pizotifen,CN1CCC(=C2C3=C(CCC4=CC=CC=C42)SC=C3)CC1,not_ligand
+neostigmine bromide,CN(C)C(=O)OC1=CC=CC(=C1)[N+](C)(C)C.[Br-],not_ligand
+TIOTIDINE,CN=C(NCCSCC1=CSC(=N1)N=C(N)N)NC#N,not_ligand
+suramin,CC1=C(C=C(C=C1)C(=O)NC2=C3C(=CC(=CC3=C(C=C2)S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O)NC(=O)C4=CC(=CC=C4)NC(=O)NC5=CC=CC(=C5)C(=O)NC6=C(C=CC(=C6)C(=O)NC7=C8C(=CC(=CC8=C(C=C7)S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O)C,not_ligand
+O-phospho-L-serine,C(C(C(=O)O)N)OP(=O)(O)O,not_ligand
+TRIETHYLENE GLYCOL,C(COCCOCCO)O,not_ligand
+OCTRIZOLE,CC(C)(C)CC(C)(C)C1=CC(=C(C=C1)O)N2N=C3C=CC=CC3=N2,not_ligand
+Octabenzone,CCCCCCCCOC1=CC(=C(C=C1)C(=O)C2=CC=CC=C2)O,not_ligand
+sucrose,C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)CO)O)O)O)O,not_ligand
+Olaquindox,CC1=C([N+](=O)C2=CC=CC=C2N1[O-])C(=O)NCCO,not_ligand
+TRICHLOROISOCYANURIC ACID,C1(=O)N(C(=O)N(C(=O)N1Cl)Cl)Cl,not_ligand
+palmitic acid,CCCCCCCCCCCCCCCC(=O)O,not_ligand
+NCGC00164362-01,CCCCCCCCCC(CC)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],not_ligand
+SULFISOMIDINE,CC1=CC(=NC(=N1)C)NS(=O)(=O)C2=CC=C(C=C2)N,not_ligand
+Nithiamide,CC(=O)NC1=NC=C(S1)[N+](=O)[O-],not_ligand
+UNII-0180PBK4FC,C1=C(OC(=C1)[N+](=O)[O-])C=NNC(=O)C(=O)N,not_ligand
+Nifuroxime,C1=C(OC(=C1)[N+](=O)[O-])C=NO,not_ligand
+Sulfonmethane,CCS(=O)(=O)C(C)(C)S(=O)(=O)CC,not_ligand
