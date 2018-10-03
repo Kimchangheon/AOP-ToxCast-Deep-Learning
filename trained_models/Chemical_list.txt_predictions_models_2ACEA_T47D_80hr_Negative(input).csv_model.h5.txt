@@ -1,0 +1,55 @@
+Chemical Name	Prediction
+PHMG	ligand
+DDAC	not_ligand
+PGH	ligand
+MIT	not_ligand
+CMIT	not_ligand
+SDT	ligand
+Bleomycin	ligand
+Rotenone	not_ligand
+Disulfiram	not_ligand
+HCCPD	not_ligand
+Rosiglitazone	ligand
+Troglitazone	not_ligand
+SR 16832	ligand
+SB 525334	ligand
+SRI-011381 hydrochloride	ligand
+As(Sodium arsenite)	ligand
+Cd(Cadmium chloride)	ligand
+Lead(II) Iodide	ligand
+4-Nonylphenol	not_ligand
+DEHP	ligand
+BPA	not_ligand
+Formaldehyde	ligand
+Benzene	ligand
+o-Nitrotoluene	ligand
+o-Tolidine	ligand
+Toluene	ligand
+Benzo(a)pyrene	ligand
+Hexahydrobenzene	ligand
+N,N-Dimethylaniline	ligand
+Ethyl acetate	ligand
+Benzyl butyl phthalate (BBP)	ligand
+Naphthalene	ligand
+N,N-Diethyl-m-toluidine	ligand
+Nitrobenzene	ligand
+Dimethyl-p-toluidine	ligand
+p-Nitrotoluene	ligand
+4-(1,1,3,3-Tetramethylbutyl)phenol	not_ligand
+Aniline	ligand
+Methylene chloride	ligand
+N,N-Diethylaniline	ligand
+Isobutyl methacrylate	ligand
+Methylaniline	ligand
+Dicyclohexylamine 	ligand
+Cyanoethylene	ligand
+Methacrylonitrile	ligand
+Triclosan	not_ligand
+BPB	not_ligand
+BPF	ligand
+BPE	not_ligand
+BPS	ligand
+Chloropyrifos	not_ligand
+Glutaral	not_ligand
+Valporic acid	ligand
+Phenobarbital	ligand

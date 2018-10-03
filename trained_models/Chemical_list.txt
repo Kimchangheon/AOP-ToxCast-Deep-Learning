@@ -25,6 +25,7 @@ Benzene	C1=CC=CC=C1
 o-Nitrotoluene	CC1=CC=CC=C1[N+](=O)[O-]
 o-Tolidine	CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)C)N
 Toluene	CC1=CC=CC=C1
+Benzo(a)pyrene	C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC=C5)C=C3
 Hexahydrobenzene	C1CCCCC1
 "N,N-Dimethylaniline"	CN(C)C1=CC=CC=C1
 Ethyl acetate	CCOC(=O)C
