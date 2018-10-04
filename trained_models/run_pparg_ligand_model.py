@@ -62,7 +62,7 @@ def main():
             y_prediction = "ligand"
         else:
             y_prediction = "not_ligand"
-        outfile.write(dataframe['Chemical_Name'][i] + "\t" + y_prediction + "\n")
+        outfile.write(dataframe['Chemical_Name'][i] + "\t" + y_prediction + "\t" + repr(prediction) + "\n")
         i += 1
     outfile.close()
 

@@ -45,6 +45,7 @@ def main():
         np_fps.append(arr)
 
     np_fps_array = numpy.array(np_fps)
+    #https://datascience.stackexchange.com/questions/36238/what-does-the-output-of-model-predict-function-from-keras-mean
     predictions = model.predict(np_fps_array, batch_size=5)
     i = 0
     for prediction in predictions:
@@ -53,7 +54,8 @@ def main():
             y_prediction = "ligand"
         else:
             y_prediction = "not_ligand"
-        outfile.write(dataframe['Chemical_Name'][i] + "\t" + y_prediction + "\n")
+        j = float(prediction)
+        outfile.write(dataframe['Chemical_Name'][i] + "\t" + y_prediction + "\t" + repr(prediction) + "\n")
         i += 1
     outfile.close()
 
